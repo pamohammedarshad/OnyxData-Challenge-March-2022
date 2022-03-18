@@ -1,0 +1,2774 @@
+Order NO,Order Date,Month/Yr,Day of Week,Pie Flavor,Quantity,Cost,Slice Or Whole Pie,Pre-Order/In-Store Purchase,Organic?
+10001,19-12-2019,01-12-2019,Thursday,Apple,5,12.5,Slice,Pre-Order,No
+10002,19-12-2019,01-12-2019,Thursday,Apple,3,60,Whole,In-Store,Yes
+10003,19-12-2019,01-12-2019,Thursday,Apple,3,60,Whole,In-Store,No
+10004,19-12-2019,01-12-2019,Thursday,Apple,4,80,Whole,Pre-Order,No
+10005,19-12-2019,01-12-2019,Thursday,Apple,2,40,Whole,In-Store,No
+10006,19-12-2019,01-12-2019,Thursday,Apple,3,60,Whole,Pre-Order,No
+10007,19-12-2019,01-12-2019,Thursday,Apple,3,60,Whole,Pre-Order,No
+10008,19-12-2019,01-12-2019,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+10009,22-12-2020,01-12-2020,Tuesday,Cherry,3,60,Whole,In-Store,No
+10010,22-12-2020,01-12-2020,Tuesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+10011,22-12-2020,01-12-2020,Tuesday,Cherry,4,10,Slice,Pre-Order,Yes
+10012,22-12-2020,01-12-2020,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10013,22-12-2020,01-12-2020,Tuesday,Cherry,2,5,Slice,In-Store,Yes
+10014,22-12-2020,01-12-2020,Tuesday,Cherry,1,20,Whole,In-Store,Yes
+10015,22-12-2020,01-12-2020,Tuesday,Apple,4,80,Whole,Pre-Order,Yes
+10016,22-12-2020,01-12-2020,Tuesday,Cherry,4,80,Whole,In-Store,Yes
+10017,22-12-2020,01-12-2020,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10018,22-12-2020,01-12-2020,Tuesday,Apple,1,20,Whole,Pre-Order,Yes
+10019,22-12-2020,01-12-2020,Tuesday,Apple,5,100,Whole,Pre-Order,Yes
+10020,22-05-2021,01-05-2021,Saturday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10021,22-05-2021,01-05-2021,Saturday,Apple,3,60,Whole,In-Store,Yes
+10022,22-05-2021,01-05-2021,Saturday,Apple,4,80,Whole,In-Store,Yes
+10023,22-05-2021,01-05-2021,Saturday,Fudge,2,40,Whole,In-Store,Yes
+10024,22-05-2021,01-05-2021,Saturday,Fudge,4,80,Whole,In-Store,Yes
+10025,22-05-2021,01-05-2021,Saturday,Apple,1,2.5,Slice,Pre-Order,Yes
+10026,22-05-2021,01-05-2021,Saturday,Fudge,1,2.5,Slice,Pre-Order,Yes
+10027,22-05-2021,01-05-2021,Saturday,Pumpkin,2,40,Whole,Pre-Order,Yes
+10028,22-05-2021,01-05-2021,Saturday,Fudge,4,10,Slice,In-Store,Yes
+10029,22-05-2021,01-05-2021,Saturday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10030,22-05-2021,01-05-2021,Saturday,Fudge,4,10,Slice,Pre-Order,Yes
+10031,22-05-2021,01-05-2021,Saturday,Fudge,4,10,Slice,In-Store,Yes
+10032,22-05-2021,01-05-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10033,22-05-2021,01-05-2021,Saturday,Blueberry,1,20,Whole,In-Store,Yes
+10034,01-11-2021,01-11-2021,Monday,Apple,3,7.5,Slice,Pre-Order,Yes
+10035,01-11-2021,01-11-2021,Monday,Apple,5,12.5,Slice,Pre-Order,Yes
+10036,01-11-2021,01-11-2021,Monday,Apple,5,12.5,Slice,Pre-Order,Yes
+10037,01-11-2021,01-11-2021,Monday,Apple,5,12.5,Slice,In-Store,Yes
+10038,01-11-2021,01-11-2021,Monday,Apple,4,10,Slice,Pre-Order,Yes
+10039,01-11-2021,01-11-2021,Monday,Apple,3,7.5,Slice,In-Store,Yes
+10040,01-11-2021,01-11-2021,Monday,Apple,3,60,Whole,Pre-Order,Yes
+10041,01-11-2021,01-11-2021,Monday,Apple,3,60,Whole,Pre-Order,Yes
+10042,01-11-2021,01-11-2021,Monday,Apple,4,10,Slice,Pre-Order,Yes
+10043,01-11-2021,01-11-2021,Monday,Cherry,4,80,Whole,Pre-Order,Yes
+10044,01-11-2021,01-11-2021,Monday,Fudge,4,80,Whole,In-Store,Yes
+10045,01-11-2021,01-11-2021,Monday,Pumpkin,1,20,Whole,In-Store,Yes
+10046,01-11-2021,01-11-2021,Monday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10047,18-11-2020,01-11-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10048,18-11-2020,01-11-2020,Wednesday,Cherry,4,10,Slice,Pre-Order,Yes
+10049,18-11-2020,01-11-2020,Wednesday,Cherry,4,10,Slice,Pre-Order,Yes
+10050,18-11-2020,01-11-2020,Wednesday,Apple,4,80,Whole,Pre-Order,Yes
+10051,18-11-2020,01-11-2020,Wednesday,Cherry,3,60,Whole,Pre-Order,Yes
+10052,18-11-2020,01-11-2020,Wednesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10053,18-11-2021,01-11-2021,Wednesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+10054,18-11-2021,01-11-2021,Wednesday,Fudge,4,80,Whole,Pre-Order,Yes
+10055,18-11-2021,01-11-2021,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10056,18-11-2021,01-11-2021,Wednesday,Pumpkin,3,60,Whole,In-Store,Yes
+10057,18-11-2021,01-11-2021,Wednesday,Blueberry,2,40,Whole,Pre-Order,Yes
+10058,18-11-2021,01-11-2021,Wednesday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10059,18-11-2021,01-11-2021,Wednesday,Fudge,1,20,Whole,Pre-Order,Yes
+10060,18-11-2021,01-11-2021,Wednesday,Fudge,2,5,Slice,Pre-Order,Yes
+10061,18-11-2021,01-11-2021,Wednesday,Blueberry,4,80,Whole,Pre-Order,Yes
+10062,18-11-2021,01-11-2021,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+10063,18-11-2021,01-11-2021,Wednesday,Fudge,2,40,Whole,In-Store,Yes
+10064,18-11-2021,01-11-2021,Wednesday,Fudge,3,60,Whole,In-Store,Yes
+10065,18-11-2021,01-11-2021,Wednesday,Apple,5,100,Whole,Pre-Order,Yes
+10066,18-11-2021,01-11-2021,Wednesday,Apple,1,20,Whole,Pre-Order,Yes
+10067,18-11-2021,01-11-2021,Wednesday,Blueberry,3,60,Whole,In-Store,Yes
+10068,18-11-2021,01-11-2021,Wednesday,Apple,3,60,Whole,Pre-Order,Yes
+10069,01-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10070,01-07-2021,01-07-2021,Thursday,Blueberry,1,20,Whole,Pre-Order,Yes
+10071,01-07-2021,01-07-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+10072,01-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10073,01-07-2021,01-07-2021,Thursday,Other,2,40,Whole,Pre-Order,Yes
+10074,01-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10075,01-07-2021,01-07-2021,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+10076,01-07-2021,01-07-2021,Thursday,Blueberry,5,100,Whole,Pre-Order,Yes
+10077,01-07-2021,01-07-2021,Thursday,Other,5,12.5,Slice,In-Store,Yes
+10078,25-09-2021,01-09-2021,Saturday,Apple,2,40,Whole,Pre-Order,No
+10079,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10080,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10081,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+10082,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,No
+10083,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+10084,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10085,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+10086,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10087,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+10088,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10089,08-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+10090,24-12-2020,01-12-2020,Thursday,Apple,3,60,Whole,Pre-Order,No
+10091,24-12-2020,01-12-2020,Thursday,Apple,5,100,Whole,Pre-Order,No
+10092,24-12-2020,01-12-2020,Thursday,Apple,3,7.5,Slice,In-Store,No
+10093,24-12-2020,01-12-2020,Thursday,Apple,4,80,Whole,In-Store,Yes
+10094,24-12-2020,01-12-2020,Thursday,Apple,1,2.5,Slice,Pre-Order,No
+10095,25-06-2021,01-06-2021,Friday,Apple,1,20,Whole,In-Store,Yes
+10096,25-06-2021,01-06-2021,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10097,25-06-2021,01-06-2021,Friday,Apple,5,100,Whole,Pre-Order,No
+10098,25-06-2021,01-06-2021,Friday,Apple,2,40,Whole,Pre-Order,Yes
+10099,25-06-2021,01-06-2021,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+10100,25-06-2021,01-06-2021,Friday,Apple,3,7.5,Slice,In-Store,No
+10101,25-06-2021,01-06-2021,Friday,Apple,1,2.5,Slice,Pre-Order,Yes
+10102,25-06-2021,01-06-2021,Friday,Apple,5,100,Whole,Pre-Order,No
+10103,15-11-2019,01-11-2019,Friday,Apple,4,80,Whole,Pre-Order,Yes
+10104,15-11-2019,01-11-2019,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+10105,15-11-2019,01-11-2019,Friday,Pumpkin,3,60,Whole,In-Store,Yes
+10106,15-11-2019,01-11-2019,Friday,Apple,2,40,Whole,In-Store,No
+10107,15-11-2019,01-11-2019,Friday,Pumpkin,5,12.5,Slice,Pre-Order,No
+10108,15-11-2019,01-11-2019,Friday,Pumpkin,5,100,Whole,Pre-Order,No
+10109,15-11-2019,01-11-2019,Friday,Pumpkin,3,60,Whole,In-Store,No
+10110,15-11-2019,01-11-2019,Friday,Pumpkin,2,40,Whole,In-Store,No
+10111,15-11-2019,01-11-2019,Friday,Pumpkin,3,60,Whole,In-Store,Yes
+10112,10-04-2020,01-04-2020,Friday,Cherry,5,100,Whole,Pre-Order,Yes
+10113,10-11-2020,01-11-2020,Tuesday,Apple,1,20,Whole,In-Store,No
+10114,10-04-2020,01-04-2020,Friday,Cherry,1,20,Whole,Pre-Order,No
+10115,10-04-2020,01-04-2020,Friday,Cherry,2,40,Whole,In-Store,No
+10116,10-11-2020,01-11-2020,Tuesday,Apple,1,20,Whole,Pre-Order,No
+10117,10-04-2020,01-04-2020,Friday,Cherry,3,7.5,Slice,In-Store,Yes
+10118,10-04-2020,01-04-2020,Friday,Cherry,2,5,Slice,In-Store,No
+10119,10-04-2020,01-04-2020,Friday,Cherry,5,100,Whole,Pre-Order,Yes
+10120,10-11-2020,01-11-2020,Tuesday,Apple,1,20,Whole,Pre-Order,No
+10121,10-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,Pre-Order,No
+10122,10-11-2020,01-11-2020,Tuesday,Pumpkin,4,10,Slice,Pre-Order,No
+10123,10-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+10124,08-05-2021,01-05-2021,Saturday,Fudge,2,40,Whole,Pre-Order,Yes
+10125,08-05-2021,01-05-2021,Saturday,Apple,2,5,Slice,Pre-Order,No
+10126,08-05-2021,01-05-2021,Saturday,Fudge,1,20,Whole,In-Store,No
+10127,08-05-2021,01-05-2021,Saturday,Apple,2,5,Slice,In-Store,No
+10128,08-05-2021,01-05-2021,Saturday,Fudge,4,80,Whole,In-Store,No
+10129,14-02-2020,01-02-2020,Friday,Apple,4,80,Whole,In-Store,Yes
+10130,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+10131,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+10132,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10133,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10134,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10135,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10136,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,4,80,Whole,Pre-Order,No
+10137,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10138,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10139,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10140,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+10141,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+10142,14-02-2020,01-02-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10143,14-10-2020,01-10-2020,Wednesday,Apple,4,10,Slice,In-Store,Yes
+10144,14-10-2020,01-10-2020,Wednesday,Apple,2,40,Whole,Pre-Order,No
+10145,14-10-2020,01-10-2020,Wednesday,Apple,1,2.5,Slice,In-Store,No
+10146,14-10-2020,01-10-2020,Wednesday,Apple,3,7.5,Slice,In-Store,No
+10147,14-10-2020,01-10-2020,Wednesday,Apple,4,80,Whole,In-Store,Yes
+10148,14-10-2020,01-10-2020,Wednesday,Pumpkin,2,5,Slice,In-Store,No
+10149,14-10-2020,01-10-2020,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10150,14-10-2020,01-10-2020,Wednesday,Pumpkin,2,5,Slice,Pre-Order,No
+10151,14-10-2020,01-10-2020,Wednesday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10152,14-10-2020,01-10-2020,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,No
+10153,14-10-2020,01-10-2020,Wednesday,Pumpkin,2,5,Slice,Pre-Order,No
+10154,14-10-2020,01-10-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+10155,14-10-2020,01-10-2020,Wednesday,Pumpkin,4,80,Whole,Pre-Order,No
+10156,25-06-2021,01-06-2021,Friday,Cherry,3,60,Whole,In-Store,Yes
+10157,25-06-2021,01-06-2021,Friday,Apple,4,10,Slice,In-Store,No
+10158,25-06-2021,01-06-2021,Friday,Cherry,4,80,Whole,Pre-Order,Yes
+10159,25-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10160,25-06-2021,01-06-2021,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+10161,25-06-2021,01-06-2021,Friday,Cherry,2,5,Slice,In-Store,Yes
+10162,25-06-2021,01-06-2021,Friday,Cherry,5,12.5,Slice,Pre-Order,No
+10163,25-06-2021,01-06-2021,Friday,Cherry,2,5,Slice,Pre-Order,No
+10164,25-06-2021,01-06-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+10165,12-08-2021,01-08-2021,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+10166,12-08-2021,01-08-2021,Thursday,Apple,4,80,Whole,In-Store,No
+10167,12-08-2021,01-08-2021,Thursday,Apple,2,5,Slice,In-Store,Yes
+10168,12-08-2021,01-08-2021,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10169,12-08-2021,01-08-2021,Thursday,Cherry,5,100,Whole,Pre-Order,No
+10170,12-08-2021,01-08-2021,Thursday,Apple,3,60,Whole,In-Store,Yes
+10171,12-08-2021,01-08-2021,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+10172,12-08-2021,01-08-2021,Thursday,Apple,4,80,Whole,Pre-Order,No
+10173,12-08-2021,01-08-2021,Thursday,Cherry,1,2.5,Slice,In-Store,Yes
+10174,12-08-2021,01-08-2021,Thursday,Cherry,4,10,Slice,Pre-Order,Yes
+10175,07-12-2019,01-12-2019,Saturday,Apple,1,20,Whole,In-Store,Yes
+10176,07-12-2019,01-12-2019,Saturday,Apple,4,80,Whole,In-Store,No
+10177,07-12-2019,01-12-2019,Saturday,Pumpkin,5,100,Whole,In-Store,Yes
+10178,12-04-2020,01-04-2020,Sunday,Fudge,4,10,Slice,Pre-Order,Yes
+10179,12-04-2020,01-04-2020,Sunday,Fudge,5,100,Whole,In-Store,Yes
+10180,12-04-2020,01-04-2020,Sunday,Fudge,3,60,Whole,Pre-Order,No
+10181,12-04-2020,01-04-2020,Sunday,Fudge,1,20,Whole,In-Store,Yes
+10182,12-04-2020,01-04-2020,Sunday,Fudge,4,10,Slice,In-Store,No
+10183,12-04-2020,01-04-2020,Sunday,Apple,3,60,Whole,In-Store,No
+10184,12-04-2020,01-04-2020,Sunday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10185,12-04-2020,01-04-2020,Sunday,Blueberry,3,7.5,Slice,In-Store,Yes
+10186,12-04-2020,01-04-2020,Sunday,Apple,3,60,Whole,In-Store,No
+10187,12-04-2020,01-04-2020,Sunday,Blueberry,1,2.5,Slice,In-Store,Yes
+10188,12-04-2020,01-04-2020,Sunday,Apple,5,12.5,Slice,Pre-Order,Yes
+10189,12-11-2020,01-11-2020,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10190,31-08-2021,01-08-2021,Tuesday,Blueberry,1,20,Whole,In-Store,No
+10191,31-08-2021,01-08-2021,Tuesday,Blueberry,4,80,Whole,Pre-Order,No
+10192,31-08-2021,01-08-2021,Tuesday,Blueberry,3,60,Whole,In-Store,No
+10193,31-08-2021,01-08-2021,Tuesday,Blueberry,2,40,Whole,In-Store,Yes
+10194,31-08-2021,01-08-2021,Tuesday,Blueberry,1,2.5,Slice,Pre-Order,No
+10195,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10196,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+10197,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10198,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+10199,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10200,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10201,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10202,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10203,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10204,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10205,06-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10206,06-08-2019,01-08-2019,Tuesday,Pumpkin,2,5,Slice,In-Store,Yes
+10207,06-08-2019,01-08-2019,Tuesday,Pumpkin,2,5,Slice,In-Store,Yes
+10208,06-08-2019,01-08-2019,Tuesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10209,06-08-2019,01-08-2019,Tuesday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10210,06-08-2019,01-08-2019,Tuesday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10211,01-05-2020,01-05-2020,Friday,Fudge,4,10,Slice,Pre-Order,Yes
+10212,01-05-2020,01-05-2020,Friday,Fudge,1,2.5,Slice,Pre-Order,Yes
+10213,01-05-2020,01-05-2020,Friday,Fudge,2,40,Whole,In-Store,Yes
+10214,01-05-2020,01-05-2020,Friday,Fudge,5,100,Whole,Pre-Order,Yes
+10215,01-05-2020,01-05-2020,Friday,Fudge,2,5,Slice,In-Store,Yes
+10216,01-05-2020,01-05-2020,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+10217,21-04-2021,01-04-2021,Wednesday,Pumpkin,2,5,Slice,Pre-Order,Yes
+10218,21-04-2021,01-04-2021,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10219,21-11-2021,01-11-2021,Sunday,Pumpkin,2,5,Slice,In-Store,Yes
+10220,21-11-2021,01-11-2021,Sunday,Pumpkin,1,20,Whole,In-Store,Yes
+10221,23-10-2019,01-10-2019,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+10222,23-10-2019,01-10-2019,Wednesday,Apple,2,40,Whole,Pre-Order,Yes
+10223,23-10-2019,01-10-2019,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+10224,23-10-2019,01-10-2019,Wednesday,Apple,1,2.5,Slice,Pre-Order,Yes
+10225,02-03-2021,01-03-2021,Tuesday,Pumpkin,1,20,Whole,In-Store,Yes
+10226,02-03-2021,01-03-2021,Tuesday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10227,30-04-2021,01-04-2021,Friday,Apple,1,2.5,Slice,Pre-Order,Yes
+10228,23-07-2020,01-07-2020,Thursday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+10229,23-07-2020,01-07-2020,Thursday,Apple,1,20,Whole,In-Store,Yes
+10230,23-07-2020,01-07-2020,Thursday,Apple,4,80,Whole,In-Store,Yes
+10231,23-07-2020,01-07-2020,Thursday,Blueberry,4,80,Whole,Pre-Order,Yes
+10232,23-07-2020,01-07-2020,Thursday,Other,2,5,Slice,Pre-Order,Yes
+10233,24-12-2020,01-12-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+10234,24-12-2020,01-12-2020,Thursday,Blueberry,1,20,Whole,In-Store,Yes
+10235,24-12-2020,01-12-2020,Thursday,Apple,1,20,Whole,In-Store,Yes
+10236,24-12-2020,01-12-2020,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10237,24-12-2020,01-12-2020,Thursday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+10238,24-12-2020,01-12-2020,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+10239,24-12-2020,01-12-2020,Thursday,Apple,3,60,Whole,In-Store,Yes
+10240,24-12-2020,01-12-2020,Thursday,Apple,3,7.5,Slice,In-Store,Yes
+10241,24-12-2020,01-12-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+10242,24-12-2020,01-12-2020,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10243,24-12-2020,01-12-2020,Thursday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+10244,24-12-2020,01-12-2020,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+10245,24-12-2020,01-12-2020,Thursday,Apple,3,60,Whole,In-Store,Yes
+10246,24-12-2020,01-12-2020,Thursday,Fudge,1,2.5,Slice,In-Store,Yes
+10247,24-12-2020,01-12-2020,Thursday,Other,2,40,Whole,In-Store,Yes
+10248,02-11-2021,01-11-2021,Tuesday,Apple,3,60,Whole,In-Store,Yes
+10249,02-11-2021,01-11-2021,Tuesday,Apple,4,80,Whole,In-Store,Yes
+10250,02-11-2021,01-11-2021,Tuesday,Apple,5,12.5,Slice,Pre-Order,Yes
+10251,02-11-2021,01-11-2021,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+10252,02-11-2021,01-11-2021,Tuesday,Apple,4,80,Whole,In-Store,Yes
+10253,27-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10254,27-08-2019,01-08-2019,Tuesday,Apple,1,2.5,Slice,In-Store,Yes
+10255,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10256,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10257,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10258,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10259,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10260,14-04-2021,01-04-2021,Wednesday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+10261,14-04-2021,01-04-2021,Wednesday,Apple,1,20,Whole,Pre-Order,Yes
+10262,14-04-2021,01-04-2021,Wednesday,Apple,2,5,Slice,In-Store,Yes
+10263,14-04-2021,01-04-2021,Wednesday,Blueberry,1,2.5,Slice,In-Store,Yes
+10264,14-04-2021,01-04-2021,Wednesday,Apple,1,20,Whole,In-Store,Yes
+10265,14-04-2021,01-04-2021,Wednesday,Other,1,2.5,Slice,Pre-Order,Yes
+10266,24-04-2021,01-04-2021,Saturday,Cherry,2,40,Whole,Pre-Order,Yes
+10267,24-11-2021,01-11-2021,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+10268,24-11-2021,01-11-2021,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+10269,24-04-2021,01-04-2021,Saturday,Cherry,5,12.5,Slice,In-Store,Yes
+10270,24-04-2021,01-04-2021,Saturday,Cherry,4,80,Whole,Pre-Order,Yes
+10271,24-04-2021,01-04-2021,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+10272,19-11-2019,01-11-2019,Tuesday,Pumpkin,1,20,Whole,In-Store,Yes
+10273,19-11-2019,01-11-2019,Tuesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10274,19-11-2019,01-11-2019,Tuesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10275,19-11-2019,01-11-2019,Tuesday,Pumpkin,4,80,Whole,In-Store,Yes
+10276,19-11-2019,01-11-2019,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+10277,19-11-2019,01-11-2019,Tuesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+10278,19-11-2019,01-11-2019,Tuesday,Other,2,40,Whole,In-Store,Yes
+10279,19-11-2019,01-11-2019,Tuesday,Apple,2,5,Slice,Pre-Order,Yes
+10280,06-02-2020,01-02-2020,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+10281,06-02-2020,01-02-2020,Thursday,Pumpkin,2,5,Slice,Pre-Order,No
+10282,09-05-2021,01-05-2021,Sunday,Fudge,1,2.5,Slice,In-Store,No
+10283,09-05-2021,01-05-2021,Sunday,Fudge,5,12.5,Slice,Pre-Order,No
+10284,09-05-2021,01-05-2021,Sunday,Fudge,1,2.5,Slice,In-Store,Yes
+10285,09-05-2021,01-05-2021,Sunday,Fudge,3,60,Whole,In-Store,Yes
+10286,09-05-2021,01-05-2021,Sunday,Pumpkin,5,12.5,Slice,Pre-Order,No
+10287,09-05-2021,01-05-2021,Sunday,Fudge,5,100,Whole,In-Store,No
+10288,09-05-2021,01-05-2021,Sunday,Apple,2,40,Whole,Pre-Order,Yes
+10289,09-05-2021,01-05-2021,Sunday,Apple,4,10,Slice,Pre-Order,No
+10290,09-05-2021,01-05-2021,Sunday,Fudge,2,5,Slice,Pre-Order,No
+10291,04-12-2019,01-12-2019,Wednesday,Apple,3,60,Whole,In-Store,No
+10292,04-12-2019,01-12-2019,Wednesday,Apple,3,60,Whole,In-Store,No
+10293,04-12-2019,01-12-2019,Wednesday,Apple,1,2.5,Slice,In-Store,Yes
+10294,04-12-2019,01-12-2019,Wednesday,Pumpkin,3,60,Whole,In-Store,Yes
+10295,04-12-2019,01-12-2019,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10296,04-12-2019,01-12-2019,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+10297,04-12-2019,01-12-2019,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10298,14-05-2021,01-05-2021,Friday,Apple,1,2.5,Slice,Pre-Order,Yes
+10299,14-05-2021,01-05-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10300,14-05-2021,01-05-2021,Friday,Apple,2,40,Whole,In-Store,Yes
+10301,14-05-2021,01-05-2021,Friday,Pumpkin,5,12.5,Slice,In-Store,No
+10302,14-05-2021,01-05-2021,Friday,Apple,4,10,Slice,Pre-Order,Yes
+10303,14-05-2021,01-05-2021,Friday,Apple,5,100,Whole,Pre-Order,Yes
+10304,14-05-2021,01-05-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+10305,14-05-2021,01-05-2021,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+10306,14-05-2021,01-05-2021,Friday,Apple,4,10,Slice,Pre-Order,No
+10307,20-08-2021,01-08-2021,Friday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10308,20-08-2021,01-08-2021,Friday,Strawberry Rhubarb,3,7.5,Slice,In-Store,No
+10309,20-08-2021,01-08-2021,Friday,Other,3,60,Whole,Pre-Order,Yes
+10310,20-08-2021,01-08-2021,Friday,Cherry,1,20,Whole,In-Store,Yes
+10311,07-07-2020,01-07-2020,Tuesday,Cherry,3,7.5,Slice,Pre-Order,Yes
+10312,16-03-2021,01-03-2021,Tuesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+10313,16-03-2021,01-03-2021,Tuesday,Cherry,1,20,Whole,In-Store,Yes
+10314,16-03-2021,01-03-2021,Tuesday,Cherry,2,5,Slice,Pre-Order,Yes
+10315,16-03-2021,01-03-2021,Tuesday,Apple,5,100,Whole,In-Store,Yes
+10316,16-03-2021,01-03-2021,Tuesday,Cherry,1,2.5,Slice,Pre-Order,No
+10317,16-03-2021,01-03-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10318,16-03-2021,01-03-2021,Tuesday,Apple,3,60,Whole,In-Store,No
+10319,16-03-2021,01-03-2021,Tuesday,Apple,1,20,Whole,Pre-Order,Yes
+10320,16-03-2021,01-03-2021,Tuesday,Apple,5,12.5,Slice,In-Store,No
+10321,16-03-2021,01-03-2021,Tuesday,Apple,1,2.5,Slice,In-Store,No
+10322,16-03-2021,01-03-2021,Tuesday,Apple,4,10,Slice,Pre-Order,Yes
+10323,16-03-2021,01-03-2021,Tuesday,Apple,2,5,Slice,Pre-Order,No
+10324,16-03-2021,01-03-2021,Tuesday,Apple,2,5,Slice,In-Store,No
+10325,16-03-2021,01-03-2021,Tuesday,Apple,2,5,Slice,In-Store,No
+10326,16-03-2021,01-03-2021,Tuesday,Apple,3,60,Whole,Pre-Order,Yes
+10327,16-03-2021,01-03-2021,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+10328,16-03-2021,01-03-2021,Tuesday,Apple,2,5,Slice,Pre-Order,No
+10329,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+10330,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10331,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+10332,17-07-2020,01-07-2020,Friday,Other,3,60,Whole,In-Store,Yes
+10333,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+10334,17-07-2020,01-07-2020,Friday,Other,2,5,Slice,In-Store,Yes
+10335,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10336,17-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+10337,17-07-2020,01-07-2020,Friday,Cherry,1,20,Whole,In-Store,No
+10338,19-02-2021,01-02-2021,Friday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10339,19-02-2021,01-02-2021,Friday,Pumpkin,2,40,Whole,In-Store,No
+10340,19-02-2021,01-02-2021,Friday,Fudge,4,10,Slice,Pre-Order,No
+10341,19-02-2021,01-02-2021,Friday,Fudge,4,80,Whole,Pre-Order,No
+10342,19-02-2021,01-02-2021,Friday,Fudge,3,60,Whole,Pre-Order,Yes
+10343,19-02-2021,01-02-2021,Friday,Fudge,4,80,Whole,In-Store,Yes
+10344,19-02-2021,01-02-2021,Friday,Apple,5,12.5,Slice,Pre-Order,No
+10345,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10346,06-07-2019,01-07-2019,Saturday,Other,1,20,Whole,In-Store,Yes
+10347,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10348,06-07-2019,01-07-2019,Saturday,Other,2,40,Whole,Pre-Order,Yes
+10349,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10350,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10351,06-07-2019,01-07-2019,Saturday,Cherry,5,12.5,Slice,Pre-Order,Yes
+10352,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10353,06-07-2019,01-07-2019,Saturday,Cherry,4,10,Slice,Pre-Order,Yes
+10354,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10355,06-07-2019,01-07-2019,Saturday,Cherry,1,20,Whole,In-Store,Yes
+10356,06-07-2019,01-07-2019,Saturday,Cherry,3,60,Whole,Pre-Order,Yes
+10357,06-07-2019,01-07-2019,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10358,09-11-2019,01-11-2019,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+10359,09-11-2019,01-11-2019,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+10360,09-11-2019,01-11-2019,Saturday,Blueberry,3,7.5,Slice,In-Store,Yes
+10361,09-11-2019,01-11-2019,Saturday,Other,4,80,Whole,In-Store,Yes
+10362,30-11-2019,01-11-2019,Saturday,Pumpkin,4,10,Slice,In-Store,Yes
+10363,30-11-2019,01-11-2019,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10364,30-11-2019,01-11-2019,Saturday,Pumpkin,2,5,Slice,Pre-Order,Yes
+10365,30-11-2019,01-11-2019,Saturday,Apple,5,100,Whole,In-Store,Yes
+10366,30-11-2019,01-11-2019,Saturday,Pumpkin,1,20,Whole,In-Store,Yes
+10367,30-11-2019,01-11-2019,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+10368,30-11-2019,01-11-2019,Saturday,Apple,5,12.5,Slice,In-Store,Yes
+10369,30-11-2019,01-11-2019,Saturday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10370,02-03-2020,01-03-2020,Monday,Blueberry,3,7.5,Slice,In-Store,Yes
+10371,02-03-2020,01-03-2020,Monday,Blueberry,2,5,Slice,In-Store,Yes
+10372,02-03-2020,01-03-2020,Monday,Blueberry,1,20,Whole,In-Store,Yes
+10373,02-03-2020,01-03-2020,Monday,Blueberry,4,10,Slice,Pre-Order,Yes
+10374,02-03-2020,01-03-2020,Monday,Blueberry,4,10,Slice,In-Store,Yes
+10375,02-03-2020,01-03-2020,Monday,Apple,3,7.5,Slice,In-Store,Yes
+10376,02-03-2020,01-03-2020,Monday,Apple,1,2.5,Slice,Pre-Order,Yes
+10377,02-03-2020,01-03-2020,Monday,Blueberry,1,2.5,Slice,In-Store,Yes
+10378,02-03-2020,01-03-2020,Monday,Other,2,40,Whole,Pre-Order,Yes
+10379,02-03-2020,01-03-2020,Monday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10380,02-03-2020,01-03-2020,Monday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+10381,02-03-2020,01-03-2020,Monday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10382,02-03-2020,01-03-2020,Monday,Other,5,12.5,Slice,Pre-Order,Yes
+10383,12-03-2020,01-03-2020,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+10384,12-03-2020,01-03-2020,Thursday,Fudge,2,5,Slice,In-Store,Yes
+10385,23-04-2020,01-04-2020,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10386,23-04-2020,01-04-2020,Thursday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10387,23-04-2020,01-04-2020,Thursday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10388,23-04-2020,01-04-2020,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10389,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10390,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10391,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+10392,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10393,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10394,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10395,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10396,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10397,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10398,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10399,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10400,07-05-2020,01-05-2020,Thursday,Apple,3,60,Whole,In-Store,Yes
+10401,07-05-2020,01-05-2020,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+10402,07-05-2020,01-05-2020,Thursday,Apple,5,100,Whole,In-Store,Yes
+10403,07-05-2020,01-05-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+10404,07-05-2020,01-05-2020,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+10405,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10406,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10407,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10408,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10409,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10410,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10411,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10412,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10413,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10414,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10415,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10416,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10417,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10418,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10419,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10420,20-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10421,02-10-2020,01-10-2020,Friday,Apple,2,5,Slice,In-Store,Yes
+10422,02-10-2020,01-10-2020,Friday,Apple,2,5,Slice,In-Store,Yes
+10423,02-10-2020,01-10-2020,Friday,Apple,4,10,Slice,Pre-Order,Yes
+10424,02-10-2020,01-10-2020,Friday,Apple,5,100,Whole,Pre-Order,Yes
+10425,02-10-2020,01-10-2020,Friday,Apple,5,100,Whole,In-Store,Yes
+10426,02-10-2020,01-10-2020,Friday,Apple,5,100,Whole,Pre-Order,Yes
+10427,02-10-2020,01-10-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+10428,02-10-2020,01-10-2020,Friday,Apple,2,40,Whole,In-Store,Yes
+10429,02-10-2020,01-10-2020,Friday,Apple,2,5,Slice,In-Store,Yes
+10430,08-10-2020,01-10-2020,Thursday,Apple,3,7.5,Slice,In-Store,Yes
+10431,08-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10432,08-10-2020,01-10-2020,Thursday,Cherry,4,80,Whole,In-Store,Yes
+10433,08-10-2020,01-10-2020,Thursday,Cherry,2,5,Slice,Pre-Order,Yes
+10434,08-10-2020,01-10-2020,Thursday,Cherry,4,80,Whole,In-Store,Yes
+10435,08-10-2020,01-10-2020,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+10436,08-10-2020,01-10-2020,Thursday,Cherry,5,100,Whole,Pre-Order,Yes
+10437,08-10-2020,01-10-2020,Thursday,Cherry,1,2.5,Slice,Pre-Order,Yes
+10438,08-10-2020,01-10-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+10439,08-10-2020,01-10-2020,Thursday,Cherry,4,10,Slice,In-Store,Yes
+10440,08-10-2020,01-10-2020,Thursday,Cherry,5,12.5,Slice,Pre-Order,Yes
+10441,27-11-2020,01-11-2020,Friday,Fudge,4,10,Slice,Pre-Order,Yes
+10442,27-11-2020,01-11-2020,Friday,Apple,3,60,Whole,Pre-Order,Yes
+10443,27-11-2020,01-11-2020,Friday,Apple,5,12.5,Slice,In-Store,Yes
+10444,27-11-2020,01-11-2020,Friday,Fudge,3,60,Whole,In-Store,Yes
+10445,27-11-2020,01-11-2020,Friday,Fudge,5,100,Whole,Pre-Order,Yes
+10446,27-11-2020,01-11-2020,Friday,Fudge,2,40,Whole,Pre-Order,Yes
+10447,27-11-2020,01-11-2020,Friday,Fudge,2,40,Whole,In-Store,Yes
+10448,27-11-2020,01-11-2020,Friday,Fudge,1,2.5,Slice,Pre-Order,Yes
+10449,27-11-2020,01-11-2020,Friday,Fudge,1,20,Whole,Pre-Order,Yes
+10450,27-11-2020,01-11-2020,Friday,Fudge,5,12.5,Slice,In-Store,Yes
+10451,27-11-2020,01-11-2020,Friday,Apple,3,7.5,Slice,In-Store,Yes
+10452,27-11-2020,01-11-2020,Friday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10453,27-11-2020,01-11-2020,Friday,Pumpkin,3,60,Whole,In-Store,Yes
+10454,27-11-2020,01-11-2020,Friday,Apple,2,40,Whole,Pre-Order,Yes
+10455,27-11-2020,01-11-2020,Friday,Pumpkin,4,10,Slice,In-Store,Yes
+10456,27-11-2020,01-11-2020,Friday,Apple,5,12.5,Slice,In-Store,Yes
+10457,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10458,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10459,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10460,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10461,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10462,12-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10463,21-03-2021,01-03-2021,Sunday,Apple,2,5,Slice,In-Store,Yes
+10464,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10465,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10466,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10467,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10468,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10469,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10470,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10471,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10472,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10473,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10474,07-05-2021,01-05-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+10475,07-05-2021,01-05-2021,Friday,Other,1,2.5,Slice,In-Store,Yes
+10476,07-05-2021,01-05-2021,Friday,Apple,5,100,Whole,Pre-Order,Yes
+10477,07-05-2021,01-05-2021,Friday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+10478,07-05-2021,01-05-2021,Friday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10479,07-05-2021,01-05-2021,Friday,Blueberry,4,80,Whole,Pre-Order,Yes
+10480,07-05-2021,01-05-2021,Friday,Blueberry,1,2.5,Slice,In-Store,Yes
+10481,07-05-2021,01-05-2021,Friday,Cherry,1,2.5,Slice,In-Store,Yes
+10482,07-05-2021,01-05-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+10483,07-05-2021,01-05-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+10484,07-05-2021,01-05-2021,Friday,Blueberry,5,100,Whole,In-Store,Yes
+10485,07-05-2021,01-05-2021,Friday,Blueberry,4,80,Whole,In-Store,Yes
+10486,07-05-2021,01-05-2021,Friday,Blueberry,2,40,Whole,Pre-Order,Yes
+10487,07-05-2021,01-05-2021,Friday,Other,5,12.5,Slice,Pre-Order,Yes
+10488,07-05-2021,01-05-2021,Friday,Blueberry,5,100,Whole,In-Store,Yes
+10489,07-05-2021,01-05-2021,Friday,Blueberry,2,5,Slice,Pre-Order,Yes
+10490,07-05-2021,01-05-2021,Friday,Other,5,12.5,Slice,Pre-Order,Yes
+10491,12-05-2021,01-05-2021,Wednesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+10492,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10493,12-05-2021,01-05-2021,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+10494,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10495,12-05-2021,01-05-2021,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+10496,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10497,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10498,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10499,12-05-2021,01-05-2021,Wednesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10500,12-05-2021,01-05-2021,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+10501,15-05-2021,01-05-2021,Saturday,Cherry,2,40,Whole,Pre-Order,Yes
+10502,15-05-2021,01-05-2021,Saturday,Cherry,2,5,Slice,In-Store,Yes
+10503,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10504,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10505,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10506,15-05-2021,01-05-2021,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+10507,15-05-2021,01-05-2021,Saturday,Cherry,1,2.5,Slice,Pre-Order,No
+10508,15-05-2021,01-05-2021,Saturday,Apple,4,10,Slice,In-Store,Yes
+10509,15-05-2021,01-05-2021,Saturday,Cherry,5,12.5,Slice,In-Store,No
+10510,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10511,15-05-2021,01-05-2021,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+10512,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10513,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10514,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+10515,16-07-2021,01-07-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10516,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,No
+10517,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10518,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10519,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10520,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10521,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+10522,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+10523,16-07-2021,01-07-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10524,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+10525,16-07-2021,01-07-2021,Friday,Apple,3,7.5,Slice,In-Store,Yes
+10526,16-07-2021,01-07-2021,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+10527,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10528,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10529,16-07-2021,01-07-2021,Friday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+10530,22-07-2021,01-07-2021,Thursday,Apple,5,100,Whole,In-Store,No
+10531,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10532,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+10533,22-07-2021,01-07-2021,Thursday,Apple,2,5,Slice,In-Store,Yes
+10534,22-07-2021,01-07-2021,Thursday,Apple,4,80,Whole,Pre-Order,No
+10535,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+10536,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+10537,22-07-2021,01-07-2021,Thursday,Apple,3,7.5,Slice,In-Store,No
+10538,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10539,22-07-2021,01-07-2021,Thursday,Apple,1,20,Whole,In-Store,No
+10540,22-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10541,22-07-2021,01-07-2021,Thursday,Apple,2,40,Whole,Pre-Order,No
+10542,22-07-2021,01-07-2021,Thursday,Apple,2,40,Whole,Pre-Order,No
+10543,28-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10544,28-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10545,28-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10546,28-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+10547,28-07-2021,01-07-2021,Wednesday,Cherry,3,60,Whole,In-Store,No
+10548,28-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10549,28-07-2021,01-07-2021,Wednesday,Apple,2,5,Slice,In-Store,No
+10550,28-07-2021,01-07-2021,Wednesday,Other,3,60,Whole,Pre-Order,No
+10551,28-07-2021,01-07-2021,Wednesday,Apple,4,10,Slice,In-Store,No
+10552,28-07-2021,01-07-2021,Wednesday,Other,1,2.5,Slice,Pre-Order,Yes
+10553,28-07-2021,01-07-2021,Wednesday,Cherry,2,5,Slice,In-Store,No
+10554,28-07-2021,01-07-2021,Wednesday,Other,1,2.5,Slice,Pre-Order,Yes
+10555,28-07-2021,01-07-2021,Wednesday,Cherry,1,20,Whole,Pre-Order,No
+10556,04-08-2021,01-08-2021,Wednesday,Fudge,5,100,Whole,In-Store,No
+10557,04-08-2021,01-08-2021,Wednesday,Blueberry,5,12.5,Slice,In-Store,No
+10558,04-08-2021,01-08-2021,Wednesday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+10559,04-08-2021,01-08-2021,Wednesday,Blueberry,1,2.5,Slice,In-Store,No
+10560,04-08-2021,01-08-2021,Wednesday,Blueberry,4,10,Slice,In-Store,No
+10561,04-08-2021,01-08-2021,Wednesday,Apple,2,5,Slice,Pre-Order,Yes
+10562,04-08-2021,01-08-2021,Wednesday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10563,04-08-2021,01-08-2021,Wednesday,Fudge,4,80,Whole,Pre-Order,Yes
+10564,04-08-2021,01-08-2021,Wednesday,Apple,4,10,Slice,Pre-Order,Yes
+10565,04-08-2021,01-08-2021,Wednesday,Blueberry,3,60,Whole,Pre-Order,No
+10566,04-08-2021,01-08-2021,Wednesday,Fudge,3,60,Whole,In-Store,Yes
+10567,04-08-2021,01-08-2021,Wednesday,Fudge,3,7.5,Slice,In-Store,Yes
+10568,04-08-2021,01-08-2021,Wednesday,Blueberry,2,40,Whole,Pre-Order,Yes
+10569,04-08-2021,01-08-2021,Wednesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10570,04-08-2021,01-08-2021,Wednesday,Fudge,4,80,Whole,In-Store,No
+10571,04-08-2021,01-08-2021,Wednesday,Fudge,4,80,Whole,Pre-Order,No
+10572,04-08-2021,01-08-2021,Wednesday,Fudge,4,10,Slice,In-Store,Yes
+10573,04-08-2021,01-08-2021,Wednesday,Fudge,5,100,Whole,Pre-Order,No
+10574,18-08-2021,01-08-2021,Wednesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+10575,18-08-2021,01-08-2021,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10576,18-08-2021,01-08-2021,Wednesday,Cherry,3,60,Whole,Pre-Order,Yes
+10577,18-08-2021,01-08-2021,Wednesday,Other,5,100,Whole,Pre-Order,Yes
+10578,18-08-2021,01-08-2021,Wednesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10579,18-08-2021,01-08-2021,Wednesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10580,18-08-2021,01-08-2021,Wednesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+10581,06-10-2021,01-10-2021,Wednesday,Apple,5,100,Whole,In-Store,No
+10582,06-10-2021,01-10-2021,Wednesday,Apple,3,60,Whole,In-Store,No
+10583,06-10-2021,01-10-2021,Wednesday,Cherry,2,40,Whole,In-Store,No
+10584,06-10-2021,01-10-2021,Wednesday,Pumpkin,5,100,Whole,Pre-Order,No
+10585,06-10-2021,01-10-2021,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+10586,06-10-2021,01-10-2021,Wednesday,Apple,2,40,Whole,Pre-Order,No
+10587,06-10-2021,01-10-2021,Wednesday,Cherry,5,100,Whole,In-Store,No
+10588,06-10-2021,01-10-2021,Wednesday,Cherry,2,40,Whole,In-Store,No
+10589,06-10-2021,01-10-2021,Wednesday,Apple,3,7.5,Slice,In-Store,No
+10590,06-10-2021,01-10-2021,Wednesday,Cherry,1,20,Whole,Pre-Order,No
+10591,06-10-2021,01-10-2021,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+10592,16-10-2021,01-10-2021,Saturday,Pumpkin,2,40,Whole,Pre-Order,Yes
+10593,16-10-2021,01-10-2021,Saturday,Pumpkin,5,100,Whole,In-Store,Yes
+10594,16-10-2021,01-10-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10595,16-10-2021,01-10-2021,Saturday,Pumpkin,2,5,Slice,In-Store,Yes
+10596,16-10-2021,01-10-2021,Saturday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+10597,16-10-2021,01-10-2021,Saturday,Pumpkin,3,60,Whole,In-Store,Yes
+10598,03-11-2021,01-11-2021,Wednesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10599,03-11-2021,01-11-2021,Wednesday,Cherry,3,60,Whole,In-Store,Yes
+10600,03-11-2021,01-11-2021,Wednesday,Cherry,1,20,Whole,In-Store,Yes
+10601,03-11-2021,01-11-2021,Wednesday,Apple,2,40,Whole,In-Store,Yes
+10602,03-11-2021,01-11-2021,Wednesday,Cherry,2,5,Slice,In-Store,Yes
+10603,03-11-2021,01-11-2021,Wednesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10604,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+10605,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10606,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10607,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10608,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10609,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10610,19-06-2020,01-06-2020,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10611,19-06-2020,01-06-2020,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10612,19-06-2020,01-06-2020,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10613,19-06-2020,01-06-2020,Friday,Pumpkin,1,20,Whole,In-Store,Yes
+10614,19-06-2020,01-06-2020,Friday,Pumpkin,4,10,Slice,In-Store,Yes
+10615,19-06-2020,01-06-2020,Friday,Pumpkin,2,5,Slice,In-Store,Yes
+10616,19-06-2020,01-06-2020,Friday,Pumpkin,2,40,Whole,In-Store,Yes
+10617,19-06-2020,01-06-2020,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+10618,19-06-2020,01-06-2020,Friday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10619,29-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10620,29-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10621,29-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10622,29-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10623,29-10-2020,01-10-2020,Thursday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10624,29-10-2020,01-10-2020,Thursday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10625,29-10-2020,01-10-2020,Thursday,Pumpkin,4,80,Whole,In-Store,Yes
+10626,29-10-2020,01-10-2020,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10627,29-10-2020,01-10-2020,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+10628,10-09-2021,01-09-2021,Friday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10629,10-09-2021,01-09-2021,Friday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10630,10-09-2021,01-09-2021,Friday,Pumpkin,4,80,Whole,Pre-Order,Yes
+10631,24-09-2019,01-09-2019,Tuesday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+10632,30-04-2020,01-04-2020,Thursday,Fudge,4,80,Whole,In-Store,Yes
+10633,30-04-2020,01-04-2020,Thursday,Blueberry,2,5,Slice,In-Store,Yes
+10634,30-04-2020,01-04-2020,Thursday,Apple,3,7.5,Slice,Pre-Order,Yes
+10635,30-04-2020,01-04-2020,Thursday,Blueberry,3,7.5,Slice,In-Store,Yes
+10636,30-04-2020,01-04-2020,Thursday,Apple,4,80,Whole,In-Store,Yes
+10637,30-11-2020,01-11-2020,Monday,Apple,5,100,Whole,Pre-Order,Yes
+10638,30-04-2020,01-04-2020,Thursday,Blueberry,2,5,Slice,Pre-Order,Yes
+10639,30-04-2020,01-04-2020,Thursday,Apple,4,10,Slice,In-Store,Yes
+10640,30-04-2020,01-04-2020,Thursday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+10641,30-04-2020,01-04-2020,Thursday,Blueberry,3,60,Whole,Pre-Order,Yes
+10642,30-04-2020,01-04-2020,Thursday,Blueberry,2,40,Whole,In-Store,Yes
+10643,30-04-2020,01-04-2020,Thursday,Blueberry,3,7.5,Slice,In-Store,Yes
+10644,30-04-2020,01-04-2020,Thursday,Blueberry,5,100,Whole,Pre-Order,Yes
+10645,30-04-2020,01-04-2020,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+10646,29-04-2021,01-04-2021,Thursday,Fudge,3,60,Whole,Pre-Order,Yes
+10647,29-04-2021,01-04-2021,Thursday,Pumpkin,2,40,Whole,In-Store,Yes
+10648,29-04-2021,01-04-2021,Thursday,Apple,1,20,Whole,Pre-Order,Yes
+10649,29-04-2021,01-04-2021,Thursday,Apple,3,7.5,Slice,Pre-Order,Yes
+10650,29-04-2021,01-04-2021,Thursday,Fudge,4,80,Whole,Pre-Order,Yes
+10651,29-04-2021,01-04-2021,Thursday,Fudge,1,2.5,Slice,In-Store,Yes
+10652,29-04-2021,01-04-2021,Thursday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10653,29-04-2021,01-04-2021,Thursday,Pumpkin,5,100,Whole,In-Store,Yes
+10654,04-11-2020,01-11-2020,Wednesday,Pumpkin,2,40,Whole,In-Store,Yes
+10655,04-11-2020,01-11-2020,Wednesday,Pumpkin,4,80,Whole,In-Store,Yes
+10656,04-11-2020,01-11-2020,Wednesday,Cherry,4,10,Slice,Pre-Order,Yes
+10657,04-11-2020,01-11-2020,Wednesday,Apple,2,40,Whole,Pre-Order,Yes
+10658,04-11-2020,01-11-2020,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10659,04-11-2020,01-11-2020,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10660,04-11-2020,01-11-2020,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+10661,04-11-2020,01-11-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+10662,04-11-2020,01-11-2020,Wednesday,Apple,4,80,Whole,In-Store,Yes
+10663,04-11-2020,01-11-2020,Wednesday,Apple,1,2.5,Slice,Pre-Order,Yes
+10664,04-11-2020,01-11-2020,Wednesday,Cherry,2,5,Slice,In-Store,Yes
+10665,04-11-2020,01-11-2020,Wednesday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+10666,04-11-2020,01-11-2020,Wednesday,Cherry,3,60,Whole,Pre-Order,Yes
+10667,04-11-2020,01-11-2020,Wednesday,Other,5,12.5,Slice,In-Store,Yes
+10668,10-03-2020,01-03-2020,Tuesday,Apple,5,100,Whole,In-Store,Yes
+10669,10-03-2020,01-03-2020,Tuesday,Apple,5,100,Whole,In-Store,Yes
+10670,11-09-2021,01-09-2021,Saturday,Pumpkin,3,60,Whole,Pre-Order,Yes
+10671,11-09-2021,01-09-2021,Saturday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10672,11-09-2021,01-09-2021,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10673,11-09-2021,01-09-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10674,11-09-2021,01-09-2021,Saturday,Pumpkin,5,100,Whole,In-Store,No
+10675,11-09-2021,01-09-2021,Saturday,Pumpkin,2,5,Slice,In-Store,Yes
+10676,11-09-2021,01-09-2021,Saturday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10677,11-09-2021,01-09-2021,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10678,11-09-2021,01-09-2021,Saturday,Pumpkin,5,12.5,Slice,In-Store,No
+10679,05-09-2020,01-09-2020,Saturday,Pumpkin,2,5,Slice,Pre-Order,No
+10680,05-09-2020,01-09-2020,Saturday,Fudge,2,40,Whole,In-Store,No
+10681,05-09-2020,01-09-2020,Saturday,Fudge,3,60,Whole,In-Store,No
+10682,05-09-2020,01-09-2020,Saturday,Fudge,5,12.5,Slice,In-Store,Yes
+10683,05-09-2020,01-09-2020,Saturday,Fudge,1,2.5,Slice,Pre-Order,No
+10684,05-09-2020,01-09-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+10685,05-09-2020,01-09-2020,Saturday,Apple,2,5,Slice,In-Store,Yes
+10686,05-09-2020,01-09-2020,Saturday,Fudge,1,2.5,Slice,In-Store,No
+10687,05-09-2020,01-09-2020,Saturday,Fudge,4,80,Whole,In-Store,No
+10688,05-09-2020,01-09-2020,Saturday,Fudge,3,60,Whole,In-Store,No
+10689,05-09-2020,01-09-2020,Saturday,Fudge,3,60,Whole,Pre-Order,Yes
+10690,05-09-2020,01-09-2020,Saturday,Fudge,2,40,Whole,In-Store,Yes
+10691,23-01-2021,01-01-2021,Saturday,Fudge,4,10,Slice,In-Store,Yes
+10692,23-01-2021,01-01-2021,Saturday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+10693,23-01-2021,01-01-2021,Saturday,Apple,4,10,Slice,In-Store,No
+10694,23-01-2021,01-01-2021,Saturday,Blueberry,5,100,Whole,In-Store,No
+10695,23-01-2021,01-01-2021,Saturday,Apple,4,80,Whole,In-Store,Yes
+10696,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10697,23-01-2021,01-01-2021,Saturday,Blueberry,3,60,Whole,In-Store,Yes
+10698,23-01-2021,01-01-2021,Saturday,Apple,2,40,Whole,Pre-Order,No
+10699,23-01-2021,01-01-2021,Saturday,Blueberry,1,2.5,Slice,In-Store,Yes
+10700,23-01-2021,01-01-2021,Saturday,Blueberry,1,20,Whole,In-Store,No
+10701,23-01-2021,01-01-2021,Saturday,Blueberry,2,5,Slice,Pre-Order,Yes
+10702,23-01-2021,01-01-2021,Saturday,Blueberry,2,40,Whole,Pre-Order,Yes
+10703,23-01-2021,01-01-2021,Saturday,Blueberry,4,80,Whole,Pre-Order,No
+10704,23-01-2021,01-01-2021,Saturday,Apple,1,20,Whole,Pre-Order,Yes
+10705,19-09-2019,01-09-2019,Thursday,Blueberry,2,40,Whole,In-Store,Yes
+10706,19-09-2019,01-09-2019,Thursday,Blueberry,1,20,Whole,Pre-Order,No
+10707,19-09-2019,01-09-2019,Thursday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+10708,19-09-2019,01-09-2019,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+10709,19-09-2019,01-09-2019,Thursday,Apple,3,60,Whole,In-Store,No
+10710,19-09-2019,01-09-2019,Thursday,Blueberry,4,10,Slice,In-Store,Yes
+10711,19-09-2019,01-09-2019,Thursday,Other,3,7.5,Slice,Pre-Order,Yes
+10712,19-09-2019,01-09-2019,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+10713,19-09-2019,01-09-2019,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10714,19-09-2019,01-09-2019,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10715,19-09-2019,01-09-2019,Thursday,Other,1,20,Whole,Pre-Order,No
+10716,19-09-2019,01-09-2019,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,No
+10717,22-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10718,22-02-2020,01-02-2020,Saturday,Cherry,1,20,Whole,Pre-Order,No
+10719,22-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10720,22-02-2020,01-02-2020,Saturday,Cherry,2,5,Slice,Pre-Order,No
+10721,22-02-2020,01-02-2020,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+10722,22-02-2020,01-02-2020,Saturday,Apple,3,60,Whole,Pre-Order,Yes
+10723,22-02-2020,01-02-2020,Saturday,Cherry,4,80,Whole,Pre-Order,No
+10724,22-02-2020,01-02-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+10725,22-02-2020,01-02-2020,Saturday,Apple,3,60,Whole,In-Store,No
+10726,22-02-2020,01-02-2020,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+10727,22-02-2020,01-02-2020,Saturday,Apple,2,40,Whole,In-Store,Yes
+10728,26-03-2020,01-03-2020,Thursday,Other,3,60,Whole,Pre-Order,Yes
+10729,26-03-2020,01-03-2020,Thursday,Other,2,40,Whole,Pre-Order,Yes
+10730,26-03-2020,01-03-2020,Thursday,Other,5,100,Whole,Pre-Order,Yes
+10731,26-03-2020,01-03-2020,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+10732,26-03-2020,01-03-2020,Thursday,Cherry,5,100,Whole,Pre-Order,Yes
+10733,26-03-2020,01-03-2020,Thursday,Cherry,1,2.5,Slice,In-Store,No
+10734,26-03-2020,01-03-2020,Thursday,Cherry,4,10,Slice,In-Store,Yes
+10735,26-03-2020,01-03-2020,Thursday,Cherry,3,7.5,Slice,In-Store,No
+10736,26-03-2020,01-03-2020,Thursday,Cherry,4,10,Slice,In-Store,No
+10737,07-01-2021,01-01-2021,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+10738,05-08-2021,01-08-2021,Thursday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10739,17-04-2020,01-04-2020,Friday,Fudge,4,10,Slice,Pre-Order,No
+10740,17-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+10741,17-04-2020,01-04-2020,Friday,Fudge,4,80,Whole,Pre-Order,No
+10742,17-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+10743,17-04-2020,01-04-2020,Friday,Cherry,3,60,Whole,In-Store,No
+10744,17-04-2020,01-04-2020,Friday,Apple,1,20,Whole,In-Store,No
+10745,17-04-2020,01-04-2020,Friday,Cherry,3,7.5,Slice,Pre-Order,Yes
+10746,17-11-2020,01-11-2020,Tuesday,Pumpkin,1,2.5,Slice,In-Store,No
+10747,17-04-2020,01-04-2020,Friday,Apple,3,60,Whole,Pre-Order,Yes
+10748,17-04-2020,01-04-2020,Friday,Apple,3,7.5,Slice,In-Store,No
+10749,17-04-2020,01-04-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+10750,17-04-2020,01-04-2020,Friday,Apple,4,10,Slice,Pre-Order,Yes
+10751,19-03-2021,01-03-2021,Friday,Fudge,3,60,Whole,Pre-Order,Yes
+10752,19-03-2021,01-03-2021,Friday,Fudge,5,100,Whole,In-Store,Yes
+10753,19-03-2021,01-03-2021,Friday,Apple,3,7.5,Slice,Pre-Order,No
+10754,19-03-2021,01-03-2021,Friday,Fudge,4,80,Whole,In-Store,No
+10755,19-03-2021,01-03-2021,Friday,Blueberry,4,80,Whole,In-Store,No
+10756,19-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,In-Store,No
+10757,19-03-2021,01-03-2021,Friday,Blueberry,5,12.5,Slice,In-Store,Yes
+10758,19-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+10759,19-03-2021,01-03-2021,Friday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10760,16-09-2020,01-09-2020,Wednesday,Apple,1,20,Whole,In-Store,Yes
+10761,16-09-2020,01-09-2020,Wednesday,Apple,2,40,Whole,In-Store,Yes
+10762,16-09-2020,01-09-2020,Wednesday,Apple,1,20,Whole,In-Store,No
+10763,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+10764,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10765,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+10766,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10767,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10768,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10769,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+10770,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10771,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+10772,07-11-2020,01-11-2020,Saturday,Apple,5,100,Whole,In-Store,Yes
+10773,07-11-2020,01-11-2020,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+10774,17-09-2021,01-09-2021,Friday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10775,17-09-2021,01-09-2021,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+10776,17-09-2021,01-09-2021,Friday,Strawberry Rhubarb,4,80,Whole,In-Store,No
+10777,17-09-2021,01-09-2021,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+10778,17-09-2021,01-09-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,No
+10779,01-10-2019,01-10-2019,Tuesday,Fudge,4,80,Whole,Pre-Order,No
+10780,01-10-2019,01-10-2019,Tuesday,Fudge,4,80,Whole,In-Store,Yes
+10781,01-10-2019,01-10-2019,Tuesday,Fudge,4,10,Slice,In-Store,No
+10782,01-10-2019,01-10-2019,Tuesday,Fudge,2,5,Slice,Pre-Order,Yes
+10783,01-10-2019,01-10-2019,Tuesday,Apple,5,12.5,Slice,Pre-Order,No
+10784,01-10-2019,01-10-2019,Tuesday,Fudge,4,80,Whole,Pre-Order,No
+10785,01-10-2019,01-10-2019,Tuesday,Blueberry,4,80,Whole,Pre-Order,Yes
+10786,01-10-2019,01-10-2019,Tuesday,Apple,2,5,Slice,In-Store,No
+10787,01-10-2019,01-10-2019,Tuesday,Blueberry,2,5,Slice,In-Store,Yes
+10788,01-10-2019,01-10-2019,Tuesday,Apple,1,20,Whole,Pre-Order,Yes
+10789,01-10-2019,01-10-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10790,01-10-2019,01-10-2019,Tuesday,Blueberry,4,10,Slice,Pre-Order,No
+10791,01-10-2019,01-10-2019,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+10792,01-10-2019,01-10-2019,Tuesday,Blueberry,3,7.5,Slice,Pre-Order,No
+10793,19-12-2020,01-12-2020,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+10794,19-12-2020,01-12-2020,Saturday,Apple,5,12.5,Slice,Pre-Order,No
+10795,29-11-2021,01-11-2021,Monday,Pumpkin,2,40,Whole,Pre-Order,Yes
+10796,29-11-2021,01-11-2021,Monday,Pumpkin,4,80,Whole,Pre-Order,No
+10797,29-04-2021,01-04-2021,Thursday,Pumpkin,2,5,Slice,Pre-Order,No
+10798,29-04-2021,01-04-2021,Thursday,Pumpkin,5,12.5,Slice,In-Store,No
+10799,29-04-2021,01-04-2021,Thursday,Fudge,3,60,Whole,In-Store,Yes
+10800,29-04-2021,01-04-2021,Thursday,Pumpkin,5,100,Whole,In-Store,No
+10801,29-11-2021,01-11-2021,Monday,Apple,5,12.5,Slice,Pre-Order,No
+10802,29-04-2021,01-04-2021,Thursday,Pumpkin,2,5,Slice,Pre-Order,No
+10803,29-04-2021,01-04-2021,Thursday,Pumpkin,4,80,Whole,Pre-Order,No
+10804,29-11-2021,01-11-2021,Monday,Pumpkin,3,60,Whole,In-Store,Yes
+10805,20-10-2021,01-10-2021,Wednesday,Apple,1,2.5,Slice,In-Store,Yes
+10806,20-10-2021,01-10-2021,Wednesday,Apple,5,100,Whole,In-Store,No
+10807,20-10-2021,01-10-2021,Wednesday,Apple,1,2.5,Slice,In-Store,No
+10808,20-10-2021,01-10-2021,Wednesday,Apple,4,80,Whole,Pre-Order,Yes
+10809,20-10-2021,01-10-2021,Wednesday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10810,20-10-2021,01-10-2021,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10811,20-10-2021,01-10-2021,Wednesday,Apple,2,40,Whole,Pre-Order,No
+10812,20-10-2021,01-10-2021,Wednesday,Apple,3,60,Whole,Pre-Order,Yes
+10813,20-10-2021,01-10-2021,Wednesday,Apple,5,100,Whole,In-Store,Yes
+10814,20-10-2021,01-10-2021,Wednesday,Cherry,2,40,Whole,In-Store,No
+10815,20-10-2021,01-10-2021,Wednesday,Cherry,4,10,Slice,Pre-Order,No
+10816,20-10-2021,01-10-2021,Wednesday,Cherry,2,5,Slice,In-Store,No
+10817,20-10-2021,01-10-2021,Wednesday,Apple,4,80,Whole,In-Store,Yes
+10818,20-10-2021,01-10-2021,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10819,23-07-2019,01-07-2019,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+10820,23-07-2019,01-07-2019,Tuesday,Fudge,1,2.5,Slice,In-Store,No
+10821,23-07-2019,01-07-2019,Tuesday,Fudge,4,80,Whole,Pre-Order,Yes
+10822,23-07-2019,01-07-2019,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+10823,23-07-2019,01-07-2019,Tuesday,Apple,3,7.5,Slice,In-Store,No
+10824,23-07-2019,01-07-2019,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+10825,23-07-2019,01-07-2019,Tuesday,Fudge,4,10,Slice,Pre-Order,Yes
+10826,23-07-2019,01-07-2019,Tuesday,Fudge,4,80,Whole,In-Store,No
+10827,23-07-2019,01-07-2019,Tuesday,Fudge,5,100,Whole,Pre-Order,Yes
+10828,23-07-2019,01-07-2019,Tuesday,Fudge,3,7.5,Slice,Pre-Order,No
+10829,23-07-2019,01-07-2019,Tuesday,Fudge,2,40,Whole,In-Store,Yes
+10830,23-07-2019,01-07-2019,Tuesday,Fudge,1,20,Whole,Pre-Order,Yes
+10831,23-07-2019,01-07-2019,Tuesday,Fudge,4,10,Slice,In-Store,No
+10832,23-07-2019,01-07-2019,Tuesday,Apple,5,12.5,Slice,Pre-Order,Yes
+10833,23-07-2019,01-07-2019,Tuesday,Fudge,1,20,Whole,Pre-Order,Yes
+10834,23-07-2019,01-07-2019,Tuesday,Blueberry,4,80,Whole,Pre-Order,No
+10835,23-07-2019,01-07-2019,Tuesday,Apple,5,100,Whole,Pre-Order,No
+10836,23-07-2019,01-07-2019,Tuesday,Blueberry,2,40,Whole,In-Store,No
+10837,09-11-2020,01-11-2020,Monday,Apple,5,100,Whole,Pre-Order,Yes
+10838,09-11-2020,01-11-2020,Monday,Apple,3,7.5,Slice,Pre-Order,Yes
+10839,17-04-2021,01-04-2021,Saturday,Fudge,3,60,Whole,In-Store,Yes
+10840,17-04-2021,01-04-2021,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+10841,17-04-2021,01-04-2021,Saturday,Fudge,5,100,Whole,In-Store,Yes
+10842,17-04-2021,01-04-2021,Saturday,Fudge,1,2.5,Slice,In-Store,No
+10843,17-04-2021,01-04-2021,Saturday,Apple,3,60,Whole,In-Store,Yes
+10844,17-04-2021,01-04-2021,Saturday,Apple,5,100,Whole,Pre-Order,Yes
+10845,17-04-2021,01-04-2021,Saturday,Apple,5,12.5,Slice,Pre-Order,Yes
+10846,17-04-2021,01-04-2021,Saturday,Fudge,1,20,Whole,In-Store,No
+10847,17-04-2021,01-04-2021,Saturday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+10848,17-04-2021,01-04-2021,Saturday,Fudge,3,7.5,Slice,Pre-Order,No
+10849,17-04-2021,01-04-2021,Saturday,Fudge,3,60,Whole,In-Store,No
+10850,17-04-2021,01-04-2021,Saturday,Fudge,2,40,Whole,Pre-Order,No
+10851,17-04-2021,01-04-2021,Saturday,Fudge,1,20,Whole,Pre-Order,No
+10852,17-04-2021,01-04-2021,Saturday,Fudge,1,20,Whole,Pre-Order,Yes
+10853,23-08-2020,01-08-2020,Sunday,Blueberry,4,10,Slice,In-Store,Yes
+10854,23-08-2020,01-08-2020,Sunday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+10855,23-08-2020,01-08-2020,Sunday,Blueberry,3,60,Whole,In-Store,Yes
+10856,23-08-2020,01-08-2020,Sunday,Blueberry,5,100,Whole,Pre-Order,Yes
+10857,23-08-2020,01-08-2020,Sunday,Apple,4,80,Whole,Pre-Order,No
+10858,23-08-2020,01-08-2020,Sunday,Apple,3,7.5,Slice,Pre-Order,Yes
+10859,23-08-2020,01-08-2020,Sunday,Blueberry,5,12.5,Slice,Pre-Order,No
+10860,23-08-2020,01-08-2020,Sunday,Other,5,100,Whole,Pre-Order,No
+10861,06-04-2021,01-04-2021,Tuesday,Fudge,4,10,Slice,Pre-Order,Yes
+10862,06-04-2021,01-04-2021,Tuesday,Apple,2,40,Whole,In-Store,No
+10863,06-04-2021,01-04-2021,Tuesday,Apple,1,20,Whole,In-Store,Yes
+10864,06-04-2021,01-04-2021,Tuesday,Fudge,1,20,Whole,Pre-Order,Yes
+10865,06-04-2021,01-04-2021,Tuesday,Fudge,4,10,Slice,Pre-Order,Yes
+10866,06-04-2021,01-04-2021,Tuesday,Fudge,2,40,Whole,In-Store,Yes
+10867,06-04-2021,01-04-2021,Tuesday,Fudge,2,5,Slice,Pre-Order,Yes
+10868,06-04-2021,01-04-2021,Tuesday,Fudge,3,60,Whole,In-Store,Yes
+10869,06-04-2021,01-04-2021,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+10870,06-04-2021,01-04-2021,Tuesday,Fudge,4,10,Slice,In-Store,Yes
+10871,06-04-2021,01-04-2021,Tuesday,Apple,4,80,Whole,In-Store,Yes
+10872,06-04-2021,01-04-2021,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+10873,06-04-2021,01-04-2021,Tuesday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+10874,06-04-2021,01-04-2021,Tuesday,Apple,3,7.5,Slice,Pre-Order,Yes
+10875,06-04-2021,01-04-2021,Tuesday,Blueberry,2,5,Slice,Pre-Order,Yes
+10876,06-04-2021,01-04-2021,Tuesday,Apple,3,60,Whole,In-Store,Yes
+10877,06-11-2021,01-11-2021,Saturday,Pumpkin,2,40,Whole,In-Store,Yes
+10878,06-04-2021,01-04-2021,Tuesday,Blueberry,1,2.5,Slice,In-Store,Yes
+10879,24-11-2020,01-11-2020,Tuesday,Fudge,1,20,Whole,Pre-Order,Yes
+10880,24-11-2020,01-11-2020,Tuesday,Fudge,5,100,Whole,Pre-Order,Yes
+10881,24-11-2020,01-11-2020,Tuesday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10882,24-11-2020,01-11-2020,Tuesday,Apple,2,5,Slice,In-Store,Yes
+10883,24-11-2020,01-11-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+10884,24-11-2020,01-11-2020,Tuesday,Apple,3,60,Whole,In-Store,Yes
+10885,24-11-2020,01-11-2020,Tuesday,Fudge,5,12.5,Slice,In-Store,Yes
+10886,24-11-2020,01-11-2020,Tuesday,Apple,1,2.5,Slice,Pre-Order,Yes
+10887,24-04-2020,01-04-2020,Friday,Pumpkin,3,60,Whole,In-Store,Yes
+10888,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10889,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10890,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+10891,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+10892,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10893,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10894,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10895,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10896,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+10897,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+10898,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+10899,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+10900,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+10901,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10902,21-03-2021,01-03-2021,Sunday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10903,21-03-2021,01-03-2021,Sunday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+10904,21-03-2021,01-03-2021,Sunday,Pumpkin,4,80,Whole,In-Store,Yes
+10905,24-01-2021,01-01-2021,Sunday,Fudge,4,10,Slice,Pre-Order,Yes
+10906,24-01-2021,01-01-2021,Sunday,Fudge,3,7.5,Slice,In-Store,Yes
+10907,24-01-2021,01-01-2021,Sunday,Fudge,2,40,Whole,Pre-Order,Yes
+10908,24-01-2021,01-01-2021,Sunday,Apple,5,100,Whole,Pre-Order,Yes
+10909,24-01-2021,01-01-2021,Sunday,Apple,3,60,Whole,In-Store,Yes
+10910,24-01-2021,01-01-2021,Sunday,Fudge,5,12.5,Slice,In-Store,Yes
+10911,24-01-2021,01-01-2021,Sunday,Fudge,3,60,Whole,In-Store,Yes
+10912,24-01-2021,01-01-2021,Sunday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10913,24-01-2021,01-01-2021,Sunday,Fudge,3,7.5,Slice,Pre-Order,Yes
+10914,24-01-2021,01-01-2021,Sunday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10915,24-01-2021,01-01-2021,Sunday,Fudge,1,2.5,Slice,Pre-Order,Yes
+10916,24-01-2021,01-01-2021,Sunday,Fudge,4,80,Whole,Pre-Order,Yes
+10917,24-01-2021,01-01-2021,Sunday,Apple,3,60,Whole,In-Store,Yes
+10918,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10919,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+10920,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+10921,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10922,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10923,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+10924,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+10925,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+10926,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+10927,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+10928,09-03-2020,01-03-2020,Monday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+10929,26-12-2020,01-12-2020,Saturday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+10930,26-12-2020,01-12-2020,Saturday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10931,26-12-2020,01-12-2020,Saturday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10932,26-12-2020,01-12-2020,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10933,26-12-2020,01-12-2020,Saturday,Pumpkin,1,20,Whole,In-Store,Yes
+10934,26-12-2020,01-12-2020,Saturday,Pumpkin,2,40,Whole,In-Store,Yes
+10935,26-12-2020,01-12-2020,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10936,26-12-2020,01-12-2020,Saturday,Fudge,4,10,Slice,Pre-Order,Yes
+10937,26-12-2020,01-12-2020,Saturday,Fudge,2,40,Whole,Pre-Order,Yes
+10938,26-12-2020,01-12-2020,Saturday,Fudge,1,20,Whole,In-Store,Yes
+10939,26-12-2020,01-12-2020,Saturday,Fudge,5,12.5,Slice,In-Store,Yes
+10940,26-12-2020,01-12-2020,Saturday,Apple,3,60,Whole,Pre-Order,Yes
+10941,26-12-2020,01-12-2020,Saturday,Apple,5,12.5,Slice,In-Store,Yes
+10942,26-12-2020,01-12-2020,Saturday,Fudge,2,5,Slice,Pre-Order,Yes
+10943,26-12-2020,01-12-2020,Saturday,Fudge,2,40,Whole,Pre-Order,Yes
+10944,26-12-2020,01-12-2020,Saturday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10945,26-12-2020,01-12-2020,Saturday,Fudge,2,5,Slice,Pre-Order,Yes
+10946,26-12-2020,01-12-2020,Saturday,Fudge,3,7.5,Slice,In-Store,Yes
+10947,03-04-2021,01-04-2021,Saturday,Apple,1,2.5,Slice,Pre-Order,Yes
+10948,03-04-2021,01-04-2021,Saturday,Blueberry,3,7.5,Slice,In-Store,Yes
+10949,03-04-2021,01-04-2021,Saturday,Blueberry,5,100,Whole,In-Store,Yes
+10950,03-04-2021,01-04-2021,Saturday,Blueberry,1,2.5,Slice,In-Store,Yes
+10951,03-04-2021,01-04-2021,Saturday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+10952,03-04-2021,01-04-2021,Saturday,Blueberry,2,5,Slice,Pre-Order,Yes
+10953,03-04-2021,01-04-2021,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+10954,09-07-2021,01-07-2021,Friday,Fudge,4,80,Whole,In-Store,Yes
+10955,09-07-2021,01-07-2021,Friday,Fudge,2,5,Slice,In-Store,Yes
+10956,09-07-2021,01-07-2021,Friday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10957,09-07-2021,01-07-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+10958,09-07-2021,01-07-2021,Friday,Apple,2,5,Slice,In-Store,Yes
+10959,09-07-2021,01-07-2021,Friday,Fudge,4,80,Whole,Pre-Order,Yes
+10960,09-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+10961,09-07-2021,01-07-2021,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10962,09-07-2021,01-07-2021,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+10963,09-07-2021,01-07-2021,Friday,Fudge,1,2.5,Slice,Pre-Order,Yes
+10964,09-07-2021,01-07-2021,Friday,Fudge,5,12.5,Slice,Pre-Order,Yes
+10965,09-07-2021,01-07-2021,Friday,Pumpkin,3,60,Whole,In-Store,Yes
+10966,09-07-2021,01-07-2021,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+10967,09-07-2021,01-07-2021,Friday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+10968,09-07-2021,01-07-2021,Friday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10969,03-11-2021,01-11-2021,Wednesday,Apple,4,80,Whole,In-Store,Yes
+10970,03-11-2021,01-11-2021,Wednesday,Cherry,4,10,Slice,Pre-Order,Yes
+10971,03-11-2021,01-11-2021,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+10972,03-11-2021,01-11-2021,Wednesday,Cherry,2,5,Slice,In-Store,Yes
+10973,03-11-2021,01-11-2021,Wednesday,Apple,4,80,Whole,Pre-Order,Yes
+10974,03-11-2021,01-11-2021,Wednesday,Cherry,1,2.5,Slice,In-Store,Yes
+10975,03-11-2021,01-11-2021,Wednesday,Cherry,1,20,Whole,In-Store,Yes
+10976,03-11-2021,01-11-2021,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+10977,03-11-2021,01-11-2021,Wednesday,Cherry,4,80,Whole,Pre-Order,Yes
+10978,03-11-2021,01-11-2021,Wednesday,Cherry,1,20,Whole,In-Store,Yes
+10979,03-11-2021,01-11-2021,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+10980,03-11-2021,01-11-2021,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+10981,03-11-2021,01-11-2021,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+10982,09-11-2020,01-11-2020,Monday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10983,09-11-2020,01-11-2020,Monday,Pumpkin,5,100,Whole,In-Store,Yes
+10984,09-11-2020,01-11-2020,Monday,Pumpkin,1,20,Whole,Pre-Order,Yes
+10985,09-11-2020,01-11-2020,Monday,Pumpkin,4,80,Whole,In-Store,Yes
+10986,20-11-2020,01-11-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+10987,20-11-2020,01-11-2020,Friday,Blueberry,1,2.5,Slice,In-Store,Yes
+10988,20-11-2020,01-11-2020,Friday,Apple,1,2.5,Slice,In-Store,Yes
+10989,20-11-2020,01-11-2020,Friday,Apple,2,5,Slice,In-Store,Yes
+10990,20-11-2020,01-11-2020,Friday,Apple,1,20,Whole,In-Store,Yes
+10991,20-11-2020,01-11-2020,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+10992,20-11-2020,01-11-2020,Friday,Pumpkin,5,12.5,Slice,In-Store,Yes
+10993,20-11-2020,01-11-2020,Friday,Blueberry,4,10,Slice,In-Store,Yes
+10994,20-11-2020,01-11-2020,Friday,Apple,2,40,Whole,Pre-Order,Yes
+10995,04-10-2021,01-10-2021,Monday,Cherry,3,60,Whole,In-Store,Yes
+10996,04-10-2021,01-10-2021,Monday,Apple,2,5,Slice,Pre-Order,Yes
+10997,04-10-2021,01-10-2021,Monday,Cherry,4,80,Whole,Pre-Order,Yes
+10998,04-10-2021,01-10-2021,Monday,Apple,3,60,Whole,Pre-Order,Yes
+10999,04-10-2021,01-10-2021,Monday,Cherry,3,60,Whole,In-Store,Yes
+11000,04-10-2021,01-10-2021,Monday,Cherry,2,5,Slice,Pre-Order,No
+11001,04-10-2021,01-10-2021,Monday,Apple,2,5,Slice,Pre-Order,No
+11002,04-10-2021,01-10-2021,Monday,Cherry,1,20,Whole,Pre-Order,Yes
+11003,04-10-2021,01-10-2021,Monday,Pumpkin,4,10,Slice,Pre-Order,No
+11004,06-11-2019,01-11-2019,Wednesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11005,06-11-2019,01-11-2019,Wednesday,Pumpkin,2,40,Whole,In-Store,No
+11006,06-11-2019,01-11-2019,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,No
+11007,06-11-2019,01-11-2019,Wednesday,Other,5,12.5,Slice,In-Store,Yes
+11008,06-11-2019,01-11-2019,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11009,06-11-2019,01-11-2019,Wednesday,Other,3,7.5,Slice,Pre-Order,No
+11010,06-11-2019,01-11-2019,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11011,06-11-2019,01-11-2019,Wednesday,Apple,5,100,Whole,In-Store,Yes
+11012,06-11-2019,01-11-2019,Wednesday,Cherry,3,7.5,Slice,Pre-Order,No
+11013,06-11-2019,01-11-2019,Wednesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11014,06-11-2019,01-11-2019,Wednesday,Cherry,3,60,Whole,In-Store,No
+11015,06-11-2019,01-11-2019,Wednesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+11016,06-11-2019,01-11-2019,Wednesday,Cherry,2,40,Whole,Pre-Order,No
+11017,06-11-2019,01-11-2019,Wednesday,Cherry,1,20,Whole,Pre-Order,No
+11018,06-11-2019,01-11-2019,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+11019,06-05-2020,01-05-2020,Wednesday,Apple,4,10,Slice,In-Store,No
+11020,06-05-2020,01-05-2020,Wednesday,Apple,4,80,Whole,Pre-Order,No
+11021,06-05-2020,01-05-2020,Wednesday,Apple,4,80,Whole,Pre-Order,No
+11022,06-05-2020,01-05-2020,Wednesday,Apple,1,20,Whole,In-Store,Yes
+11023,06-05-2020,01-05-2020,Wednesday,Apple,4,80,Whole,In-Store,Yes
+11024,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11025,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+11026,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11027,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+11028,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+11029,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+11030,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+11031,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11032,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11033,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+11034,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+11035,06-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11036,10-12-2020,01-12-2020,Thursday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11037,10-12-2020,01-12-2020,Thursday,Apple,2,5,Slice,Pre-Order,No
+11038,10-12-2020,01-12-2020,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+11039,10-12-2020,01-12-2020,Thursday,Other,1,2.5,Slice,Pre-Order,Yes
+11040,10-12-2020,01-12-2020,Thursday,Fudge,5,100,Whole,Pre-Order,No
+11041,10-12-2020,01-12-2020,Thursday,Cherry,5,12.5,Slice,Pre-Order,No
+11042,06-05-2021,01-05-2021,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+11043,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+11044,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11045,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+11046,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11047,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11048,06-05-2021,01-05-2021,Thursday,Cherry,2,40,Whole,In-Store,Yes
+11049,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11050,06-05-2021,01-05-2021,Thursday,Cherry,1,20,Whole,Pre-Order,No
+11051,06-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,No
+11052,11-04-2020,01-04-2020,Saturday,Blueberry,5,100,Whole,Pre-Order,Yes
+11053,11-04-2020,01-04-2020,Saturday,Apple,5,12.5,Slice,In-Store,No
+11054,11-04-2020,01-04-2020,Saturday,Blueberry,2,5,Slice,Pre-Order,Yes
+11055,11-04-2020,01-04-2020,Saturday,Blueberry,5,12.5,Slice,In-Store,Yes
+11056,11-04-2020,01-04-2020,Saturday,Blueberry,4,80,Whole,In-Store,No
+11057,11-04-2020,01-04-2020,Saturday,Blueberry,5,100,Whole,Pre-Order,Yes
+11058,11-04-2020,01-04-2020,Saturday,Blueberry,3,60,Whole,In-Store,Yes
+11059,11-04-2020,01-04-2020,Saturday,Apple,1,20,Whole,In-Store,Yes
+11060,11-04-2020,01-04-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+11061,11-04-2020,01-04-2020,Saturday,Blueberry,5,12.5,Slice,Pre-Order,No
+11062,11-04-2020,01-04-2020,Saturday,Other,5,100,Whole,Pre-Order,No
+11063,22-08-2020,01-08-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11064,22-08-2020,01-08-2020,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,No
+11065,04-07-2019,01-07-2019,Thursday,Cherry,5,100,Whole,Pre-Order,Yes
+11066,04-07-2019,01-07-2019,Thursday,Cherry,5,100,Whole,In-Store,No
+11067,04-07-2019,01-07-2019,Thursday,Cherry,3,7.5,Slice,Pre-Order,Yes
+11068,04-07-2019,01-07-2019,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+11069,04-07-2019,01-07-2019,Thursday,Cherry,4,80,Whole,In-Store,Yes
+11070,04-07-2019,01-07-2019,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+11071,04-07-2019,01-07-2019,Thursday,Cherry,3,7.5,Slice,Pre-Order,No
+11072,04-07-2019,01-07-2019,Thursday,Cherry,5,12.5,Slice,In-Store,Yes
+11073,04-07-2019,01-07-2019,Thursday,Apple,1,2.5,Slice,In-Store,No
+11074,04-07-2019,01-07-2019,Thursday,Cherry,4,80,Whole,Pre-Order,No
+11075,04-07-2019,01-07-2019,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11076,04-07-2019,01-07-2019,Thursday,Apple,2,5,Slice,In-Store,No
+11077,04-07-2019,01-07-2019,Thursday,Apple,1,20,Whole,Pre-Order,No
+11078,04-07-2019,01-07-2019,Thursday,Apple,2,40,Whole,In-Store,Yes
+11079,04-07-2019,01-07-2019,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+11080,04-07-2019,01-07-2019,Thursday,Apple,1,20,Whole,Pre-Order,No
+11081,14-03-2020,01-03-2020,Saturday,Pumpkin,5,12.5,Slice,In-Store,No
+11082,20-03-2021,01-03-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11083,20-03-2021,01-03-2021,Saturday,Pumpkin,2,40,Whole,In-Store,No
+11084,20-03-2021,01-03-2021,Saturday,Pumpkin,4,10,Slice,In-Store,Yes
+11085,20-03-2021,01-03-2021,Saturday,Pumpkin,2,5,Slice,Pre-Order,No
+11086,20-03-2021,01-03-2021,Saturday,Pumpkin,5,12.5,Slice,In-Store,No
+11087,20-03-2021,01-03-2021,Saturday,Pumpkin,2,40,Whole,Pre-Order,No
+11088,13-11-2021,01-11-2021,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11089,10-04-2021,01-04-2021,Saturday,Other,3,7.5,Slice,In-Store,No
+11090,10-04-2021,01-04-2021,Saturday,Cherry,5,12.5,Slice,In-Store,No
+11091,10-04-2021,01-04-2021,Saturday,Cherry,1,20,Whole,In-Store,No
+11092,13-11-2021,01-11-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11093,13-11-2021,01-11-2021,Saturday,Blueberry,2,40,Whole,Pre-Order,Yes
+11094,10-04-2021,01-04-2021,Saturday,Other,5,100,Whole,Pre-Order,No
+11095,13-11-2021,01-11-2021,Saturday,Other,1,2.5,Slice,Pre-Order,Yes
+11096,10-04-2021,01-04-2021,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+11097,18-04-2020,01-04-2020,Saturday,Other,1,2.5,Slice,Pre-Order,No
+11098,20-11-2020,01-11-2020,Friday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11099,20-11-2020,01-11-2020,Friday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+11100,18-04-2020,01-04-2020,Saturday,Cherry,1,20,Whole,In-Store,Yes
+11101,20-11-2020,01-11-2020,Friday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11102,18-04-2020,01-04-2020,Saturday,Cherry,3,7.5,Slice,In-Store,Yes
+11103,20-11-2020,01-11-2020,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11104,18-04-2020,01-04-2020,Saturday,Cherry,5,100,Whole,In-Store,Yes
+11105,18-04-2020,01-04-2020,Saturday,Cherry,3,60,Whole,In-Store,Yes
+11106,20-11-2020,01-11-2020,Friday,Pumpkin,3,60,Whole,Pre-Order,Yes
+11107,18-04-2020,01-04-2020,Saturday,Cherry,3,60,Whole,In-Store,Yes
+11108,18-04-2020,01-04-2020,Saturday,Cherry,3,60,Whole,In-Store,Yes
+11109,18-04-2020,01-04-2020,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+11110,11-03-2021,01-03-2021,Thursday,Apple,2,40,Whole,In-Store,Yes
+11111,11-03-2021,01-03-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+11112,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+11113,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11114,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11115,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11116,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11117,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+11118,14-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+11119,14-03-2020,01-03-2020,Saturday,Pumpkin,3,60,Whole,In-Store,Yes
+11120,14-03-2020,01-03-2020,Saturday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11121,14-03-2020,01-03-2020,Saturday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11122,14-03-2020,01-03-2020,Saturday,Pumpkin,5,100,Whole,In-Store,Yes
+11123,14-03-2020,01-03-2020,Saturday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11124,14-03-2020,01-03-2020,Saturday,Pumpkin,2,40,Whole,In-Store,Yes
+11125,14-03-2020,01-03-2020,Saturday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+11126,14-03-2020,01-03-2020,Saturday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11127,14-03-2020,01-03-2020,Saturday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11128,14-03-2020,01-03-2020,Saturday,Pumpkin,1,20,Whole,In-Store,Yes
+11129,14-03-2020,01-03-2020,Saturday,Pumpkin,3,60,Whole,Pre-Order,Yes
+11130,22-03-2020,01-03-2020,Sunday,Apple,3,60,Whole,Pre-Order,Yes
+11131,22-03-2020,01-03-2020,Sunday,Apple,2,40,Whole,In-Store,Yes
+11132,22-03-2020,01-03-2020,Sunday,Apple,1,2.5,Slice,In-Store,Yes
+11133,22-03-2020,01-03-2020,Sunday,Apple,5,12.5,Slice,Pre-Order,Yes
+11134,22-03-2020,01-03-2020,Sunday,Apple,2,40,Whole,In-Store,Yes
+11135,22-03-2020,01-03-2020,Sunday,Apple,2,40,Whole,Pre-Order,Yes
+11136,22-03-2020,01-03-2020,Sunday,Apple,1,20,Whole,Pre-Order,Yes
+11137,22-03-2020,01-03-2020,Sunday,Apple,5,12.5,Slice,In-Store,Yes
+11138,22-03-2020,01-03-2020,Sunday,Apple,2,40,Whole,Pre-Order,Yes
+11139,22-03-2020,01-03-2020,Sunday,Apple,5,100,Whole,In-Store,Yes
+11140,23-07-2021,01-07-2021,Friday,Cherry,2,40,Whole,In-Store,Yes
+11141,23-07-2021,01-07-2021,Friday,Cherry,2,40,Whole,Pre-Order,Yes
+11142,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11143,23-07-2021,01-07-2021,Friday,Apple,1,2.5,Slice,In-Store,Yes
+11144,23-07-2021,01-07-2021,Friday,Apple,4,80,Whole,In-Store,Yes
+11145,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+11146,23-07-2021,01-07-2021,Friday,Cherry,3,7.5,Slice,In-Store,Yes
+11147,23-07-2021,01-07-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+11148,23-07-2021,01-07-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+11149,29-07-2021,01-07-2021,Thursday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+11150,29-07-2021,01-07-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+11151,29-07-2021,01-07-2021,Thursday,Blueberry,2,40,Whole,In-Store,Yes
+11152,29-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11153,13-11-2020,01-11-2020,Friday,Apple,5,100,Whole,In-Store,Yes
+11154,13-11-2020,01-11-2020,Friday,Cherry,5,12.5,Slice,In-Store,Yes
+11155,13-11-2020,01-11-2020,Friday,Cherry,2,40,Whole,Pre-Order,Yes
+11156,13-11-2020,01-11-2020,Friday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11157,13-11-2020,01-11-2020,Friday,Cherry,2,40,Whole,In-Store,Yes
+11158,13-11-2020,01-11-2020,Friday,Apple,1,2.5,Slice,Pre-Order,Yes
+11159,13-11-2020,01-11-2020,Friday,Apple,2,40,Whole,Pre-Order,Yes
+11160,13-11-2020,01-11-2020,Friday,Apple,5,12.5,Slice,In-Store,Yes
+11161,01-12-2020,01-12-2020,Tuesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11162,01-12-2020,01-12-2020,Tuesday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11163,01-12-2020,01-12-2020,Tuesday,Pumpkin,4,80,Whole,In-Store,Yes
+11164,01-12-2020,01-12-2020,Tuesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11165,01-12-2020,01-12-2020,Tuesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11166,01-12-2020,01-12-2020,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11167,01-12-2020,01-12-2020,Tuesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11168,01-12-2020,01-12-2020,Tuesday,Pumpkin,5,100,Whole,In-Store,Yes
+11169,01-12-2020,01-12-2020,Tuesday,Fudge,2,5,Slice,Pre-Order,No
+11170,01-12-2020,01-12-2020,Tuesday,Fudge,1,2.5,Slice,In-Store,No
+11171,01-12-2020,01-12-2020,Tuesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+11172,08-10-2021,01-10-2021,Friday,Apple,2,40,Whole,In-Store,No
+11173,08-10-2021,01-10-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11174,08-10-2021,01-10-2021,Friday,Apple,3,7.5,Slice,In-Store,Yes
+11175,08-10-2021,01-10-2021,Friday,Other,5,100,Whole,In-Store,Yes
+11176,08-10-2021,01-10-2021,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+11177,08-10-2021,01-10-2021,Friday,Other,2,5,Slice,Pre-Order,Yes
+11178,28-08-2019,01-08-2019,Wednesday,Apple,2,5,Slice,In-Store,No
+11179,28-08-2019,01-08-2019,Wednesday,Apple,4,10,Slice,In-Store,Yes
+11180,28-08-2019,01-08-2019,Wednesday,Apple,2,5,Slice,Pre-Order,No
+11181,28-08-2019,01-08-2019,Wednesday,Apple,4,80,Whole,In-Store,No
+11182,28-08-2019,01-08-2019,Wednesday,Apple,5,100,Whole,In-Store,No
+11183,28-08-2019,01-08-2019,Wednesday,Apple,5,12.5,Slice,Pre-Order,Yes
+11184,05-05-2020,01-05-2020,Tuesday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+11185,05-05-2020,01-05-2020,Tuesday,Pumpkin,4,10,Slice,In-Store,Yes
+11186,05-05-2020,01-05-2020,Tuesday,Pumpkin,5,100,Whole,In-Store,Yes
+11187,05-05-2020,01-05-2020,Tuesday,Pumpkin,2,5,Slice,In-Store,Yes
+11188,05-05-2020,01-05-2020,Tuesday,Pumpkin,4,10,Slice,In-Store,No
+11189,05-05-2020,01-05-2020,Tuesday,Pumpkin,1,2.5,Slice,In-Store,No
+11190,05-05-2020,01-05-2020,Tuesday,Pumpkin,1,20,Whole,Pre-Order,No
+11191,23-04-2021,01-04-2021,Friday,Apple,2,40,Whole,In-Store,Yes
+11192,23-04-2021,01-04-2021,Friday,Apple,4,80,Whole,Pre-Order,Yes
+11193,23-11-2021,01-11-2021,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11194,23-04-2021,01-04-2021,Friday,Cherry,5,100,Whole,In-Store,No
+11195,23-04-2021,01-04-2021,Friday,Apple,1,20,Whole,Pre-Order,No
+11196,23-04-2021,01-04-2021,Friday,Cherry,3,7.5,Slice,In-Store,No
+11197,23-04-2021,01-04-2021,Friday,Cherry,1,2.5,Slice,In-Store,No
+11198,23-04-2021,01-04-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+11199,28-01-2020,01-01-2020,Tuesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11200,28-01-2020,01-01-2020,Tuesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+11201,28-01-2020,01-01-2020,Tuesday,Pumpkin,3,60,Whole,Pre-Order,No
+11202,28-01-2020,01-01-2020,Tuesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11203,28-01-2020,01-01-2020,Tuesday,Pumpkin,4,80,Whole,Pre-Order,No
+11204,28-01-2020,01-01-2020,Tuesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+11205,28-01-2020,01-01-2020,Tuesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11206,28-01-2020,01-01-2020,Tuesday,Pumpkin,3,7.5,Slice,In-Store,No
+11207,28-01-2020,01-01-2020,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11208,28-01-2020,01-01-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11209,28-01-2020,01-01-2020,Tuesday,Pumpkin,2,5,Slice,Pre-Order,Yes
+11210,28-01-2020,01-01-2020,Tuesday,Pumpkin,5,100,Whole,In-Store,Yes
+11211,28-01-2020,01-01-2020,Tuesday,Fudge,1,20,Whole,In-Store,Yes
+11212,28-01-2020,01-01-2020,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+11213,28-01-2020,01-01-2020,Tuesday,Fudge,3,7.5,Slice,In-Store,Yes
+11214,28-01-2020,01-01-2020,Tuesday,Fudge,4,10,Slice,Pre-Order,Yes
+11215,22-04-2020,01-04-2020,Wednesday,Pumpkin,5,12.5,Slice,In-Store,No
+11216,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11217,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11218,17-06-2021,01-06-2021,Thursday,Apple,1,20,Whole,Pre-Order,No
+11219,17-06-2021,01-06-2021,Thursday,Apple,1,2.5,Slice,In-Store,No
+11220,17-06-2021,01-06-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+11221,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11222,17-06-2021,01-06-2021,Thursday,Apple,1,2.5,Slice,In-Store,No
+11223,17-06-2021,01-06-2021,Thursday,Apple,3,60,Whole,In-Store,No
+11224,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11225,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11226,17-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11227,17-06-2021,01-06-2021,Thursday,Apple,2,5,Slice,In-Store,Yes
+11228,17-06-2021,01-06-2021,Thursday,Apple,3,7.5,Slice,In-Store,No
+11229,27-12-2019,01-12-2019,Friday,Cherry,2,5,Slice,Pre-Order,Yes
+11230,27-12-2019,01-12-2019,Friday,Cherry,1,2.5,Slice,Pre-Order,No
+11231,27-12-2019,01-12-2019,Friday,Cherry,4,10,Slice,In-Store,No
+11232,27-12-2019,01-12-2019,Friday,Pumpkin,1,20,Whole,In-Store,No
+11233,27-12-2019,01-12-2019,Friday,Cherry,3,60,Whole,Pre-Order,Yes
+11234,27-12-2019,01-12-2019,Friday,Pumpkin,2,5,Slice,In-Store,Yes
+11235,27-12-2019,01-12-2019,Friday,Cherry,1,20,Whole,In-Store,Yes
+11236,27-12-2019,01-12-2019,Friday,Cherry,1,20,Whole,In-Store,Yes
+11237,27-12-2019,01-12-2019,Friday,Apple,4,80,Whole,In-Store,No
+11238,27-12-2019,01-12-2019,Friday,Cherry,4,10,Slice,In-Store,No
+11239,27-12-2019,01-12-2019,Friday,Apple,3,60,Whole,Pre-Order,Yes
+11240,01-04-2020,01-04-2020,Wednesday,Pumpkin,3,60,Whole,Pre-Order,No
+11241,01-04-2020,01-04-2020,Wednesday,Pumpkin,2,5,Slice,In-Store,No
+11242,01-04-2020,01-04-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,No
+11243,01-04-2020,01-04-2020,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+11244,01-04-2020,01-04-2020,Wednesday,Pumpkin,5,100,Whole,Pre-Order,No
+11245,01-04-2020,01-04-2020,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+11246,01-04-2020,01-04-2020,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+11247,01-04-2020,01-04-2020,Wednesday,Fudge,4,10,Slice,In-Store,No
+11248,01-04-2020,01-04-2020,Wednesday,Fudge,4,80,Whole,In-Store,Yes
+11249,01-04-2020,01-04-2020,Wednesday,Fudge,3,60,Whole,Pre-Order,No
+11250,01-04-2020,01-04-2020,Wednesday,Fudge,2,40,Whole,In-Store,Yes
+11251,01-04-2020,01-04-2020,Wednesday,Apple,4,10,Slice,In-Store,No
+11252,01-04-2020,01-04-2020,Wednesday,Apple,1,20,Whole,In-Store,Yes
+11253,01-04-2020,01-04-2020,Wednesday,Fudge,4,80,Whole,Pre-Order,Yes
+11254,01-04-2020,01-04-2020,Wednesday,Fudge,3,60,Whole,Pre-Order,No
+11255,01-04-2020,01-04-2020,Wednesday,Fudge,1,2.5,Slice,Pre-Order,No
+11256,01-04-2020,01-04-2020,Wednesday,Fudge,2,40,Whole,Pre-Order,No
+11257,01-04-2020,01-04-2020,Wednesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+11258,07-04-2021,01-04-2021,Wednesday,Fudge,5,12.5,Slice,In-Store,Yes
+11259,10-06-2021,01-06-2021,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11260,10-06-2021,01-06-2021,Thursday,Pumpkin,4,80,Whole,Pre-Order,No
+11261,10-06-2021,01-06-2021,Thursday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11262,10-06-2021,01-06-2021,Thursday,Pumpkin,3,60,Whole,In-Store,Yes
+11263,03-12-2020,01-12-2020,Thursday,Pumpkin,5,12.5,Slice,Pre-Order,No
+11264,03-12-2020,01-12-2020,Thursday,Pumpkin,1,20,Whole,Pre-Order,No
+11265,03-12-2020,01-12-2020,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11266,03-12-2020,01-12-2020,Thursday,Pumpkin,1,2.5,Slice,In-Store,No
+11267,03-12-2020,01-12-2020,Thursday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11268,03-12-2020,01-12-2020,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+11269,03-12-2020,01-12-2020,Thursday,Pumpkin,5,12.5,Slice,In-Store,No
+11270,13-02-2021,01-02-2021,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+11271,13-02-2021,01-02-2021,Saturday,Blueberry,1,2.5,Slice,In-Store,Yes
+11272,13-02-2021,01-02-2021,Saturday,Apple,1,2.5,Slice,Pre-Order,Yes
+11273,13-02-2021,01-02-2021,Saturday,Blueberry,2,40,Whole,Pre-Order,Yes
+11274,13-02-2021,01-02-2021,Saturday,Blueberry,4,10,Slice,Pre-Order,Yes
+11275,09-10-2021,01-10-2021,Saturday,Blueberry,2,5,Slice,Pre-Order,Yes
+11276,09-10-2021,01-10-2021,Saturday,Apple,5,100,Whole,In-Store,Yes
+11277,09-10-2021,01-10-2021,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11278,09-10-2021,01-10-2021,Saturday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11279,09-10-2021,01-10-2021,Saturday,Apple,4,10,Slice,In-Store,Yes
+11280,09-10-2021,01-10-2021,Saturday,Blueberry,3,7.5,Slice,In-Store,Yes
+11281,09-10-2021,01-10-2021,Saturday,Blueberry,5,12.5,Slice,In-Store,Yes
+11282,09-10-2021,01-10-2021,Saturday,Apple,4,80,Whole,In-Store,Yes
+11283,09-10-2021,01-10-2021,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+11284,09-10-2021,01-10-2021,Saturday,Pumpkin,3,60,Whole,In-Store,Yes
+11285,09-10-2021,01-10-2021,Saturday,Apple,2,5,Slice,In-Store,Yes
+11286,09-10-2021,01-10-2021,Saturday,Apple,4,80,Whole,In-Store,Yes
+11287,09-10-2021,01-10-2021,Saturday,Blueberry,1,20,Whole,Pre-Order,Yes
+11288,09-10-2021,01-10-2021,Saturday,Other,1,2.5,Slice,In-Store,Yes
+11289,17-07-2019,01-07-2019,Wednesday,Apple,1,20,Whole,In-Store,Yes
+11290,17-07-2019,01-07-2019,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+11291,17-07-2019,01-07-2019,Wednesday,Blueberry,4,80,Whole,In-Store,Yes
+11292,17-07-2019,01-07-2019,Wednesday,Apple,2,5,Slice,In-Store,Yes
+11293,17-07-2019,01-07-2019,Wednesday,Blueberry,1,2.5,Slice,In-Store,Yes
+11294,17-07-2019,01-07-2019,Wednesday,Blueberry,2,40,Whole,In-Store,Yes
+11295,17-07-2019,01-07-2019,Wednesday,Blueberry,5,12.5,Slice,In-Store,Yes
+11296,17-07-2019,01-07-2019,Wednesday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+11297,17-07-2019,01-07-2019,Wednesday,Blueberry,5,100,Whole,Pre-Order,Yes
+11298,17-07-2019,01-07-2019,Wednesday,Apple,3,7.5,Slice,Pre-Order,Yes
+11299,17-07-2019,01-07-2019,Wednesday,Apple,4,80,Whole,In-Store,Yes
+11300,17-07-2019,01-07-2019,Wednesday,Blueberry,5,12.5,Slice,In-Store,Yes
+11301,17-07-2019,01-07-2019,Wednesday,Other,3,60,Whole,Pre-Order,Yes
+11302,17-07-2019,01-07-2019,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+11303,17-07-2019,01-07-2019,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11304,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11305,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11306,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11307,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11308,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11309,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11310,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11311,12-09-2020,01-09-2020,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11312,11-11-2020,01-11-2020,Wednesday,Apple,1,2.5,Slice,In-Store,Yes
+11313,11-11-2020,01-11-2020,Wednesday,Apple,2,40,Whole,Pre-Order,Yes
+11314,15-04-2021,01-04-2021,Thursday,Blueberry,1,2.5,Slice,In-Store,Yes
+11315,15-04-2021,01-04-2021,Thursday,Blueberry,4,80,Whole,In-Store,Yes
+11316,15-04-2021,01-04-2021,Thursday,Blueberry,3,60,Whole,Pre-Order,Yes
+11317,15-04-2021,01-04-2021,Thursday,Blueberry,5,100,Whole,In-Store,Yes
+11318,15-04-2021,01-04-2021,Thursday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11319,15-04-2021,01-04-2021,Thursday,Fudge,2,5,Slice,Pre-Order,Yes
+11320,15-04-2021,01-04-2021,Thursday,Blueberry,1,20,Whole,Pre-Order,Yes
+11321,15-04-2021,01-04-2021,Thursday,Fudge,5,100,Whole,In-Store,Yes
+11322,18-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+11323,18-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11324,18-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+11325,04-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11326,04-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+11327,04-01-2020,01-01-2020,Saturday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11328,04-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11329,04-01-2020,01-01-2020,Saturday,Cherry,4,80,Whole,Pre-Order,Yes
+11330,04-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11331,04-01-2020,01-01-2020,Saturday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11332,04-01-2020,01-01-2020,Saturday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11333,04-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11334,08-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,3,7.5,Slice,In-Store,No
+11335,08-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+11336,08-10-2020,01-10-2020,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11337,08-10-2020,01-10-2020,Thursday,Other,3,60,Whole,In-Store,Yes
+11338,08-10-2020,01-10-2020,Thursday,Cherry,3,60,Whole,Pre-Order,No
+11339,08-10-2020,01-10-2020,Thursday,Other,3,60,Whole,Pre-Order,No
+11340,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11341,11-06-2021,01-06-2021,Friday,Pumpkin,2,40,Whole,Pre-Order,No
+11342,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+11343,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+11344,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+11345,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,No
+11346,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+11347,11-06-2021,01-06-2021,Friday,Pumpkin,4,10,Slice,Pre-Order,No
+11348,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,No
+11349,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11350,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11351,11-06-2021,01-06-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,No
+11352,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11353,11-06-2021,01-06-2021,Friday,Pumpkin,4,80,Whole,Pre-Order,No
+11354,11-06-2021,01-06-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+11355,23-09-2020,01-09-2020,Wednesday,Apple,5,12.5,Slice,In-Store,Yes
+11356,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11357,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11358,15-10-2021,01-10-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11359,15-10-2021,01-10-2021,Thursday,Pumpkin,4,10,Slice,In-Store,Yes
+11360,15-10-2021,01-10-2021,Thursday,Pumpkin,4,80,Whole,Pre-Order,No
+11361,15-10-2021,01-10-2021,Thursday,Pumpkin,3,60,Whole,In-Store,No
+11362,15-10-2021,01-10-2021,Thursday,Pumpkin,4,80,Whole,In-Store,No
+11363,15-10-2021,01-10-2021,Thursday,Pumpkin,2,40,Whole,In-Store,Yes
+11364,15-10-2021,01-10-2021,Thursday,Pumpkin,5,100,Whole,In-Store,No
+11365,30-07-2019,01-07-2019,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11366,30-07-2019,01-07-2019,Tuesday,Pumpkin,3,7.5,Slice,In-Store,No
+11367,30-07-2019,01-07-2019,Tuesday,Pumpkin,2,40,Whole,In-Store,No
+11368,30-07-2019,01-07-2019,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11369,30-07-2019,01-07-2019,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11370,30-07-2019,01-07-2019,Tuesday,Pumpkin,2,5,Slice,Pre-Order,Yes
+11371,30-07-2019,01-07-2019,Tuesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11372,30-07-2019,01-07-2019,Tuesday,Pumpkin,2,5,Slice,Pre-Order,No
+11373,10-10-2020,01-10-2020,Saturday,Blueberry,4,80,Whole,In-Store,Yes
+11374,10-10-2020,01-10-2020,Saturday,Apple,4,80,Whole,In-Store,No
+11375,10-10-2020,01-10-2020,Saturday,Cherry,2,5,Slice,Pre-Order,Yes
+11376,10-10-2020,01-10-2020,Saturday,Blueberry,2,40,Whole,In-Store,No
+11377,10-10-2020,01-10-2020,Saturday,Apple,5,12.5,Slice,Pre-Order,Yes
+11378,10-10-2020,01-10-2020,Saturday,Apple,4,80,Whole,In-Store,Yes
+11379,10-10-2020,01-10-2020,Saturday,Apple,5,12.5,Slice,In-Store,No
+11380,10-10-2020,01-10-2020,Saturday,Blueberry,2,40,Whole,In-Store,No
+11381,10-10-2020,01-10-2020,Saturday,Blueberry,4,80,Whole,Pre-Order,Yes
+11382,10-10-2020,01-10-2020,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+11383,10-10-2020,01-10-2020,Saturday,Apple,3,60,Whole,In-Store,Yes
+11384,10-10-2020,01-10-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+11385,10-10-2020,01-10-2020,Saturday,Apple,2,5,Slice,Pre-Order,No
+11386,10-10-2020,01-10-2020,Saturday,Other,4,80,Whole,Pre-Order,No
+11387,11-02-2021,01-02-2021,Thursday,Other,2,5,Slice,In-Store,No
+11388,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11389,11-02-2021,01-02-2021,Thursday,Other,1,20,Whole,Pre-Order,No
+11390,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11391,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+11392,11-02-2021,01-02-2021,Thursday,Cherry,1,2.5,Slice,In-Store,Yes
+11393,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+11394,11-02-2021,01-02-2021,Thursday,Cherry,2,5,Slice,In-Store,No
+11395,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11396,11-02-2021,01-02-2021,Thursday,Cherry,1,20,Whole,Pre-Order,Yes
+11397,11-02-2021,01-02-2021,Thursday,Cherry,1,20,Whole,In-Store,Yes
+11398,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11399,20-04-2021,01-04-2021,Tuesday,Pumpkin,3,60,Whole,In-Store,No
+11400,20-04-2021,01-04-2021,Tuesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11401,20-04-2021,01-04-2021,Tuesday,Pumpkin,2,5,Slice,In-Store,No
+11402,20-04-2021,01-04-2021,Tuesday,Pumpkin,2,40,Whole,In-Store,Yes
+11403,20-11-2021,01-11-2021,Saturday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11404,20-04-2021,01-04-2021,Tuesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11405,20-04-2021,01-04-2021,Tuesday,Pumpkin,5,100,Whole,Pre-Order,No
+11406,20-04-2021,01-04-2021,Tuesday,Fudge,4,80,Whole,Pre-Order,No
+11407,20-11-2021,01-11-2021,Saturday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11408,20-11-2021,01-11-2021,Saturday,Pumpkin,2,5,Slice,Pre-Order,Yes
+11409,20-04-2021,01-04-2021,Tuesday,Pumpkin,2,40,Whole,In-Store,Yes
+11410,20-04-2021,01-04-2021,Tuesday,Pumpkin,3,60,Whole,Pre-Order,No
+11411,20-11-2021,01-11-2021,Saturday,Pumpkin,1,20,Whole,In-Store,Yes
+11412,20-11-2021,01-11-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,No
+11413,20-11-2021,01-11-2021,Saturday,Pumpkin,4,10,Slice,In-Store,Yes
+11414,13-08-2020,01-08-2020,Thursday,Cherry,2,40,Whole,Pre-Order,No
+11415,13-08-2020,01-08-2020,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+11416,13-08-2020,01-08-2020,Thursday,Apple,3,60,Whole,In-Store,Yes
+11417,13-08-2020,01-08-2020,Thursday,Apple,4,80,Whole,In-Store,No
+11418,13-08-2020,01-08-2020,Thursday,Apple,2,40,Whole,In-Store,No
+11419,13-08-2020,01-08-2020,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+11420,11-10-2020,01-10-2020,Sunday,Fudge,1,2.5,Slice,Pre-Order,Yes
+11421,11-10-2020,01-10-2020,Sunday,Apple,2,40,Whole,Pre-Order,Yes
+11422,11-10-2020,01-10-2020,Sunday,Fudge,3,60,Whole,In-Store,Yes
+11423,11-10-2020,01-10-2020,Sunday,Blueberry,1,20,Whole,Pre-Order,Yes
+11424,11-10-2020,01-10-2020,Sunday,Apple,3,7.5,Slice,In-Store,No
+11425,23-12-2020,01-12-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11426,23-12-2020,01-12-2020,Wednesday,Pumpkin,5,100,Whole,In-Store,No
+11427,23-12-2020,01-12-2020,Wednesday,Fudge,1,20,Whole,In-Store,No
+11428,23-12-2020,01-12-2020,Wednesday,Other,2,40,Whole,Pre-Order,No
+11429,23-12-2020,01-12-2020,Wednesday,Apple,3,60,Whole,Pre-Order,No
+11430,23-12-2020,01-12-2020,Wednesday,Other,5,12.5,Slice,Pre-Order,No
+11431,22-01-2021,01-01-2021,Friday,Cherry,3,7.5,Slice,Pre-Order,Yes
+11432,22-01-2021,01-01-2021,Friday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11433,22-01-2021,01-01-2021,Friday,Cherry,4,10,Slice,In-Store,No
+11434,22-01-2021,01-01-2021,Friday,Cherry,3,60,Whole,Pre-Order,No
+11435,22-01-2021,01-01-2021,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+11436,22-01-2021,01-01-2021,Friday,Cherry,1,2.5,Slice,In-Store,Yes
+11437,22-01-2021,01-01-2021,Friday,Cherry,5,100,Whole,In-Store,No
+11438,22-01-2021,01-01-2021,Friday,Cherry,5,12.5,Slice,In-Store,Yes
+11439,22-01-2021,01-01-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+11440,22-01-2021,01-01-2021,Friday,Cherry,2,40,Whole,Pre-Order,No
+11441,22-01-2021,01-01-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+11442,22-01-2021,01-01-2021,Friday,Cherry,1,2.5,Slice,Pre-Order,Yes
+11443,22-01-2021,01-01-2021,Friday,Cherry,1,20,Whole,In-Store,Yes
+11444,22-01-2021,01-01-2021,Friday,Apple,3,60,Whole,Pre-Order,No
+11445,07-04-2021,01-04-2021,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11446,07-04-2021,01-04-2021,Wednesday,Pumpkin,4,80,Whole,In-Store,No
+11447,07-04-2021,01-04-2021,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11448,07-04-2021,01-04-2021,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11449,07-04-2021,01-04-2021,Wednesday,Pumpkin,2,5,Slice,In-Store,No
+11450,07-04-2021,01-04-2021,Wednesday,Pumpkin,4,10,Slice,Pre-Order,No
+11451,07-04-2021,01-04-2021,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+11452,07-04-2021,01-04-2021,Wednesday,Fudge,5,12.5,Slice,Pre-Order,No
+11453,07-04-2021,01-04-2021,Wednesday,Fudge,1,20,Whole,Pre-Order,Yes
+11454,02-11-2021,01-11-2021,Tuesday,Apple,5,12.5,Slice,In-Store,Yes
+11455,02-11-2021,01-11-2021,Tuesday,Apple,3,60,Whole,Pre-Order,Yes
+11456,11-10-2019,01-10-2019,Friday,Apple,5,100,Whole,In-Store,No
+11457,11-10-2019,01-10-2019,Friday,Apple,2,40,Whole,In-Store,No
+11458,11-10-2019,01-10-2019,Friday,Apple,2,5,Slice,Pre-Order,Yes
+11459,11-10-2019,01-10-2019,Friday,Apple,4,80,Whole,Pre-Order,Yes
+11460,11-10-2019,01-10-2019,Friday,Apple,1,20,Whole,Pre-Order,No
+11461,11-10-2019,01-10-2019,Friday,Apple,3,60,Whole,In-Store,Yes
+11462,11-10-2019,01-10-2019,Friday,Apple,3,60,Whole,In-Store,No
+11463,11-10-2019,01-10-2019,Friday,Apple,2,5,Slice,In-Store,Yes
+11464,11-10-2019,01-10-2019,Friday,Apple,5,12.5,Slice,In-Store,Yes
+11465,11-10-2019,01-10-2019,Friday,Cherry,5,12.5,Slice,In-Store,No
+11466,11-10-2019,01-10-2019,Friday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11467,11-10-2019,01-10-2019,Friday,Cherry,5,100,Whole,Pre-Order,No
+11468,11-10-2019,01-10-2019,Friday,Cherry,2,40,Whole,Pre-Order,Yes
+11469,11-10-2019,01-10-2019,Friday,Apple,4,10,Slice,Pre-Order,Yes
+11470,11-10-2019,01-10-2019,Friday,Other,2,40,Whole,Pre-Order,No
+11471,11-10-2019,01-10-2019,Friday,Pumpkin,4,10,Slice,Pre-Order,No
+11472,11-10-2019,01-10-2019,Friday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11473,30-04-2021,01-04-2021,Friday,Apple,1,20,Whole,In-Store,No
+11474,30-04-2021,01-04-2021,Friday,Apple,2,40,Whole,In-Store,Yes
+11475,30-04-2021,01-04-2021,Friday,Apple,2,5,Slice,In-Store,Yes
+11476,30-04-2021,01-04-2021,Friday,Apple,4,80,Whole,In-Store,No
+11477,30-11-2021,01-11-2021,Tuesday,Pumpkin,5,100,Whole,In-Store,No
+11478,30-04-2021,01-04-2021,Friday,Apple,5,100,Whole,Pre-Order,Yes
+11479,30-11-2021,01-11-2021,Tuesday,Pumpkin,1,20,Whole,In-Store,No
+11480,11-06-2021,01-06-2021,Friday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11481,30-04-2020,01-04-2020,Thursday,Apple,2,40,Whole,Pre-Order,No
+11482,30-04-2020,01-04-2020,Thursday,Blueberry,1,20,Whole,Pre-Order,No
+11483,30-04-2020,01-04-2020,Thursday,Other,4,80,Whole,In-Store,Yes
+11484,30-11-2021,01-11-2021,Tuesday,Pumpkin,1,2.5,Slice,In-Store,No
+11485,30-11-2021,01-11-2021,Tuesday,Pumpkin,3,60,Whole,Pre-Order,No
+11486,30-11-2021,01-11-2021,Tuesday,Apple,4,10,Slice,In-Store,Yes
+11487,30-04-2020,01-04-2020,Thursday,Other,5,12.5,Slice,In-Store,No
+11488,30-11-2021,01-11-2021,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+11489,07-10-2020,01-10-2020,Wednesday,Cherry,1,20,Whole,Pre-Order,Yes
+11490,07-10-2020,01-10-2020,Wednesday,Cherry,4,80,Whole,Pre-Order,Yes
+11491,07-10-2020,01-10-2020,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11492,07-10-2020,01-10-2020,Wednesday,Apple,4,80,Whole,Pre-Order,No
+11493,07-10-2020,01-10-2020,Wednesday,Cherry,2,5,Slice,In-Store,No
+11494,07-10-2020,01-10-2020,Wednesday,Cherry,1,20,Whole,Pre-Order,Yes
+11495,07-10-2020,01-10-2020,Wednesday,Apple,4,10,Slice,Pre-Order,No
+11496,07-10-2020,01-10-2020,Wednesday,Cherry,2,40,Whole,In-Store,Yes
+11497,07-10-2020,01-10-2020,Wednesday,Apple,3,60,Whole,In-Store,Yes
+11498,19-11-2019,01-11-2019,Tuesday,Apple,4,80,Whole,In-Store,Yes
+11499,19-11-2019,01-11-2019,Tuesday,Blueberry,1,20,Whole,Pre-Order,Yes
+11500,10-02-2021,01-02-2021,Wednesday,Apple,4,80,Whole,Pre-Order,Yes
+11501,10-02-2021,01-02-2021,Wednesday,Apple,5,12.5,Slice,Pre-Order,Yes
+11502,08-05-2021,01-05-2021,Saturday,Fudge,4,10,Slice,In-Store,Yes
+11503,08-05-2021,01-05-2021,Saturday,Fudge,4,80,Whole,In-Store,Yes
+11504,08-05-2021,01-05-2021,Saturday,Blueberry,2,5,Slice,In-Store,Yes
+11505,08-05-2021,01-05-2021,Saturday,Fudge,3,60,Whole,Pre-Order,Yes
+11506,06-03-2020,01-03-2020,Friday,Blueberry,5,100,Whole,In-Store,Yes
+11507,06-03-2020,01-03-2020,Friday,Apple,4,80,Whole,In-Store,Yes
+11508,14-07-2021,01-07-2021,Wednesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11509,07-09-2019,01-09-2019,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11510,07-09-2019,01-09-2019,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11511,07-09-2019,01-09-2019,Saturday,Cherry,1,2.5,Slice,In-Store,Yes
+11512,07-09-2019,01-09-2019,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+11513,07-09-2019,01-09-2019,Saturday,Cherry,4,80,Whole,Pre-Order,Yes
+11514,24-03-2020,01-03-2020,Tuesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11515,24-03-2020,01-03-2020,Tuesday,Apple,3,60,Whole,In-Store,Yes
+11516,24-03-2020,01-03-2020,Tuesday,Apple,3,60,Whole,In-Store,Yes
+11517,24-03-2020,01-03-2020,Tuesday,Apple,3,7.5,Slice,In-Store,Yes
+11518,24-03-2020,01-03-2020,Tuesday,Apple,5,100,Whole,Pre-Order,Yes
+11519,24-03-2020,01-03-2020,Tuesday,Apple,4,80,Whole,In-Store,Yes
+11520,26-04-2021,01-04-2021,Monday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11521,26-04-2021,01-04-2021,Monday,Apple,4,80,Whole,In-Store,Yes
+11522,26-11-2021,01-11-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+11523,26-04-2021,01-04-2021,Monday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+11524,26-04-2021,01-04-2021,Monday,Blueberry,3,7.5,Slice,In-Store,Yes
+11525,26-04-2021,01-04-2021,Monday,Other,1,20,Whole,In-Store,Yes
+11526,26-04-2021,01-04-2021,Monday,Blueberry,1,20,Whole,Pre-Order,Yes
+11527,26-11-2021,01-11-2021,Friday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11528,26-04-2021,01-04-2021,Monday,Blueberry,4,80,Whole,In-Store,Yes
+11529,27-03-2020,01-03-2020,Friday,Fudge,5,100,Whole,In-Store,Yes
+11530,27-03-2020,01-03-2020,Friday,Fudge,4,10,Slice,Pre-Order,Yes
+11531,27-03-2020,01-03-2020,Friday,Apple,2,40,Whole,Pre-Order,Yes
+11532,27-03-2020,01-03-2020,Friday,Fudge,1,2.5,Slice,Pre-Order,Yes
+11533,27-03-2020,01-03-2020,Friday,Blueberry,4,10,Slice,Pre-Order,Yes
+11534,27-03-2020,01-03-2020,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+11535,27-03-2020,01-03-2020,Friday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11536,27-03-2020,01-03-2020,Friday,Apple,3,7.5,Slice,In-Store,Yes
+11537,27-03-2020,01-03-2020,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11538,27-03-2020,01-03-2020,Friday,Blueberry,1,20,Whole,In-Store,Yes
+11539,27-03-2020,01-03-2020,Friday,Apple,5,100,Whole,Pre-Order,Yes
+11540,27-03-2020,01-03-2020,Friday,Blueberry,1,20,Whole,In-Store,Yes
+11541,27-03-2020,01-03-2020,Friday,Blueberry,1,2.5,Slice,In-Store,Yes
+11542,27-03-2020,01-03-2020,Friday,Blueberry,2,5,Slice,In-Store,Yes
+11543,27-03-2020,01-03-2020,Friday,Blueberry,4,10,Slice,Pre-Order,Yes
+11544,27-03-2020,01-03-2020,Friday,Blueberry,1,2.5,Slice,In-Store,Yes
+11545,11-02-2021,01-02-2021,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+11546,11-02-2021,01-02-2021,Thursday,Cherry,4,80,Whole,In-Store,Yes
+11547,11-02-2021,01-02-2021,Thursday,Cherry,4,10,Slice,In-Store,Yes
+11548,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11549,11-02-2021,01-02-2021,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+11550,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11551,11-02-2021,01-02-2021,Thursday,Cherry,5,100,Whole,In-Store,Yes
+11552,11-02-2021,01-02-2021,Thursday,Cherry,1,2.5,Slice,Pre-Order,Yes
+11553,11-02-2021,01-02-2021,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+11554,11-02-2021,01-02-2021,Thursday,Cherry,5,100,Whole,Pre-Order,Yes
+11555,11-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11556,11-02-2021,01-02-2021,Thursday,Apple,2,5,Slice,Pre-Order,Yes
+11557,11-02-2021,01-02-2021,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+11558,11-02-2021,01-02-2021,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+11559,06-08-2021,01-08-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11560,06-08-2021,01-08-2021,Friday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11561,06-08-2021,01-08-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11562,06-08-2021,01-08-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11563,06-08-2021,01-08-2021,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+11564,06-08-2021,01-08-2021,Friday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11565,06-08-2021,01-08-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+11566,06-08-2021,01-08-2021,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11567,04-09-2019,01-09-2019,Wednesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11568,04-09-2019,01-09-2019,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+11569,04-09-2019,01-09-2019,Wednesday,Cherry,2,5,Slice,Pre-Order,Yes
+11570,04-09-2019,01-09-2019,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11571,04-09-2019,01-09-2019,Wednesday,Cherry,5,100,Whole,Pre-Order,Yes
+11572,04-09-2019,01-09-2019,Wednesday,Cherry,2,5,Slice,In-Store,Yes
+11573,04-09-2019,01-09-2019,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+11574,04-09-2019,01-09-2019,Wednesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11575,04-09-2019,01-09-2019,Wednesday,Cherry,1,2.5,Slice,Pre-Order,Yes
+11576,04-09-2019,01-09-2019,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11577,31-01-2021,01-01-2021,Sunday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11578,25-11-2021,01-11-2021,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11579,25-11-2021,01-11-2021,Thursday,Pumpkin,4,80,Whole,In-Store,Yes
+11580,25-04-2021,01-04-2021,Sunday,Cherry,3,7.5,Slice,Pre-Order,Yes
+11581,25-11-2021,01-11-2021,Thursday,Fudge,1,2.5,Slice,In-Store,Yes
+11582,25-11-2021,01-11-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+11583,25-11-2021,01-11-2021,Thursday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11584,25-04-2021,01-04-2021,Sunday,Other,4,10,Slice,Pre-Order,Yes
+11585,25-04-2021,01-04-2021,Sunday,Cherry,1,20,Whole,In-Store,Yes
+11586,25-04-2021,01-04-2021,Sunday,Other,1,2.5,Slice,Pre-Order,Yes
+11587,25-11-2021,01-11-2021,Thursday,Other,3,7.5,Slice,In-Store,Yes
+11588,25-11-2021,01-11-2021,Thursday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+11589,25-04-2021,01-04-2021,Sunday,Apple,5,100,Whole,In-Store,Yes
+11590,31-10-2019,01-10-2019,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+11591,31-10-2019,01-10-2019,Thursday,Cherry,3,60,Whole,Pre-Order,Yes
+11592,31-10-2019,01-10-2019,Thursday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11593,31-10-2019,01-10-2019,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11594,31-10-2019,01-10-2019,Thursday,Cherry,5,12.5,Slice,Pre-Order,Yes
+11595,31-10-2019,01-10-2019,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+11596,31-10-2019,01-10-2019,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+11597,31-10-2019,01-10-2019,Thursday,Cherry,2,5,Slice,Pre-Order,Yes
+11598,31-10-2019,01-10-2019,Thursday,Apple,3,60,Whole,In-Store,Yes
+11599,31-10-2019,01-10-2019,Thursday,Cherry,4,10,Slice,Pre-Order,Yes
+11600,31-10-2019,01-10-2019,Thursday,Apple,4,10,Slice,In-Store,Yes
+11601,31-10-2019,01-10-2019,Thursday,Apple,5,100,Whole,In-Store,Yes
+11602,31-10-2019,01-10-2019,Thursday,Apple,5,100,Whole,In-Store,Yes
+11603,31-10-2019,01-10-2019,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+11604,31-10-2019,01-10-2019,Thursday,Apple,2,5,Slice,In-Store,Yes
+11605,31-10-2019,01-10-2019,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+11606,31-10-2019,01-10-2019,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+11607,30-06-2020,01-06-2020,Tuesday,Apple,4,10,Slice,Pre-Order,Yes
+11608,30-06-2020,01-06-2020,Tuesday,Apple,2,5,Slice,In-Store,Yes
+11609,30-06-2020,01-06-2020,Tuesday,Apple,1,2.5,Slice,In-Store,Yes
+11610,30-06-2020,01-06-2020,Tuesday,Apple,3,7.5,Slice,Pre-Order,Yes
+11611,30-06-2020,01-06-2020,Tuesday,Apple,3,7.5,Slice,Pre-Order,Yes
+11612,30-06-2020,01-06-2020,Tuesday,Apple,1,2.5,Slice,Pre-Order,Yes
+11613,30-06-2020,01-06-2020,Tuesday,Apple,2,5,Slice,In-Store,Yes
+11614,06-04-2021,01-04-2021,Tuesday,Cherry,3,7.5,Slice,In-Store,Yes
+11615,06-04-2021,01-04-2021,Tuesday,Apple,2,40,Whole,In-Store,Yes
+11616,06-04-2021,01-04-2021,Tuesday,Cherry,4,10,Slice,Pre-Order,Yes
+11617,06-11-2021,01-11-2021,Saturday,Fudge,3,60,Whole,Pre-Order,Yes
+11618,06-04-2021,01-04-2021,Tuesday,Cherry,3,60,Whole,Pre-Order,Yes
+11619,06-04-2021,01-04-2021,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+11620,06-11-2021,01-11-2021,Saturday,Other,5,100,Whole,Pre-Order,Yes
+11621,06-11-2021,01-11-2021,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+11622,30-01-2021,01-01-2021,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11623,30-01-2021,01-01-2021,Saturday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11624,30-01-2021,01-01-2021,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11625,30-01-2021,01-01-2021,Saturday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11626,30-01-2021,01-01-2021,Saturday,Pumpkin,2,40,Whole,In-Store,Yes
+11627,30-01-2021,01-01-2021,Saturday,Pumpkin,5,12.5,Slice,In-Store,Yes
+11628,30-01-2021,01-01-2021,Saturday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11629,30-01-2021,01-01-2021,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11630,30-01-2021,01-01-2021,Saturday,Pumpkin,3,60,Whole,Pre-Order,No
+11631,30-01-2021,01-01-2021,Saturday,Pumpkin,4,80,Whole,In-Store,No
+11632,30-01-2021,01-01-2021,Saturday,Pumpkin,4,10,Slice,In-Store,No
+11633,30-01-2021,01-01-2021,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11634,30-01-2021,01-01-2021,Saturday,Fudge,2,40,Whole,In-Store,No
+11635,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11636,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11637,18-03-2021,01-03-2021,Thursday,Cherry,5,12.5,Slice,Pre-Order,No
+11638,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11639,18-03-2021,01-03-2021,Thursday,Cherry,4,10,Slice,In-Store,No
+11640,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,No
+11641,18-03-2021,01-03-2021,Thursday,Cherry,5,12.5,Slice,In-Store,No
+11642,18-03-2021,01-03-2021,Thursday,Cherry,1,2.5,Slice,In-Store,Yes
+11643,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11644,18-03-2021,01-03-2021,Thursday,Cherry,3,60,Whole,In-Store,No
+11645,18-03-2021,01-03-2021,Thursday,Cherry,5,12.5,Slice,In-Store,No
+11646,18-03-2021,01-03-2021,Thursday,Cherry,1,20,Whole,In-Store,No
+11647,18-03-2021,01-03-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11648,18-03-2021,01-03-2021,Thursday,Cherry,2,5,Slice,In-Store,No
+11649,15-04-2020,01-04-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+11650,15-04-2020,01-04-2020,Wednesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+11651,15-04-2020,01-04-2020,Wednesday,Pumpkin,4,80,Whole,Pre-Order,No
+11652,15-04-2020,01-04-2020,Wednesday,Pumpkin,4,80,Whole,Pre-Order,No
+11653,15-04-2020,01-04-2020,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11654,15-04-2020,01-04-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,No
+11655,15-04-2020,01-04-2020,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+11656,15-04-2020,01-04-2020,Wednesday,Pumpkin,3,7.5,Slice,Pre-Order,No
+11657,15-04-2020,01-04-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,No
+11658,15-04-2020,01-04-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,No
+11659,15-04-2020,01-04-2020,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+11660,15-04-2020,01-04-2020,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+11661,15-04-2020,01-04-2020,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,No
+11662,15-04-2020,01-04-2020,Wednesday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+11663,26-07-2020,01-07-2020,Sunday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+11664,26-07-2020,01-07-2020,Sunday,Pumpkin,3,60,Whole,Pre-Order,Yes
+11665,26-07-2020,01-07-2020,Sunday,Pumpkin,3,60,Whole,Pre-Order,No
+11666,26-07-2020,01-07-2020,Sunday,Pumpkin,1,20,Whole,Pre-Order,Yes
+11667,26-07-2020,01-07-2020,Sunday,Pumpkin,3,60,Whole,Pre-Order,No
+11668,26-07-2020,01-07-2020,Sunday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11669,29-04-2020,01-04-2020,Wednesday,Cherry,4,10,Slice,In-Store,Yes
+11670,29-04-2020,01-04-2020,Wednesday,Cherry,3,7.5,Slice,Pre-Order,No
+11671,29-04-2020,01-04-2020,Wednesday,Cherry,2,40,Whole,Pre-Order,No
+11672,29-04-2020,01-04-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11673,29-04-2020,01-04-2020,Wednesday,Cherry,5,12.5,Slice,In-Store,No
+11674,29-04-2020,01-04-2020,Wednesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+11675,29-04-2020,01-04-2020,Wednesday,Cherry,1,20,Whole,In-Store,Yes
+11676,29-04-2020,01-04-2020,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+11677,29-04-2020,01-04-2020,Wednesday,Apple,5,100,Whole,In-Store,Yes
+11678,29-04-2020,01-04-2020,Wednesday,Cherry,1,20,Whole,In-Store,Yes
+11679,29-04-2020,01-04-2020,Wednesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11680,06-06-2020,01-06-2020,Saturday,Blueberry,5,100,Whole,In-Store,No
+11681,06-06-2020,01-06-2020,Saturday,Apple,3,60,Whole,Pre-Order,Yes
+11682,06-06-2020,01-06-2020,Saturday,Blueberry,1,20,Whole,Pre-Order,No
+11683,06-06-2020,01-06-2020,Saturday,Blueberry,2,40,Whole,In-Store,No
+11684,06-06-2020,01-06-2020,Saturday,Blueberry,4,80,Whole,In-Store,No
+11685,06-06-2020,01-06-2020,Saturday,Blueberry,5,100,Whole,Pre-Order,No
+11686,06-06-2020,01-06-2020,Saturday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11687,06-06-2020,01-06-2020,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+11688,06-06-2020,01-06-2020,Saturday,Apple,2,5,Slice,In-Store,No
+11689,06-06-2020,01-06-2020,Saturday,Blueberry,3,60,Whole,In-Store,No
+11690,06-06-2020,01-06-2020,Saturday,Other,5,12.5,Slice,In-Store,Yes
+11691,06-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11692,06-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11693,06-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,No
+11694,06-06-2020,01-06-2020,Saturday,Other,2,40,Whole,In-Store,Yes
+11695,05-08-2020,01-08-2020,Wednesday,Apple,2,5,Slice,Pre-Order,Yes
+11696,05-08-2020,01-08-2020,Wednesday,Apple,5,12.5,Slice,Pre-Order,No
+11697,05-08-2020,01-08-2020,Wednesday,Apple,4,10,Slice,In-Store,No
+11698,05-08-2020,01-08-2020,Wednesday,Apple,3,7.5,Slice,In-Store,No
+11699,05-08-2020,01-08-2020,Wednesday,Apple,5,100,Whole,In-Store,Yes
+11700,05-08-2020,01-08-2020,Wednesday,Apple,5,100,Whole,In-Store,Yes
+11701,05-08-2020,01-08-2020,Wednesday,Apple,5,100,Whole,In-Store,Yes
+11702,05-08-2020,01-08-2020,Wednesday,Apple,4,80,Whole,In-Store,No
+11703,05-08-2020,01-08-2020,Wednesday,Apple,3,60,Whole,In-Store,No
+11704,05-08-2020,01-08-2020,Wednesday,Apple,5,12.5,Slice,Pre-Order,Yes
+11705,05-08-2020,01-08-2020,Wednesday,Apple,2,40,Whole,In-Store,Yes
+11706,05-08-2020,01-08-2020,Wednesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+11707,05-08-2020,01-08-2020,Wednesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11708,05-08-2020,01-08-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11709,05-08-2020,01-08-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11710,10-03-2020,01-03-2020,Tuesday,Fudge,1,20,Whole,In-Store,No
+11711,10-03-2020,01-03-2020,Tuesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+11712,10-03-2020,01-03-2020,Tuesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+11713,10-03-2020,01-03-2020,Tuesday,Fudge,4,10,Slice,Pre-Order,No
+11714,10-03-2020,01-03-2020,Tuesday,Fudge,2,5,Slice,In-Store,Yes
+11715,10-03-2020,01-03-2020,Tuesday,Fudge,4,80,Whole,In-Store,No
+11716,10-03-2020,01-03-2020,Tuesday,Apple,1,2.5,Slice,In-Store,No
+11717,10-03-2020,01-03-2020,Tuesday,Fudge,5,100,Whole,In-Store,No
+11718,10-03-2020,01-03-2020,Tuesday,Blueberry,2,40,Whole,In-Store,No
+11719,10-03-2020,01-03-2020,Tuesday,Apple,2,40,Whole,In-Store,Yes
+11720,10-03-2020,01-03-2020,Tuesday,Blueberry,5,12.5,Slice,In-Store,No
+11721,10-03-2020,01-03-2020,Tuesday,Apple,5,12.5,Slice,In-Store,No
+11722,05-03-2021,01-03-2021,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+11723,05-03-2021,01-03-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,No
+11724,05-03-2021,01-03-2021,Friday,Pumpkin,1,20,Whole,In-Store,Yes
+11725,05-03-2021,01-03-2021,Friday,Pumpkin,2,40,Whole,In-Store,No
+11726,05-03-2021,01-03-2021,Friday,Pumpkin,2,40,Whole,In-Store,No
+11727,05-03-2021,01-03-2021,Friday,Pumpkin,4,10,Slice,In-Store,No
+11728,05-03-2021,01-03-2021,Friday,Pumpkin,3,7.5,Slice,In-Store,Yes
+11729,05-03-2021,01-03-2021,Friday,Pumpkin,4,10,Slice,In-Store,Yes
+11730,05-03-2021,01-03-2021,Friday,Pumpkin,5,100,Whole,In-Store,Yes
+11731,05-03-2021,01-03-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,No
+11732,05-03-2021,01-03-2021,Friday,Pumpkin,2,40,Whole,In-Store,Yes
+11733,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11734,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11735,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11736,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,No
+11737,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+11738,15-07-2021,01-07-2021,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+11739,10-04-2020,01-04-2020,Friday,Other,3,7.5,Slice,In-Store,No
+11740,10-04-2020,01-04-2020,Friday,Other,5,100,Whole,In-Store,Yes
+11741,10-04-2020,01-04-2020,Friday,Cherry,1,2.5,Slice,In-Store,Yes
+11742,09-12-2020,01-12-2020,Wednesday,Pumpkin,4,10,Slice,In-Store,Yes
+11743,09-12-2020,01-12-2020,Wednesday,Pumpkin,3,60,Whole,In-Store,No
+11744,09-12-2020,01-12-2020,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+11745,09-12-2020,01-12-2020,Wednesday,Apple,5,12.5,Slice,In-Store,Yes
+11746,09-12-2020,01-12-2020,Wednesday,Fudge,2,40,Whole,Pre-Order,No
+11747,09-12-2020,01-12-2020,Wednesday,Fudge,4,10,Slice,Pre-Order,Yes
+11748,09-12-2020,01-12-2020,Wednesday,Other,4,10,Slice,In-Store,No
+11749,09-12-2020,01-12-2020,Wednesday,Other,4,80,Whole,Pre-Order,No
+11750,09-12-2020,01-12-2020,Wednesday,Fudge,3,60,Whole,In-Store,No
+11751,09-12-2020,01-12-2020,Wednesday,Other,5,12.5,Slice,Pre-Order,Yes
+11752,09-12-2020,01-12-2020,Wednesday,Apple,3,60,Whole,In-Store,Yes
+11753,09-12-2020,01-12-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,No
+11754,09-12-2020,01-12-2020,Wednesday,Pumpkin,3,7.5,Slice,Pre-Order,No
+11755,09-12-2020,01-12-2020,Wednesday,Pumpkin,3,60,Whole,Pre-Order,Yes
+11756,09-12-2020,01-12-2020,Wednesday,Pumpkin,2,40,Whole,In-Store,No
+11757,13-10-2021,01-10-2021,Wednesday,Pumpkin,4,80,Whole,Pre-Order,No
+11758,13-10-2021,01-10-2021,Wednesday,Pumpkin,3,60,Whole,Pre-Order,No
+11759,13-10-2021,01-10-2021,Wednesday,Fudge,2,5,Slice,Pre-Order,No
+11760,13-10-2021,01-10-2021,Wednesday,Fudge,5,12.5,Slice,In-Store,No
+11761,13-10-2021,01-10-2021,Wednesday,Fudge,4,10,Slice,Pre-Order,No
+11762,13-10-2021,01-10-2021,Wednesday,Fudge,4,10,Slice,In-Store,No
+11763,13-10-2021,01-10-2021,Wednesday,Apple,5,12.5,Slice,In-Store,Yes
+11764,13-10-2021,01-10-2021,Wednesday,Apple,3,7.5,Slice,Pre-Order,No
+11765,13-10-2021,01-10-2021,Wednesday,Fudge,5,100,Whole,Pre-Order,No
+11766,13-10-2021,01-10-2021,Wednesday,Fudge,5,100,Whole,In-Store,No
+11767,13-10-2021,01-10-2021,Wednesday,Fudge,2,5,Slice,In-Store,No
+11768,13-10-2021,01-10-2021,Wednesday,Fudge,4,80,Whole,In-Store,No
+11769,13-10-2021,01-10-2021,Wednesday,Fudge,3,7.5,Slice,In-Store,Yes
+11770,13-10-2021,01-10-2021,Wednesday,Fudge,5,12.5,Slice,Pre-Order,No
+11771,13-06-2020,01-06-2020,Saturday,Fudge,2,5,Slice,Pre-Order,Yes
+11772,13-06-2020,01-06-2020,Saturday,Apple,4,10,Slice,Pre-Order,No
+11773,13-06-2020,01-06-2020,Saturday,Fudge,4,80,Whole,Pre-Order,Yes
+11774,13-06-2020,01-06-2020,Saturday,Blueberry,3,60,Whole,In-Store,No
+11775,13-06-2020,01-06-2020,Saturday,Apple,3,60,Whole,Pre-Order,No
+11776,13-06-2020,01-06-2020,Saturday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+11777,13-06-2020,01-06-2020,Saturday,Apple,1,20,Whole,In-Store,No
+11778,13-06-2020,01-06-2020,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+11779,18-02-2021,01-02-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+11780,18-02-2021,01-02-2021,Thursday,Fudge,4,80,Whole,Pre-Order,Yes
+11781,18-02-2021,01-02-2021,Thursday,Fudge,2,5,Slice,In-Store,Yes
+11782,18-02-2021,01-02-2021,Thursday,Fudge,1,20,Whole,In-Store,Yes
+11783,18-02-2021,01-02-2021,Thursday,Fudge,1,20,Whole,Pre-Order,Yes
+11784,18-02-2021,01-02-2021,Thursday,Fudge,3,7.5,Slice,In-Store,No
+11785,18-02-2021,01-02-2021,Thursday,Fudge,3,7.5,Slice,In-Store,Yes
+11786,18-02-2021,01-02-2021,Thursday,Fudge,2,40,Whole,In-Store,Yes
+11787,18-02-2021,01-02-2021,Thursday,Apple,3,7.5,Slice,In-Store,No
+11788,18-02-2021,01-02-2021,Thursday,Fudge,4,10,Slice,Pre-Order,Yes
+11789,18-02-2021,01-02-2021,Thursday,Blueberry,2,5,Slice,Pre-Order,Yes
+11790,18-02-2021,01-02-2021,Thursday,Apple,3,7.5,Slice,In-Store,No
+11791,18-02-2021,01-02-2021,Thursday,Blueberry,4,10,Slice,In-Store,No
+11792,18-02-2021,01-02-2021,Thursday,Apple,2,5,Slice,Pre-Order,Yes
+11793,15-06-2019,01-06-2019,Saturday,Apple,1,20,Whole,Pre-Order,Yes
+11794,15-06-2019,01-06-2019,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+11795,08-09-2020,01-09-2020,Tuesday,Pumpkin,1,20,Whole,In-Store,Yes
+11796,08-09-2020,01-09-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11797,08-09-2020,01-09-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11798,08-09-2020,01-09-2020,Tuesday,Pumpkin,1,2.5,Slice,In-Store,No
+11799,08-09-2020,01-09-2020,Tuesday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11800,08-09-2020,01-09-2020,Tuesday,Pumpkin,3,7.5,Slice,Pre-Order,No
+11801,08-09-2020,01-09-2020,Tuesday,Pumpkin,2,5,Slice,Pre-Order,Yes
+11802,08-09-2020,01-09-2020,Tuesday,Pumpkin,1,20,Whole,Pre-Order,No
+11803,08-09-2020,01-09-2020,Tuesday,Pumpkin,3,7.5,Slice,Pre-Order,No
+11804,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11805,10-04-2021,01-04-2021,Saturday,Cherry,4,10,Slice,In-Store,Yes
+11806,10-04-2021,01-04-2021,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+11807,10-04-2021,01-04-2021,Saturday,Cherry,1,20,Whole,In-Store,No
+11808,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+11809,10-04-2021,01-04-2021,Saturday,Apple,4,10,Slice,In-Store,No
+11810,10-04-2021,01-04-2021,Saturday,Cherry,4,80,Whole,Pre-Order,No
+11811,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11812,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11813,10-04-2021,01-04-2021,Saturday,Cherry,5,100,Whole,In-Store,Yes
+11814,10-04-2021,01-04-2021,Saturday,Cherry,3,7.5,Slice,Pre-Order,No
+11815,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+11816,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+11817,10-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+11818,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+11819,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11820,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+11821,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11822,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11823,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,4,80,Whole,In-Store,No
+11824,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11825,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+11826,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+11827,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11828,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+11829,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+11830,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+11831,27-07-2020,01-07-2020,Monday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+11832,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+11833,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11834,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+11835,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,In-Store,No
+11836,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11837,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11838,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11839,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+11840,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11841,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+11842,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11843,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+11844,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11845,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11846,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+11847,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11848,02-02-2021,01-02-2021,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+11849,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11850,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+11851,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,5,12.5,Slice,In-Store,No
+11852,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+11853,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+11854,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11855,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+11856,05-01-2021,01-01-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,No
+11857,05-01-2021,01-01-2021,Tuesday,Pumpkin,3,60,Whole,Pre-Order,Yes
+11858,05-01-2021,01-01-2021,Tuesday,Pumpkin,3,7.5,Slice,In-Store,No
+11859,05-01-2021,01-01-2021,Tuesday,Pumpkin,5,100,Whole,In-Store,Yes
+11860,05-01-2021,01-01-2021,Tuesday,Pumpkin,2,5,Slice,In-Store,Yes
+11861,05-01-2021,01-01-2021,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11862,05-01-2021,01-01-2021,Tuesday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11863,13-02-2021,01-02-2021,Saturday,Blueberry,5,12.5,Slice,In-Store,No
+11864,16-06-2020,01-06-2020,Tuesday,Pumpkin,2,5,Slice,Pre-Order,No
+11865,16-06-2020,01-06-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,Yes
+11866,16-06-2020,01-06-2020,Tuesday,Pumpkin,3,60,Whole,In-Store,No
+11867,16-06-2020,01-06-2020,Tuesday,Pumpkin,3,60,Whole,Pre-Order,No
+11868,16-06-2020,01-06-2020,Tuesday,Pumpkin,4,80,Whole,In-Store,Yes
+11869,16-06-2020,01-06-2020,Tuesday,Fudge,5,100,Whole,Pre-Order,Yes
+11870,16-06-2020,01-06-2020,Tuesday,Fudge,5,100,Whole,In-Store,No
+11871,16-06-2020,01-06-2020,Tuesday,Fudge,3,60,Whole,In-Store,Yes
+11872,16-06-2020,01-06-2020,Tuesday,Fudge,4,80,Whole,Pre-Order,Yes
+11873,16-06-2020,01-06-2020,Tuesday,Apple,4,10,Slice,In-Store,Yes
+11874,16-06-2020,01-06-2020,Tuesday,Apple,4,80,Whole,In-Store,No
+11875,16-06-2020,01-06-2020,Tuesday,Fudge,4,10,Slice,In-Store,Yes
+11876,16-06-2020,01-06-2020,Tuesday,Fudge,2,40,Whole,In-Store,No
+11877,16-06-2020,01-06-2020,Tuesday,Fudge,4,10,Slice,In-Store,No
+11878,16-06-2020,01-06-2020,Tuesday,Fudge,4,10,Slice,In-Store,No
+11879,16-06-2020,01-06-2020,Tuesday,Fudge,1,2.5,Slice,In-Store,No
+11880,16-06-2020,01-06-2020,Tuesday,Fudge,5,100,Whole,Pre-Order,Yes
+11881,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+11882,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11883,16-09-2020,01-09-2020,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11884,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11885,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11886,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11887,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+11888,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+11889,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11890,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11891,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11892,21-03-2020,01-03-2020,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+11893,27-03-2021,01-03-2021,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+11894,27-03-2021,01-03-2021,Saturday,Blueberry,2,5,Slice,In-Store,Yes
+11895,27-03-2021,01-03-2021,Saturday,Other,5,100,Whole,In-Store,No
+11896,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,2,5,Slice,Pre-Order,No
+11897,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11898,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11899,27-03-2021,01-03-2021,Saturday,Other,4,80,Whole,Pre-Order,No
+11900,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+11901,27-03-2021,01-03-2021,Saturday,Other,3,60,Whole,Pre-Order,Yes
+11902,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,No
+11903,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,No
+11904,27-03-2021,01-03-2021,Saturday,Cherry,2,5,Slice,In-Store,No
+11905,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,No
+11906,27-03-2021,01-03-2021,Saturday,Cherry,5,100,Whole,Pre-Order,No
+11907,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+11908,20-01-2021,01-01-2021,Wednesday,Cherry,2,40,Whole,In-Store,No
+11909,20-01-2021,01-01-2021,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11910,20-01-2021,01-01-2021,Wednesday,Apple,5,100,Whole,Pre-Order,No
+11911,20-01-2021,01-01-2021,Wednesday,Apple,3,60,Whole,In-Store,Yes
+11912,20-01-2021,01-01-2021,Wednesday,Apple,3,7.5,Slice,Pre-Order,No
+11913,20-01-2021,01-01-2021,Wednesday,Apple,4,80,Whole,In-Store,Yes
+11914,20-01-2021,01-01-2021,Wednesday,Apple,3,60,Whole,Pre-Order,No
+11915,20-01-2021,01-01-2021,Wednesday,Apple,1,20,Whole,In-Store,Yes
+11916,20-01-2021,01-01-2021,Wednesday,Apple,4,80,Whole,Pre-Order,Yes
+11917,20-01-2021,01-01-2021,Wednesday,Apple,5,100,Whole,Pre-Order,No
+11918,20-01-2021,01-01-2021,Wednesday,Apple,4,10,Slice,In-Store,Yes
+11919,20-01-2021,01-01-2021,Wednesday,Apple,1,20,Whole,In-Store,No
+11920,20-01-2021,01-01-2021,Wednesday,Apple,5,12.5,Slice,Pre-Order,No
+11921,20-01-2021,01-01-2021,Wednesday,Apple,5,100,Whole,Pre-Order,Yes
+11922,20-01-2021,01-01-2021,Wednesday,Apple,3,60,Whole,In-Store,No
+11923,20-01-2021,01-01-2021,Wednesday,Apple,1,20,Whole,In-Store,Yes
+11924,20-01-2021,01-01-2021,Wednesday,Apple,5,100,Whole,Pre-Order,Yes
+11925,12-02-2021,01-02-2021,Friday,Blueberry,1,20,Whole,In-Store,Yes
+11926,12-02-2021,01-02-2021,Friday,Blueberry,3,60,Whole,In-Store,Yes
+11927,12-02-2021,01-02-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+11928,12-02-2021,01-02-2021,Friday,Apple,2,5,Slice,Pre-Order,No
+11929,12-02-2021,01-02-2021,Friday,Blueberry,1,2.5,Slice,In-Store,Yes
+11930,12-02-2021,01-02-2021,Friday,Other,1,20,Whole,In-Store,No
+11931,12-02-2021,01-02-2021,Friday,Strawberry Rhubarb,5,100,Whole,Pre-Order,No
+11932,12-02-2021,01-02-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+11933,12-02-2021,01-02-2021,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11934,14-09-2019,01-09-2019,Saturday,Other,5,12.5,Slice,In-Store,Yes
+11935,16-01-2020,01-01-2020,Thursday,Apple,4,80,Whole,In-Store,No
+11936,27-04-2021,01-04-2021,Tuesday,Fudge,5,100,Whole,Pre-Order,No
+11937,27-04-2021,01-04-2021,Tuesday,Apple,1,2.5,Slice,In-Store,No
+11938,27-04-2021,01-04-2021,Tuesday,Blueberry,4,80,Whole,In-Store,Yes
+11939,15-06-2021,01-06-2021,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+11940,15-06-2021,01-06-2021,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,No
+11941,15-06-2021,01-06-2021,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+11942,10-10-2019,01-10-2019,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+11943,10-10-2019,01-10-2019,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+11944,10-10-2019,01-10-2019,Thursday,Pumpkin,2,40,Whole,Pre-Order,Yes
+11945,10-10-2019,01-10-2019,Thursday,Pumpkin,4,80,Whole,Pre-Order,Yes
+11946,10-10-2019,01-10-2019,Thursday,Pumpkin,1,20,Whole,In-Store,No
+11947,13-12-2019,01-12-2019,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+11948,13-12-2019,01-12-2019,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+11949,13-12-2019,01-12-2019,Friday,Pumpkin,5,12.5,Slice,In-Store,Yes
+11950,13-12-2019,01-12-2019,Friday,Apple,1,20,Whole,Pre-Order,No
+11951,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,80,Whole,In-Store,No
+11952,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+11953,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+11954,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+11955,29-04-2021,01-04-2021,Thursday,Pumpkin,3,60,Whole,Pre-Order,No
+11956,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,1,20,Whole,In-Store,No
+11957,20-05-2021,01-05-2021,Thursday,Other,3,7.5,Slice,In-Store,No
+11958,20-05-2021,01-05-2021,Thursday,Cherry,3,7.5,Slice,In-Store,No
+11959,20-05-2021,01-05-2021,Thursday,Cherry,4,10,Slice,In-Store,Yes
+11960,20-05-2021,01-05-2021,Thursday,Other,4,10,Slice,In-Store,No
+11961,20-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+11962,20-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+11963,20-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,No
+11964,20-05-2021,01-05-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+11965,02-09-2021,01-09-2021,Thursday,Fudge,2,5,Slice,Pre-Order,Yes
+11966,02-09-2021,01-09-2021,Thursday,Fudge,1,20,Whole,In-Store,No
+11967,02-09-2021,01-09-2021,Thursday,Fudge,3,7.5,Slice,In-Store,No
+11968,02-09-2021,01-09-2021,Thursday,Apple,5,100,Whole,In-Store,Yes
+11969,02-09-2021,01-09-2021,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+11970,02-09-2021,01-09-2021,Thursday,Fudge,1,20,Whole,In-Store,No
+11971,02-09-2021,01-09-2021,Thursday,Blueberry,5,12.5,Slice,Pre-Order,No
+11972,02-09-2021,01-09-2021,Thursday,Fudge,1,2.5,Slice,In-Store,Yes
+11973,02-09-2021,01-09-2021,Thursday,Fudge,3,60,Whole,In-Store,No
+11974,02-09-2021,01-09-2021,Thursday,Fudge,1,20,Whole,In-Store,No
+11975,02-09-2021,01-09-2021,Thursday,Fudge,5,100,Whole,In-Store,Yes
+11976,02-09-2021,01-09-2021,Thursday,Fudge,3,7.5,Slice,Pre-Order,Yes
+11977,02-09-2021,01-09-2021,Thursday,Apple,3,7.5,Slice,In-Store,Yes
+11978,02-09-2021,01-09-2021,Thursday,Fudge,3,60,Whole,Pre-Order,Yes
+11979,02-09-2021,01-09-2021,Thursday,Fudge,3,7.5,Slice,Pre-Order,Yes
+11980,02-09-2021,01-09-2021,Thursday,Fudge,1,20,Whole,Pre-Order,Yes
+11981,02-09-2021,01-09-2021,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+11982,02-09-2021,01-09-2021,Thursday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+11983,02-10-2019,01-10-2019,Wednesday,Pumpkin,2,40,Whole,Pre-Order,No
+11984,02-10-2019,01-10-2019,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+11985,02-10-2019,01-10-2019,Wednesday,Pumpkin,4,10,Slice,Pre-Order,No
+11986,02-10-2019,01-10-2019,Wednesday,Pumpkin,2,40,Whole,Pre-Order,No
+11987,02-10-2019,01-10-2019,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+11988,02-10-2019,01-10-2019,Wednesday,Pumpkin,2,5,Slice,In-Store,Yes
+11989,02-10-2019,01-10-2019,Wednesday,Fudge,4,10,Slice,In-Store,No
+11990,02-10-2019,01-10-2019,Wednesday,Fudge,2,40,Whole,In-Store,Yes
+11991,02-10-2019,01-10-2019,Wednesday,Fudge,1,20,Whole,In-Store,Yes
+11992,02-10-2019,01-10-2019,Wednesday,Fudge,3,60,Whole,Pre-Order,No
+11993,02-10-2019,01-10-2019,Wednesday,Apple,4,10,Slice,Pre-Order,No
+11994,02-10-2019,01-10-2019,Wednesday,Apple,2,5,Slice,In-Store,No
+11995,02-10-2019,01-10-2019,Wednesday,Fudge,5,100,Whole,Pre-Order,Yes
+11996,02-10-2019,01-10-2019,Wednesday,Fudge,2,5,Slice,In-Store,Yes
+11997,02-10-2019,01-10-2019,Wednesday,Fudge,1,20,Whole,In-Store,Yes
+11998,24-10-2019,01-10-2019,Thursday,Apple,3,7.5,Slice,Pre-Order,Yes
+11999,24-10-2019,01-10-2019,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+12000,25-07-2020,01-07-2020,Saturday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12001,25-07-2020,01-07-2020,Saturday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12002,25-07-2020,01-07-2020,Saturday,Pumpkin,2,40,Whole,In-Store,No
+12003,25-07-2020,01-07-2020,Saturday,Pumpkin,4,80,Whole,Pre-Order,Yes
+12004,25-07-2020,01-07-2020,Saturday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12005,25-07-2020,01-07-2020,Saturday,Pumpkin,2,5,Slice,In-Store,Yes
+12006,25-07-2020,01-07-2020,Saturday,Pumpkin,2,5,Slice,In-Store,No
+12007,25-07-2020,01-07-2020,Saturday,Fudge,3,60,Whole,Pre-Order,No
+12008,25-07-2020,01-07-2020,Saturday,Fudge,3,7.5,Slice,Pre-Order,Yes
+12009,25-07-2020,01-07-2020,Saturday,Fudge,1,2.5,Slice,In-Store,No
+12010,25-07-2020,01-07-2020,Saturday,Fudge,4,10,Slice,In-Store,No
+12011,25-07-2020,01-07-2020,Saturday,Apple,4,80,Whole,Pre-Order,No
+12012,25-07-2020,01-07-2020,Saturday,Apple,4,10,Slice,In-Store,No
+12013,25-07-2020,01-07-2020,Saturday,Fudge,5,100,Whole,Pre-Order,Yes
+12014,25-07-2020,01-07-2020,Saturday,Fudge,1,2.5,Slice,In-Store,No
+12015,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+12016,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12017,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12018,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12019,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12020,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12021,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+12022,29-04-2021,01-04-2021,Thursday,Pumpkin,5,100,Whole,In-Store,Yes
+12023,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+12024,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,7.5,Slice,In-Store,No
+12025,29-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,80,Whole,Pre-Order,No
+12026,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,No
+12027,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,3,60,Whole,In-Store,No
+12028,04-05-2021,01-05-2021,Tuesday,Cherry,5,100,Whole,Pre-Order,Yes
+12029,04-05-2021,01-05-2021,Tuesday,Cherry,3,60,Whole,In-Store,No
+12030,04-05-2021,01-05-2021,Tuesday,Cherry,4,10,Slice,In-Store,No
+12031,04-05-2021,01-05-2021,Tuesday,Apple,5,100,Whole,In-Store,Yes
+12032,04-05-2021,01-05-2021,Tuesday,Apple,4,80,Whole,Pre-Order,No
+12033,04-05-2021,01-05-2021,Tuesday,Cherry,2,40,Whole,Pre-Order,No
+12034,04-05-2021,01-05-2021,Tuesday,Apple,4,10,Slice,In-Store,No
+12035,04-05-2021,01-05-2021,Tuesday,Apple,2,5,Slice,Pre-Order,No
+12036,04-05-2021,01-05-2021,Tuesday,Apple,1,20,Whole,In-Store,No
+12037,04-05-2021,01-05-2021,Tuesday,Apple,2,40,Whole,Pre-Order,No
+12038,24-02-2020,01-02-2020,Monday,Cherry,5,12.5,Slice,Pre-Order,No
+12039,24-02-2020,01-02-2020,Monday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12040,24-02-2020,01-02-2020,Monday,Cherry,2,40,Whole,In-Store,No
+12041,24-02-2020,01-02-2020,Monday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12042,24-02-2020,01-02-2020,Monday,Cherry,3,7.5,Slice,Pre-Order,No
+12043,24-02-2020,01-02-2020,Monday,Cherry,5,100,Whole,Pre-Order,No
+12044,24-02-2020,01-02-2020,Monday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12045,24-02-2020,01-02-2020,Monday,Cherry,4,80,Whole,Pre-Order,Yes
+12046,24-02-2020,01-02-2020,Monday,Cherry,2,40,Whole,In-Store,No
+12047,24-02-2020,01-02-2020,Monday,Cherry,2,40,Whole,In-Store,Yes
+12048,15-09-2020,01-09-2020,Tuesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12049,15-09-2020,01-09-2020,Tuesday,Strawberry Rhubarb,4,10,Slice,In-Store,No
+12050,15-09-2020,01-09-2020,Tuesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+12051,15-09-2020,01-09-2020,Tuesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12052,15-09-2020,01-09-2020,Tuesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12053,06-07-2021,01-07-2021,Tuesday,Blueberry,1,2.5,Slice,Pre-Order,No
+12054,06-07-2021,01-07-2021,Tuesday,Blueberry,4,10,Slice,Pre-Order,Yes
+12055,06-07-2021,01-07-2021,Tuesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+12056,06-07-2021,01-07-2021,Tuesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+12057,06-07-2021,01-07-2021,Tuesday,Blueberry,1,20,Whole,In-Store,Yes
+12058,06-07-2021,01-07-2021,Tuesday,Apple,2,40,Whole,Pre-Order,Yes
+12059,06-07-2021,01-07-2021,Tuesday,Fudge,4,80,Whole,Pre-Order,No
+12060,06-07-2021,01-07-2021,Tuesday,Blueberry,2,40,Whole,In-Store,No
+12061,06-07-2021,01-07-2021,Tuesday,Fudge,2,40,Whole,Pre-Order,Yes
+12062,06-07-2021,01-07-2021,Tuesday,Apple,2,5,Slice,In-Store,No
+12063,06-07-2021,01-07-2021,Tuesday,Apple,1,20,Whole,In-Store,No
+12064,06-07-2021,01-07-2021,Tuesday,Apple,5,12.5,Slice,In-Store,Yes
+12065,06-07-2021,01-07-2021,Tuesday,Fudge,1,20,Whole,Pre-Order,No
+12066,06-07-2021,01-07-2021,Tuesday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+12067,06-07-2021,01-07-2021,Tuesday,Blueberry,4,10,Slice,Pre-Order,No
+12068,06-07-2021,01-07-2021,Tuesday,Blueberry,3,7.5,Slice,In-Store,Yes
+12069,06-07-2021,01-07-2021,Tuesday,Fudge,1,2.5,Slice,In-Store,Yes
+12070,14-06-2019,01-06-2019,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+12071,14-06-2019,01-06-2019,Friday,Apple,3,7.5,Slice,In-Store,Yes
+12072,14-06-2019,01-06-2019,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12073,14-06-2019,01-06-2019,Friday,Apple,5,12.5,Slice,In-Store,Yes
+12074,18-08-2020,01-08-2020,Tuesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12075,18-08-2020,01-08-2020,Tuesday,Other,1,20,Whole,Pre-Order,Yes
+12076,18-08-2020,01-08-2020,Tuesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12077,18-08-2020,01-08-2020,Tuesday,Other,2,5,Slice,In-Store,Yes
+12078,18-08-2020,01-08-2020,Tuesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12079,18-08-2020,01-08-2020,Tuesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12080,18-08-2020,01-08-2020,Tuesday,Cherry,2,40,Whole,Pre-Order,Yes
+12081,18-08-2020,01-08-2020,Tuesday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12082,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12083,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12084,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12085,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12086,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12087,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12088,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+12089,08-03-2020,01-03-2020,Sunday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12090,10-04-2021,01-04-2021,Saturday,Cherry,4,10,Slice,In-Store,Yes
+12091,10-04-2021,01-04-2021,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+12092,25-03-2020,01-03-2020,Wednesday,Cherry,1,2.5,Slice,In-Store,Yes
+12093,25-03-2020,01-03-2020,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12094,25-03-2020,01-03-2020,Wednesday,Cherry,1,20,Whole,Pre-Order,Yes
+12095,25-03-2020,01-03-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12096,25-03-2020,01-03-2020,Wednesday,Cherry,2,40,Whole,In-Store,Yes
+12097,25-03-2020,01-03-2020,Wednesday,Cherry,2,40,Whole,Pre-Order,Yes
+12098,25-03-2020,01-03-2020,Wednesday,Apple,3,60,Whole,Pre-Order,Yes
+12099,25-03-2020,01-03-2020,Wednesday,Cherry,1,2.5,Slice,Pre-Order,Yes
+12100,08-11-2020,01-11-2020,Sunday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12101,08-11-2020,01-11-2020,Sunday,Pumpkin,3,60,Whole,In-Store,Yes
+12102,08-11-2020,01-11-2020,Sunday,Apple,2,5,Slice,In-Store,Yes
+12103,08-11-2020,01-11-2020,Sunday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12104,13-08-2021,01-08-2021,Friday,Apple,2,5,Slice,In-Store,Yes
+12105,13-08-2021,01-08-2021,Friday,Apple,5,12.5,Slice,In-Store,Yes
+12106,13-08-2021,01-08-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12107,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+12108,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12109,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12110,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12111,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12112,13-08-2019,01-08-2019,Tuesday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12113,06-09-2020,01-09-2020,Sunday,Pumpkin,2,40,Whole,In-Store,Yes
+12114,06-09-2020,01-09-2020,Sunday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12115,06-09-2020,01-09-2020,Sunday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12116,22-11-2021,01-11-2021,Monday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12117,22-11-2021,01-11-2021,Monday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12118,22-04-2021,01-04-2021,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12119,22-04-2021,01-04-2021,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12120,22-04-2021,01-04-2021,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12121,22-11-2021,01-11-2021,Monday,Apple,2,40,Whole,Pre-Order,Yes
+12122,22-04-2021,01-04-2021,Thursday,Apple,4,10,Slice,In-Store,Yes
+12123,22-11-2021,01-11-2021,Monday,Apple,1,20,Whole,In-Store,Yes
+12124,22-11-2021,01-11-2021,Monday,Fudge,3,7.5,Slice,Pre-Order,Yes
+12125,22-11-2021,01-11-2021,Monday,Fudge,2,40,Whole,In-Store,Yes
+12126,22-11-2021,01-11-2021,Monday,Fudge,3,60,Whole,Pre-Order,Yes
+12127,22-11-2021,01-11-2021,Monday,Apple,3,60,Whole,Pre-Order,Yes
+12128,22-11-2021,01-11-2021,Monday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12129,22-11-2021,01-11-2021,Monday,Pumpkin,2,5,Slice,In-Store,Yes
+12130,25-04-2020,01-04-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12131,25-04-2020,01-04-2020,Saturday,Apple,1,20,Whole,In-Store,Yes
+12132,25-04-2020,01-04-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+12133,25-04-2020,01-04-2020,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+12134,25-04-2020,01-04-2020,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+12135,25-04-2020,01-04-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+12136,25-04-2020,01-04-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+12137,25-04-2020,01-04-2020,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+12138,25-04-2020,01-04-2020,Saturday,Apple,2,40,Whole,In-Store,Yes
+12139,25-11-2020,01-11-2020,Wednesday,Pumpkin,2,40,Whole,In-Store,Yes
+12140,05-12-2020,01-12-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+12141,05-12-2020,01-12-2020,Saturday,Cherry,4,80,Whole,In-Store,Yes
+12142,12-10-2021,01-10-2021,Tuesday,Fudge,2,5,Slice,In-Store,Yes
+12143,12-10-2021,01-10-2021,Tuesday,Apple,4,80,Whole,Pre-Order,Yes
+12144,12-10-2021,01-10-2021,Tuesday,Fudge,2,5,Slice,Pre-Order,Yes
+12145,12-10-2021,01-10-2021,Tuesday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+12146,12-10-2021,01-10-2021,Tuesday,Apple,4,10,Slice,In-Store,Yes
+12147,29-04-2020,01-04-2020,Wednesday,Other,4,80,Whole,Pre-Order,Yes
+12148,29-11-2020,01-11-2020,Sunday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12149,29-11-2020,01-11-2020,Sunday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12150,29-04-2020,01-04-2020,Wednesday,Cherry,1,2.5,Slice,In-Store,Yes
+12151,29-11-2020,01-11-2020,Sunday,Pumpkin,3,60,Whole,Pre-Order,Yes
+12152,29-04-2020,01-04-2020,Wednesday,Cherry,2,40,Whole,In-Store,Yes
+12153,29-11-2020,01-11-2020,Sunday,Pumpkin,2,40,Whole,In-Store,Yes
+12154,29-04-2020,01-04-2020,Wednesday,Cherry,3,7.5,Slice,In-Store,Yes
+12155,29-04-2020,01-04-2020,Wednesday,Cherry,2,5,Slice,Pre-Order,Yes
+12156,29-11-2020,01-11-2020,Sunday,Pumpkin,2,5,Slice,Pre-Order,Yes
+12157,20-03-2021,01-03-2021,Saturday,Pumpkin,3,60,Whole,Pre-Order,Yes
+12158,20-03-2021,01-03-2021,Saturday,Pumpkin,4,10,Slice,In-Store,Yes
+12159,20-03-2021,01-03-2021,Saturday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12160,20-03-2021,01-03-2021,Saturday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12161,20-03-2021,01-03-2021,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12162,20-03-2021,01-03-2021,Saturday,Fudge,2,5,Slice,In-Store,Yes
+12163,20-03-2021,01-03-2021,Saturday,Fudge,3,7.5,Slice,Pre-Order,Yes
+12164,20-03-2021,01-03-2021,Saturday,Fudge,1,20,Whole,Pre-Order,Yes
+12165,20-03-2021,01-03-2021,Saturday,Fudge,4,80,Whole,Pre-Order,Yes
+12166,20-03-2021,01-03-2021,Saturday,Apple,4,80,Whole,In-Store,Yes
+12167,20-03-2021,01-03-2021,Saturday,Apple,3,60,Whole,In-Store,Yes
+12168,20-03-2021,01-03-2021,Saturday,Fudge,3,60,Whole,In-Store,Yes
+12169,20-03-2021,01-03-2021,Saturday,Fudge,4,80,Whole,In-Store,Yes
+12170,20-03-2021,01-03-2021,Saturday,Fudge,4,80,Whole,In-Store,Yes
+12171,20-03-2021,01-03-2021,Saturday,Fudge,4,80,Whole,In-Store,Yes
+12172,20-03-2021,01-03-2021,Saturday,Fudge,2,40,Whole,Pre-Order,Yes
+12173,05-05-2020,01-05-2020,Tuesday,Apple,1,2.5,Slice,Pre-Order,Yes
+12174,05-05-2020,01-05-2020,Tuesday,Fudge,4,10,Slice,In-Store,Yes
+12175,05-05-2020,01-05-2020,Tuesday,Fudge,3,7.5,Slice,In-Store,Yes
+12176,03-07-2020,01-07-2020,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+12177,03-07-2020,01-07-2020,Friday,Cherry,1,20,Whole,Pre-Order,Yes
+12178,03-07-2020,01-07-2020,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12179,03-07-2020,01-07-2020,Friday,Apple,1,2.5,Slice,Pre-Order,Yes
+12180,03-07-2020,01-07-2020,Friday,Apple,3,7.5,Slice,In-Store,Yes
+12181,03-07-2020,01-07-2020,Friday,Apple,2,40,Whole,In-Store,Yes
+12182,03-07-2020,01-07-2020,Friday,Apple,1,20,Whole,In-Store,Yes
+12183,03-07-2020,01-07-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+12184,03-07-2020,01-07-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+12185,03-07-2020,01-07-2020,Friday,Apple,1,20,Whole,In-Store,Yes
+12186,14-10-2020,01-10-2020,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12187,14-10-2020,01-10-2020,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12188,14-10-2020,01-10-2020,Wednesday,Fudge,5,100,Whole,Pre-Order,Yes
+12189,14-10-2020,01-10-2020,Wednesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+12190,14-10-2020,01-10-2020,Wednesday,Fudge,3,60,Whole,In-Store,Yes
+12191,14-10-2020,01-10-2020,Wednesday,Fudge,4,80,Whole,In-Store,Yes
+12192,14-10-2020,01-10-2020,Wednesday,Apple,5,100,Whole,Pre-Order,Yes
+12193,14-10-2020,01-10-2020,Wednesday,Apple,4,10,Slice,Pre-Order,Yes
+12194,14-10-2020,01-10-2020,Wednesday,Fudge,3,60,Whole,In-Store,Yes
+12195,14-10-2020,01-10-2020,Wednesday,Fudge,3,60,Whole,Pre-Order,Yes
+12196,14-10-2020,01-10-2020,Wednesday,Fudge,1,20,Whole,Pre-Order,Yes
+12197,14-10-2020,01-10-2020,Wednesday,Fudge,5,12.5,Slice,Pre-Order,Yes
+12198,14-10-2020,01-10-2020,Wednesday,Fudge,5,100,Whole,Pre-Order,Yes
+12199,14-10-2020,01-10-2020,Wednesday,Fudge,5,12.5,Slice,In-Store,Yes
+12200,17-11-2020,01-11-2020,Tuesday,Apple,4,80,Whole,In-Store,Yes
+12201,17-11-2020,01-11-2020,Tuesday,Apple,1,2.5,Slice,In-Store,Yes
+12202,17-11-2020,01-11-2020,Tuesday,Apple,1,20,Whole,In-Store,Yes
+12203,17-11-2020,01-11-2020,Tuesday,Apple,3,7.5,Slice,Pre-Order,Yes
+12204,17-11-2020,01-11-2020,Tuesday,Apple,1,2.5,Slice,Pre-Order,Yes
+12205,04-09-2021,01-09-2021,Saturday,Fudge,5,12.5,Slice,In-Store,Yes
+12206,04-09-2021,01-09-2021,Saturday,Fudge,4,10,Slice,In-Store,Yes
+12207,04-09-2021,01-09-2021,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12208,04-09-2021,01-09-2021,Saturday,Fudge,3,60,Whole,In-Store,Yes
+12209,04-09-2021,01-09-2021,Saturday,Blueberry,2,40,Whole,In-Store,Yes
+12210,04-09-2021,01-09-2021,Saturday,Apple,3,60,Whole,In-Store,Yes
+12211,04-09-2021,01-09-2021,Saturday,Blueberry,2,40,Whole,Pre-Order,Yes
+12212,04-09-2021,01-09-2021,Saturday,Apple,4,80,Whole,Pre-Order,Yes
+12213,04-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+12214,25-09-2021,01-09-2021,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+12215,25-09-2021,01-09-2021,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+12216,25-09-2021,01-09-2021,Saturday,Apple,5,100,Whole,In-Store,Yes
+12217,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12218,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+12219,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12220,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12221,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12222,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12223,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12224,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+12225,25-09-2021,01-09-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12226,24-10-2019,01-10-2019,Thursday,Apple,4,80,Whole,Pre-Order,Yes
+12227,24-10-2019,01-10-2019,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+12228,24-10-2019,01-10-2019,Thursday,Apple,5,100,Whole,In-Store,Yes
+12229,24-10-2019,01-10-2019,Thursday,Apple,4,80,Whole,In-Store,Yes
+12230,24-10-2019,01-10-2019,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+12231,24-10-2019,01-10-2019,Thursday,Apple,1,20,Whole,Pre-Order,Yes
+12232,24-10-2019,01-10-2019,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+12233,24-10-2019,01-10-2019,Thursday,Pumpkin,5,100,Whole,In-Store,Yes
+12234,24-10-2019,01-10-2019,Thursday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12235,24-10-2019,01-10-2019,Thursday,Apple,4,80,Whole,In-Store,Yes
+12236,24-10-2019,01-10-2019,Thursday,Apple,4,80,Whole,In-Store,Yes
+12237,24-10-2019,01-10-2019,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+12238,24-10-2019,01-10-2019,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+12239,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+12240,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12241,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12242,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12243,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12244,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12245,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12246,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12247,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12248,09-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+12249,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12250,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12251,04-05-2021,01-05-2021,Tuesday,Apple,1,2.5,Slice,Pre-Order,Yes
+12252,04-05-2021,01-05-2021,Tuesday,Apple,4,80,Whole,In-Store,Yes
+12253,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12254,04-05-2021,01-05-2021,Tuesday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12255,15-02-2020,01-02-2020,Saturday,Apple,3,7.5,Slice,Pre-Order,Yes
+12256,15-02-2020,01-02-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12257,15-02-2020,01-02-2020,Saturday,Apple,5,100,Whole,Pre-Order,Yes
+12258,15-02-2020,01-02-2020,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+12259,15-02-2020,01-02-2020,Saturday,Apple,4,10,Slice,In-Store,Yes
+12260,15-02-2020,01-02-2020,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+12261,15-02-2020,01-02-2020,Saturday,Apple,5,12.5,Slice,In-Store,Yes
+12262,15-02-2020,01-02-2020,Saturday,Apple,2,5,Slice,Pre-Order,Yes
+12263,15-02-2020,01-02-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12264,15-02-2020,01-02-2020,Saturday,Apple,3,60,Whole,In-Store,Yes
+12265,15-02-2020,01-02-2020,Saturday,Apple,1,20,Whole,Pre-Order,Yes
+12266,15-07-2020,01-07-2020,Wednesday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12267,15-07-2020,01-07-2020,Wednesday,Cherry,4,10,Slice,Pre-Order,Yes
+12268,15-07-2020,01-07-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12269,15-07-2020,01-07-2020,Wednesday,Cherry,5,100,Whole,In-Store,Yes
+12270,18-04-2020,01-04-2020,Saturday,Fudge,4,10,Slice,Pre-Order,Yes
+12271,18-04-2020,01-04-2020,Saturday,Fudge,2,5,Slice,Pre-Order,Yes
+12272,18-04-2020,01-04-2020,Saturday,Apple,2,40,Whole,In-Store,Yes
+12273,18-04-2020,01-04-2020,Saturday,Fudge,4,80,Whole,Pre-Order,Yes
+12274,18-04-2020,01-04-2020,Saturday,Blueberry,5,12.5,Slice,In-Store,Yes
+12275,18-04-2020,01-04-2020,Saturday,Apple,1,20,Whole,Pre-Order,Yes
+12276,18-04-2020,01-04-2020,Saturday,Blueberry,3,60,Whole,In-Store,Yes
+12277,18-04-2020,01-04-2020,Saturday,Apple,5,12.5,Slice,In-Store,Yes
+12278,18-04-2020,01-04-2020,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12279,26-06-2020,01-06-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+12280,26-06-2020,01-06-2020,Friday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12281,26-06-2020,01-06-2020,Friday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12282,28-02-2020,01-02-2020,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12283,28-02-2020,01-02-2020,Friday,Other,3,60,Whole,Pre-Order,Yes
+12284,28-02-2020,01-02-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12285,28-02-2020,01-02-2020,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12286,10-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,Pre-Order,Yes
+12287,10-04-2020,01-04-2020,Friday,Apple,1,20,Whole,In-Store,Yes
+12288,10-04-2020,01-04-2020,Friday,Cherry,4,10,Slice,In-Store,Yes
+12289,10-04-2020,01-04-2020,Friday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12290,10-04-2020,01-04-2020,Friday,Apple,2,40,Whole,In-Store,Yes
+12291,08-07-2021,01-07-2021,Thursday,Pumpkin,2,5,Slice,In-Store,Yes
+12292,08-07-2021,01-07-2021,Thursday,Fudge,2,5,Slice,In-Store,Yes
+12293,08-07-2021,01-07-2021,Thursday,Fudge,2,5,Slice,Pre-Order,Yes
+12294,08-07-2021,01-07-2021,Thursday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12295,08-07-2021,01-07-2021,Thursday,Pumpkin,2,5,Slice,In-Store,Yes
+12296,08-07-2021,01-07-2021,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12297,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+12298,13-05-2020,01-05-2020,Wednesday,Other,5,100,Whole,Pre-Order,Yes
+12299,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12300,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12301,13-05-2020,01-05-2020,Wednesday,Cherry,1,2.5,Slice,Pre-Order,Yes
+12302,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12303,13-05-2020,01-05-2020,Wednesday,Cherry,4,80,Whole,Pre-Order,Yes
+12304,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12305,13-05-2020,01-05-2020,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+12306,13-05-2020,01-05-2020,Wednesday,Cherry,2,40,Whole,Pre-Order,Yes
+12307,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12308,13-05-2020,01-05-2020,Wednesday,Cherry,5,100,Whole,Pre-Order,Yes
+12309,13-05-2020,01-05-2020,Wednesday,Cherry,5,100,Whole,In-Store,Yes
+12310,13-05-2020,01-05-2020,Wednesday,Cherry,1,2.5,Slice,In-Store,Yes
+12311,13-05-2020,01-05-2020,Wednesday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+12312,13-05-2020,01-05-2020,Wednesday,Cherry,1,2.5,Slice,Pre-Order,Yes
+12313,29-09-2020,01-09-2020,Tuesday,Apple,1,2.5,Slice,In-Store,Yes
+12314,29-09-2020,01-09-2020,Tuesday,Apple,4,10,Slice,Pre-Order,Yes
+12315,29-08-2019,01-08-2019,Thursday,Cherry,4,80,Whole,Pre-Order,Yes
+12316,29-08-2019,01-08-2019,Thursday,Cherry,3,7.5,Slice,In-Store,Yes
+12317,29-08-2019,01-08-2019,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+12318,29-08-2019,01-08-2019,Thursday,Cherry,2,40,Whole,Pre-Order,Yes
+12319,05-12-2019,01-12-2019,Thursday,Apple,5,100,Whole,In-Store,Yes
+12320,05-12-2019,01-12-2019,Thursday,Pumpkin,4,80,Whole,Pre-Order,Yes
+12321,05-12-2019,01-12-2019,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12322,05-12-2019,01-12-2019,Thursday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+12323,05-12-2019,01-12-2019,Thursday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12324,05-12-2019,01-12-2019,Thursday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12325,05-12-2019,01-12-2019,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+12326,05-12-2019,01-12-2019,Thursday,Pumpkin,2,40,Whole,In-Store,Yes
+12327,05-12-2019,01-12-2019,Thursday,Fudge,5,12.5,Slice,In-Store,Yes
+12328,05-12-2019,01-12-2019,Thursday,Other,5,100,Whole,Pre-Order,Yes
+12329,05-12-2019,01-12-2019,Thursday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12330,05-12-2019,01-12-2019,Thursday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+12331,05-12-2019,01-12-2019,Thursday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12332,05-12-2019,01-12-2019,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12333,05-12-2019,01-12-2019,Thursday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12334,05-12-2019,01-12-2019,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+12335,05-12-2019,01-12-2019,Thursday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12336,11-01-2020,01-01-2020,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+12337,11-01-2020,01-01-2020,Saturday,Blueberry,1,20,Whole,In-Store,Yes
+12338,11-01-2020,01-01-2020,Saturday,Blueberry,3,60,Whole,In-Store,Yes
+12339,11-01-2020,01-01-2020,Saturday,Blueberry,2,5,Slice,Pre-Order,Yes
+12340,11-01-2020,01-01-2020,Saturday,Blueberry,3,60,Whole,Pre-Order,Yes
+12341,11-01-2020,01-01-2020,Saturday,Blueberry,4,80,Whole,In-Store,Yes
+12342,11-01-2020,01-01-2020,Saturday,Apple,5,12.5,Slice,Pre-Order,Yes
+12343,11-01-2020,01-01-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12344,11-01-2020,01-01-2020,Saturday,Blueberry,3,60,Whole,In-Store,Yes
+12345,11-01-2020,01-01-2020,Saturday,Other,5,12.5,Slice,Pre-Order,Yes
+12346,11-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+12347,11-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12348,11-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12349,11-01-2020,01-01-2020,Saturday,Other,5,100,Whole,In-Store,Yes
+12350,11-01-2020,01-01-2020,Saturday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12351,11-01-2020,01-01-2020,Saturday,Other,5,12.5,Slice,Pre-Order,Yes
+12352,16-04-2020,01-04-2020,Thursday,Apple,5,100,Whole,In-Store,Yes
+12353,16-04-2020,01-04-2020,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+12354,16-04-2020,01-04-2020,Thursday,Apple,5,100,Whole,In-Store,Yes
+12355,16-04-2020,01-04-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+12356,16-04-2020,01-04-2020,Thursday,Apple,4,80,Whole,In-Store,Yes
+12357,16-04-2020,01-04-2020,Thursday,Apple,2,40,Whole,In-Store,Yes
+12358,16-04-2020,01-04-2020,Thursday,Apple,1,20,Whole,Pre-Order,Yes
+12359,16-04-2020,01-04-2020,Thursday,Apple,1,20,Whole,In-Store,Yes
+12360,16-04-2020,01-04-2020,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+12361,16-04-2020,01-04-2020,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+12362,16-04-2020,01-04-2020,Thursday,Apple,2,5,Slice,Pre-Order,Yes
+12363,18-11-2021,01-11-2021,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+12364,18-11-2021,01-11-2021,Thursday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12365,18-11-2021,01-11-2021,Thursday,Pumpkin,3,60,Whole,Pre-Order,Yes
+12366,18-11-2021,01-11-2021,Thursday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12367,18-11-2021,01-11-2021,Thursday,Pumpkin,4,10,Slice,In-Store,Yes
+12368,18-11-2021,01-11-2021,Thursday,Pumpkin,5,100,Whole,In-Store,Yes
+12369,14-08-2020,01-08-2020,Friday,Cherry,1,2.5,Slice,In-Store,Yes
+12370,14-08-2020,01-08-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12371,14-08-2020,01-08-2020,Friday,Cherry,2,40,Whole,Pre-Order,Yes
+12372,14-08-2020,01-08-2020,Friday,Cherry,3,7.5,Slice,In-Store,Yes
+12373,14-08-2020,01-08-2020,Friday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+12374,14-08-2020,01-08-2020,Friday,Cherry,3,60,Whole,Pre-Order,Yes
+12375,14-08-2020,01-08-2020,Friday,Cherry,1,2.5,Slice,In-Store,Yes
+12376,14-08-2020,01-08-2020,Friday,Cherry,1,20,Whole,In-Store,Yes
+12377,14-08-2020,01-08-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12378,14-08-2020,01-08-2020,Friday,Cherry,3,7.5,Slice,In-Store,Yes
+12379,14-08-2020,01-08-2020,Friday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12380,14-08-2020,01-08-2020,Friday,Cherry,2,5,Slice,Pre-Order,Yes
+12381,14-08-2020,01-08-2020,Friday,Cherry,4,80,Whole,In-Store,Yes
+12382,14-08-2020,01-08-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+12383,23-12-2020,01-12-2020,Wednesday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12384,23-12-2020,01-12-2020,Wednesday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12385,23-12-2020,01-12-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12386,23-12-2020,01-12-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12387,23-12-2020,01-12-2020,Wednesday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12388,23-12-2020,01-12-2020,Wednesday,Fudge,4,10,Slice,In-Store,Yes
+12389,23-12-2020,01-12-2020,Wednesday,Cherry,5,12.5,Slice,Pre-Order,Yes
+12390,23-12-2020,01-12-2020,Wednesday,Cherry,1,20,Whole,Pre-Order,Yes
+12391,23-12-2020,01-12-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12392,23-12-2020,01-12-2020,Wednesday,Cherry,5,12.5,Slice,In-Store,Yes
+12393,23-12-2020,01-12-2020,Wednesday,Cherry,2,40,Whole,Pre-Order,Yes
+12394,23-01-2021,01-01-2021,Saturday,Apple,1,2.5,Slice,Pre-Order,Yes
+12395,23-01-2021,01-01-2021,Saturday,Blueberry,5,100,Whole,Pre-Order,Yes
+12396,23-01-2021,01-01-2021,Saturday,Other,1,20,Whole,Pre-Order,Yes
+12397,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12398,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12399,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12400,23-01-2021,01-01-2021,Saturday,Other,5,100,Whole,In-Store,Yes
+12401,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12402,23-01-2021,01-01-2021,Saturday,Other,2,5,Slice,Pre-Order,Yes
+12403,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12404,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12405,23-01-2021,01-01-2021,Saturday,Cherry,2,40,Whole,In-Store,Yes
+12406,23-01-2021,01-01-2021,Saturday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12407,26-03-2021,01-03-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12408,26-03-2021,01-03-2021,Friday,Cherry,4,80,Whole,In-Store,Yes
+12409,26-03-2021,01-03-2021,Friday,Strawberry Rhubarb,1,2.5,Slice,Pre-Order,Yes
+12410,26-03-2021,01-03-2021,Friday,Apple,4,80,Whole,Pre-Order,Yes
+12411,26-03-2021,01-03-2021,Friday,Apple,1,2.5,Slice,In-Store,Yes
+12412,26-03-2021,01-03-2021,Friday,Apple,4,80,Whole,In-Store,Yes
+12413,26-03-2021,01-03-2021,Friday,Apple,4,10,Slice,In-Store,Yes
+12414,26-03-2021,01-03-2021,Friday,Apple,3,60,Whole,In-Store,Yes
+12415,26-03-2021,01-03-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+12416,26-03-2021,01-03-2021,Friday,Apple,4,10,Slice,In-Store,Yes
+12417,26-03-2021,01-03-2021,Friday,Apple,4,80,Whole,Pre-Order,Yes
+12418,26-03-2021,01-03-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12419,26-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+12420,26-03-2021,01-03-2021,Friday,Apple,2,40,Whole,In-Store,Yes
+12421,26-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+12422,26-03-2021,01-03-2021,Friday,Apple,5,100,Whole,Pre-Order,Yes
+12423,26-03-2021,01-03-2021,Friday,Apple,4,10,Slice,Pre-Order,Yes
+12424,24-04-2021,01-04-2021,Saturday,Cherry,5,100,Whole,In-Store,Yes
+12425,24-04-2021,01-04-2021,Saturday,Strawberry Rhubarb,3,7.5,Slice,In-Store,Yes
+12426,24-04-2021,01-04-2021,Saturday,Cherry,4,80,Whole,In-Store,Yes
+12427,15-05-2021,01-05-2021,Saturday,Cherry,5,100,Whole,Pre-Order,Yes
+12428,15-05-2021,01-05-2021,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+12429,15-05-2021,01-05-2021,Saturday,Apple,5,12.5,Slice,In-Store,Yes
+12430,15-05-2021,01-05-2021,Saturday,Apple,5,12.5,Slice,Pre-Order,Yes
+12431,15-05-2021,01-05-2021,Saturday,Apple,3,60,Whole,In-Store,Yes
+12432,15-05-2021,01-05-2021,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+12433,15-05-2021,01-05-2021,Saturday,Cherry,1,20,Whole,Pre-Order,Yes
+12434,15-05-2021,01-05-2021,Saturday,Cherry,5,12.5,Slice,In-Store,Yes
+12435,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12436,15-05-2021,01-05-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12437,24-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12438,24-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12439,24-06-2021,01-06-2021,Thursday,Apple,1,20,Whole,In-Store,Yes
+12440,24-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12441,24-06-2021,01-06-2021,Thursday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12442,28-06-2021,01-06-2021,Monday,Cherry,5,12.5,Slice,In-Store,Yes
+12443,28-06-2021,01-06-2021,Monday,Cherry,5,12.5,Slice,Pre-Order,Yes
+12444,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12445,28-06-2021,01-06-2021,Monday,Cherry,4,80,Whole,In-Store,Yes
+12446,28-06-2021,01-06-2021,Monday,Cherry,4,80,Whole,In-Store,Yes
+12447,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12448,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12449,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12450,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12451,28-06-2021,01-06-2021,Monday,Cherry,4,80,Whole,In-Store,Yes
+12452,28-06-2021,01-06-2021,Monday,Other,3,60,Whole,Pre-Order,Yes
+12453,28-06-2021,01-06-2021,Monday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12454,23-07-2021,01-07-2021,Friday,Cherry,5,12.5,Slice,Pre-Order,Yes
+12455,23-07-2021,01-07-2021,Friday,Apple,1,2.5,Slice,In-Store,Yes
+12456,23-07-2021,01-07-2021,Friday,Cherry,2,5,Slice,In-Store,Yes
+12457,23-07-2021,01-07-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12458,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12459,23-07-2021,01-07-2021,Friday,Cherry,4,10,Slice,In-Store,Yes
+12460,23-07-2021,01-07-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12461,23-07-2021,01-07-2021,Friday,Cherry,3,60,Whole,In-Store,Yes
+12462,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12463,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12464,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12465,23-07-2021,01-07-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12466,23-07-2021,01-07-2021,Friday,Cherry,2,40,Whole,Pre-Order,Yes
+12467,03-08-2021,01-08-2021,Tuesday,Blueberry,2,5,Slice,Pre-Order,Yes
+12468,03-08-2021,01-08-2021,Tuesday,Apple,4,10,Slice,Pre-Order,Yes
+12469,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+12470,07-08-2021,01-08-2021,Saturday,Pumpkin,4,10,Slice,In-Store,Yes
+12471,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12472,07-08-2021,01-08-2021,Saturday,Pumpkin,4,10,Slice,Pre-Order,Yes
+12473,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12474,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12475,07-08-2021,01-08-2021,Saturday,Apple,1,2.5,Slice,Pre-Order,Yes
+12476,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12477,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12478,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12479,07-08-2021,01-08-2021,Saturday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12480,07-08-2021,01-08-2021,Saturday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12481,07-08-2021,01-08-2021,Saturday,Pumpkin,3,7.5,Slice,Pre-Order,Yes
+12482,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12483,07-08-2021,01-08-2021,Saturday,Strawberry Rhubarb,5,12.5,Slice,In-Store,Yes
+12484,07-08-2021,01-08-2021,Saturday,Apple,2,40,Whole,Pre-Order,Yes
+12485,26-08-2021,01-08-2021,Thursday,Blueberry,2,40,Whole,In-Store,Yes
+12486,26-08-2021,01-08-2021,Thursday,Apple,5,100,Whole,In-Store,Yes
+12487,26-08-2021,01-08-2021,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12488,26-08-2021,01-08-2021,Thursday,Other,2,40,Whole,In-Store,Yes
+12489,26-08-2021,01-08-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+12490,26-08-2021,01-08-2021,Thursday,Blueberry,2,5,Slice,In-Store,Yes
+12491,26-08-2021,01-08-2021,Thursday,Apple,2,5,Slice,In-Store,Yes
+12492,26-08-2021,01-08-2021,Thursday,Apple,1,20,Whole,Pre-Order,Yes
+12493,01-11-2021,01-11-2021,Monday,Apple,2,5,Slice,Pre-Order,Yes
+12494,01-11-2021,01-11-2021,Monday,Apple,1,20,Whole,Pre-Order,Yes
+12495,24-07-2020,01-07-2020,Friday,Fudge,4,80,Whole,Pre-Order,Yes
+12496,24-07-2020,01-07-2020,Friday,Fudge,5,100,Whole,Pre-Order,Yes
+12497,24-07-2020,01-07-2020,Friday,Fudge,4,80,Whole,In-Store,Yes
+12498,24-07-2020,01-07-2020,Friday,Fudge,3,60,Whole,In-Store,Yes
+12499,24-07-2020,01-07-2020,Friday,Fudge,1,20,Whole,In-Store,Yes
+12500,24-07-2020,01-07-2020,Friday,Apple,3,7.5,Slice,Pre-Order,Yes
+12501,24-07-2020,01-07-2020,Friday,Fudge,5,100,Whole,Pre-Order,Yes
+12502,24-07-2020,01-07-2020,Friday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+12503,24-07-2020,01-07-2020,Friday,Apple,2,40,Whole,Pre-Order,Yes
+12504,24-07-2020,01-07-2020,Friday,Blueberry,4,10,Slice,In-Store,Yes
+12505,24-07-2020,01-07-2020,Friday,Apple,2,5,Slice,In-Store,Yes
+12506,24-07-2020,01-07-2020,Friday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12507,24-07-2020,01-07-2020,Friday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+12508,24-07-2020,01-07-2020,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12509,24-07-2020,01-07-2020,Friday,Blueberry,1,20,Whole,In-Store,Yes
+12510,24-07-2020,01-07-2020,Friday,Blueberry,2,5,Slice,Pre-Order,Yes
+12511,24-07-2020,01-07-2020,Friday,Blueberry,1,20,Whole,In-Store,Yes
+12512,24-07-2020,01-07-2020,Friday,Blueberry,2,40,Whole,In-Store,Yes
+12513,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12514,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12515,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12516,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12517,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+12518,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12519,31-07-2020,01-07-2020,Friday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12520,11-06-2019,01-06-2019,Tuesday,Apple,4,10,Slice,In-Store,Yes
+12521,11-06-2019,01-06-2019,Tuesday,Apple,4,10,Slice,Pre-Order,Yes
+12522,11-06-2019,01-06-2019,Tuesday,Apple,3,7.5,Slice,In-Store,Yes
+12523,11-06-2019,01-06-2019,Tuesday,Apple,4,80,Whole,In-Store,Yes
+12524,24-04-2020,01-04-2020,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12525,24-04-2020,01-04-2020,Friday,Strawberry Rhubarb,2,5,Slice,Pre-Order,Yes
+12526,24-04-2020,01-04-2020,Friday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12527,20-11-2021,01-11-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12528,20-11-2021,01-11-2021,Friday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12529,20-11-2021,01-11-2021,Friday,Pumpkin,2,40,Whole,In-Store,Yes
+12530,20-11-2021,01-11-2021,Friday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12531,20-11-2021,01-11-2021,Friday,Pumpkin,3,60,Whole,Pre-Order,Yes
+12532,20-11-2021,01-11-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12533,20-11-2021,01-11-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12534,20-11-2021,01-11-2021,Friday,Pumpkin,4,10,Slice,In-Store,Yes
+12535,20-11-2021,01-11-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12536,20-11-2021,01-11-2021,Friday,Pumpkin,4,80,Whole,In-Store,Yes
+12537,20-11-2021,01-11-2021,Friday,Pumpkin,5,100,Whole,In-Store,Yes
+12538,20-11-2021,01-11-2021,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12539,20-11-2021,01-11-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12540,09-04-2021,01-04-2021,Friday,Apple,5,100,Whole,Pre-Order,Yes
+12541,09-04-2021,01-04-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12542,09-04-2021,01-04-2021,Friday,Strawberry Rhubarb,4,80,Whole,In-Store,Yes
+12543,09-04-2021,01-04-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12544,09-04-2021,01-04-2021,Friday,Apple,3,60,Whole,In-Store,Yes
+12545,09-04-2021,01-04-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+12546,09-04-2021,01-04-2021,Friday,Apple,2,5,Slice,Pre-Order,Yes
+12547,09-04-2021,01-04-2021,Friday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12548,09-04-2021,01-04-2021,Friday,Cherry,3,7.5,Slice,In-Store,Yes
+12549,09-04-2021,01-04-2021,Friday,Cherry,3,60,Whole,In-Store,Yes
+12550,09-04-2021,01-04-2021,Friday,Cherry,5,100,Whole,Pre-Order,Yes
+12551,09-04-2021,01-04-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+12552,09-04-2021,01-04-2021,Friday,Apple,4,10,Slice,In-Store,Yes
+12553,09-04-2021,01-04-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12554,26-11-2020,01-11-2021,Thursday,Pumpkin,3,60,Whole,Pre-Order,Yes
+12555,26-11-2020,01-11-2021,Thursday,Pumpkin,2,5,Slice,Pre-Order,Yes
+12556,26-11-2020,01-11-2021,Thursday,Pumpkin,2,5,Slice,In-Store,Yes
+12557,26-11-2020,01-11-2021,Thursday,Pumpkin,4,80,Whole,Pre-Order,Yes
+12558,26-11-2020,01-11-2021,Thursday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12559,26-11-2020,01-11-2021,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12560,26-11-2020,01-11-2021,Thursday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12561,26-11-2020,01-11-2021,Thursday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12562,26-11-2020,01-11-2021,Thursday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12563,26-11-2020,01-11-2021,Thursday,Pumpkin,1,20,Whole,In-Store,Yes
+12564,26-11-2020,01-11-2021,Thursday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12565,26-11-2020,01-11-2021,Thursday,Apple,4,10,Slice,In-Store,Yes
+12566,26-11-2020,01-11-2021,Thursday,Apple,1,2.5,Slice,Pre-Order,Yes
+12567,26-11-2020,01-11-2021,Thursday,Apple,4,80,Whole,In-Store,Yes
+12568,26-11-2020,01-11-2021,Thursday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12569,16-04-2020,01-04-2020,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12570,16-04-2020,01-04-2020,Thursday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,Yes
+12571,22-04-2020,01-04-2020,Wednesday,Pumpkin,2,5,Slice,Pre-Order,Yes
+12572,22-04-2020,01-04-2020,Wednesday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12573,22-04-2020,01-04-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12574,22-04-2020,01-04-2020,Wednesday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12575,22-04-2020,01-04-2020,Wednesday,Pumpkin,2,40,Whole,In-Store,Yes
+12576,22-04-2020,01-04-2020,Wednesday,Pumpkin,4,10,Slice,In-Store,Yes
+12577,22-04-2020,01-04-2020,Wednesday,Pumpkin,1,20,Whole,In-Store,Yes
+12578,22-04-2020,01-04-2020,Wednesday,Fudge,4,80,Whole,In-Store,Yes
+12579,06-02-2021,01-02-2021,Saturday,Apple,4,10,Slice,In-Store,Yes
+12580,06-02-2021,01-02-2021,Saturday,Apple,4,10,Slice,Pre-Order,Yes
+12581,06-02-2021,01-02-2021,Saturday,Apple,5,100,Whole,In-Store,Yes
+12582,06-02-2021,01-02-2021,Saturday,Apple,5,100,Whole,Pre-Order,Yes
+12583,21-08-2019,01-08-2019,Wednesday,Apple,1,2.5,Slice,In-Store,Yes
+12584,21-08-2019,01-08-2019,Wednesday,Apple,1,2.5,Slice,Pre-Order,Yes
+12585,21-08-2019,01-08-2019,Wednesday,Apple,5,12.5,Slice,Pre-Order,Yes
+12586,21-08-2019,01-08-2019,Wednesday,Apple,3,60,Whole,In-Store,Yes
+12587,21-08-2019,01-08-2019,Wednesday,Apple,3,7.5,Slice,Pre-Order,Yes
+12588,21-08-2019,01-08-2019,Wednesday,Apple,3,60,Whole,Pre-Order,Yes
+12589,21-08-2019,01-08-2019,Wednesday,Apple,1,20,Whole,Pre-Order,Yes
+12590,21-08-2019,01-08-2019,Wednesday,Apple,3,7.5,Slice,In-Store,Yes
+12591,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12592,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12593,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12594,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12595,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12596,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,4,80,Whole,Pre-Order,Yes
+12597,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12598,21-08-2019,01-08-2019,Wednesday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+12599,19-03-2021,01-03-2021,Friday,Blueberry,2,40,Whole,Pre-Order,Yes
+12600,19-03-2021,01-03-2021,Friday,Apple,3,60,Whole,Pre-Order,Yes
+12601,19-03-2021,01-03-2021,Friday,Blueberry,5,100,Whole,Pre-Order,Yes
+12602,19-03-2021,01-03-2021,Friday,Blueberry,5,100,Whole,In-Store,Yes
+12603,19-03-2021,01-03-2021,Friday,Blueberry,1,20,Whole,Pre-Order,Yes
+12604,19-03-2021,01-03-2021,Friday,Blueberry,3,60,Whole,Pre-Order,Yes
+12605,19-03-2021,01-03-2021,Friday,Blueberry,5,12.5,Slice,Pre-Order,Yes
+12606,19-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,Pre-Order,Yes
+12607,19-03-2021,01-03-2021,Friday,Apple,5,12.5,Slice,In-Store,Yes
+12608,19-03-2021,01-03-2021,Friday,Blueberry,5,100,Whole,Pre-Order,Yes
+12609,19-03-2021,01-03-2021,Friday,Other,2,5,Slice,Pre-Order,Yes
+12610,19-03-2021,01-03-2021,Friday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12611,19-03-2021,01-03-2021,Friday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12612,19-03-2021,01-03-2021,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12613,19-03-2021,01-03-2021,Friday,Other,1,2.5,Slice,Pre-Order,Yes
+12614,19-03-2021,01-03-2021,Friday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12615,19-03-2021,01-03-2021,Friday,Other,5,12.5,Slice,Pre-Order,Yes
+12616,22-04-2021,01-04-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+12617,22-04-2021,01-04-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+12618,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,10,Slice,Pre-Order,Yes
+12619,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,5,100,Whole,In-Store,Yes
+12620,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12621,22-04-2021,01-04-2021,Thursday,Apple,2,5,Slice,In-Store,Yes
+12622,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12623,22-04-2021,01-04-2021,Thursday,Apple,5,100,Whole,In-Store,Yes
+12624,22-04-2021,01-04-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+12625,22-04-2021,01-04-2021,Thursday,Apple,4,10,Slice,Pre-Order,Yes
+12626,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12627,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,2,5,Slice,In-Store,Yes
+12628,22-04-2021,01-04-2021,Thursday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12629,22-04-2021,01-04-2021,Thursday,Apple,4,80,Whole,In-Store,Yes
+12630,22-04-2021,01-04-2021,Thursday,Apple,2,40,Whole,In-Store,Yes
+12631,22-04-2021,01-04-2021,Thursday,Apple,5,100,Whole,Pre-Order,Yes
+12632,22-04-2021,01-04-2021,Thursday,Apple,2,5,Slice,Pre-Order,Yes
+12633,22-04-2021,01-04-2021,Thursday,Apple,1,2.5,Slice,In-Store,Yes
+12634,25-03-2020,01-03-2020,Wednesday,Apple,2,40,Whole,Pre-Order,Yes
+12635,25-03-2020,01-03-2020,Wednesday,Apple,3,60,Whole,Pre-Order,Yes
+12636,25-03-2020,01-03-2020,Wednesday,Blueberry,1,2.5,Slice,Pre-Order,Yes
+12637,13-11-2021,01-11-2021,Friday,Pumpkin,2,40,Whole,In-Store,Yes
+12638,13-11-2021,01-11-2021,Friday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12639,13-11-2021,01-11-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12640,13-11-2021,01-11-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12641,13-11-2021,01-11-2021,Friday,Pumpkin,5,12.5,Slice,In-Store,Yes
+12642,13-11-2021,01-11-2021,Friday,Pumpkin,1,2.5,Slice,In-Store,Yes
+12643,13-11-2021,01-11-2021,Friday,Pumpkin,5,100,Whole,Pre-Order,Yes
+12644,13-11-2021,01-11-2021,Friday,Apple,5,100,Whole,In-Store,Yes
+12645,13-11-2021,01-11-2021,Friday,Apple,3,7.5,Slice,In-Store,Yes
+12646,13-11-2021,01-11-2021,Friday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12647,13-11-2021,01-11-2021,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12648,13-11-2021,01-11-2021,Friday,Pumpkin,1,20,Whole,In-Store,Yes
+12649,13-11-2021,01-11-2021,Friday,Apple,4,80,Whole,In-Store,Yes
+12650,13-11-2021,01-11-2021,Friday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12651,13-11-2021,01-11-2021,Friday,Pumpkin,5,12.5,Slice,Pre-Order,Yes
+12652,06-08-2021,01-08-2021,Friday,Apple,3,60,Whole,In-Store,Yes
+12653,06-08-2021,01-08-2021,Friday,Fudge,1,2.5,Slice,Pre-Order,Yes
+12654,06-08-2021,01-08-2021,Friday,Fudge,3,60,Whole,Pre-Order,Yes
+12655,06-08-2021,01-08-2021,Friday,Pumpkin,2,40,Whole,Pre-Order,Yes
+12656,06-08-2021,01-08-2021,Friday,Pumpkin,2,5,Slice,Pre-Order,Yes
+12657,06-08-2021,01-08-2021,Friday,Pumpkin,2,40,Whole,In-Store,Yes
+12658,06-08-2021,01-08-2021,Friday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12659,06-08-2021,01-08-2021,Friday,Apple,1,20,Whole,Pre-Order,Yes
+12660,09-07-2020,01-07-2020,Thursday,Cherry,2,40,Whole,In-Store,Yes
+12661,09-07-2020,01-07-2020,Thursday,Cherry,2,40,Whole,Pre-Order,Yes
+12662,09-07-2020,01-07-2020,Thursday,Cherry,5,12.5,Slice,In-Store,Yes
+12663,09-07-2020,01-07-2020,Thursday,Strawberry Rhubarb,1,20,Whole,Pre-Order,Yes
+12664,09-07-2020,01-07-2020,Thursday,Cherry,1,2.5,Slice,Pre-Order,Yes
+12665,09-07-2020,01-07-2020,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12666,09-07-2020,01-07-2020,Thursday,Cherry,2,40,Whole,In-Store,Yes
+12667,18-11-2020,01-11-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12668,18-11-2020,01-11-2020,Wednesday,Cherry,3,60,Whole,Pre-Order,Yes
+12669,18-11-2020,01-11-2020,Wednesday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12670,18-11-2020,01-11-2020,Wednesday,Cherry,3,7.5,Slice,Pre-Order,Yes
+12671,18-11-2020,01-11-2020,Wednesday,Apple,3,7.5,Slice,Pre-Order,Yes
+12672,18-11-2020,01-11-2020,Wednesday,Cherry,2,40,Whole,In-Store,Yes
+12673,18-11-2020,01-11-2020,Wednesday,Cherry,1,2.5,Slice,Pre-Order,Yes
+12674,18-11-2020,01-11-2020,Wednesday,Pumpkin,5,100,Whole,In-Store,Yes
+12675,18-11-2020,01-11-2020,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+12676,18-11-2020,01-11-2020,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+12677,18-11-2020,01-11-2020,Wednesday,Cherry,4,80,Whole,In-Store,Yes
+12678,18-11-2020,01-11-2020,Wednesday,Pumpkin,4,80,Whole,In-Store,Yes
+12679,18-11-2020,01-11-2020,Wednesday,Cherry,2,40,Whole,Pre-Order,Yes
+12680,04-02-2021,01-02-2021,Thursday,Apple,2,5,Slice,Pre-Order,Yes
+12681,04-02-2021,01-02-2021,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+12682,04-02-2021,01-02-2021,Thursday,Apple,5,12.5,Slice,In-Store,Yes
+12683,04-02-2021,01-02-2021,Thursday,Apple,5,12.5,Slice,Pre-Order,Yes
+12684,04-02-2021,01-02-2021,Thursday,Apple,2,40,Whole,Pre-Order,Yes
+12685,04-02-2021,01-02-2021,Thursday,Apple,1,20,Whole,In-Store,Yes
+12686,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12687,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12688,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12689,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,2,40,Whole,Pre-Order,Yes
+12690,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,5,12.5,Slice,Pre-Order,Yes
+12691,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12692,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,2,40,Whole,In-Store,Yes
+12693,04-02-2021,01-02-2021,Thursday,Strawberry Rhubarb,1,2.5,Slice,In-Store,Yes
+12694,26-09-2021,01-09-2021,Sunday,Apple,4,10,Slice,Pre-Order,Yes
+12695,26-09-2021,01-09-2021,Sunday,Apple,1,20,Whole,In-Store,Yes
+12696,01-09-2020,01-09-2020,Tuesday,Blueberry,3,7.5,Slice,In-Store,Yes
+12697,01-09-2020,01-09-2020,Tuesday,Apple,3,60,Whole,In-Store,Yes
+12698,01-09-2020,01-09-2020,Tuesday,Blueberry,4,80,Whole,Pre-Order,Yes
+12699,21-10-2020,01-10-2020,Wednesday,Pumpkin,4,10,Slice,In-Store,Yes
+12700,21-10-2020,01-10-2020,Wednesday,Pumpkin,1,20,Whole,Pre-Order,Yes
+12701,21-10-2020,01-10-2020,Wednesday,Pumpkin,1,2.5,Slice,Pre-Order,Yes
+12702,21-10-2020,01-10-2020,Wednesday,Pumpkin,4,80,Whole,In-Store,Yes
+12703,21-10-2020,01-10-2020,Wednesday,Pumpkin,4,80,Whole,In-Store,Yes
+12704,21-10-2020,01-10-2020,Wednesday,Pumpkin,4,10,Slice,In-Store,Yes
+12705,06-09-2021,01-09-2021,Monday,Pumpkin,3,7.5,Slice,In-Store,Yes
+12706,06-09-2021,01-09-2021,Monday,Fudge,2,40,Whole,Pre-Order,Yes
+12707,06-09-2021,01-09-2021,Monday,Fudge,3,7.5,Slice,Pre-Order,Yes
+12708,06-09-2021,01-09-2021,Monday,Fudge,5,100,Whole,In-Store,Yes
+12709,06-09-2021,01-09-2021,Monday,Fudge,2,40,Whole,Pre-Order,Yes
+12710,06-09-2021,01-09-2021,Monday,Apple,4,10,Slice,Pre-Order,Yes
+12711,06-09-2021,01-09-2021,Monday,Apple,3,60,Whole,Pre-Order,Yes
+12712,06-09-2021,01-09-2021,Monday,Fudge,4,10,Slice,Pre-Order,Yes
+12713,06-09-2021,01-09-2021,Monday,Fudge,1,2.5,Slice,In-Store,Yes
+12714,06-09-2021,01-09-2021,Monday,Fudge,3,60,Whole,Pre-Order,Yes
+12715,06-09-2021,01-09-2021,Monday,Fudge,4,80,Whole,Pre-Order,Yes
+12716,06-09-2021,01-09-2021,Monday,Fudge,3,60,Whole,In-Store,Yes
+12717,13-01-2020,01-01-2020,Monday,Apple,3,7.5,Slice,In-Store,Yes
+12718,13-01-2020,01-01-2020,Monday,Fudge,5,100,Whole,Pre-Order,Yes
+12719,13-01-2020,01-01-2020,Monday,Fudge,5,12.5,Slice,Pre-Order,Yes
+12720,13-01-2020,01-01-2020,Monday,Fudge,3,7.5,Slice,In-Store,Yes
+12721,13-01-2020,01-01-2020,Monday,Fudge,3,7.5,Slice,Pre-Order,Yes
+12722,13-01-2020,01-01-2020,Monday,Fudge,4,80,Whole,Pre-Order,Yes
+12723,13-01-2020,01-01-2020,Monday,Fudge,5,100,Whole,Pre-Order,Yes
+12724,13-01-2020,01-01-2020,Monday,Fudge,2,40,Whole,Pre-Order,Yes
+12725,13-01-2020,01-01-2020,Monday,Apple,4,80,Whole,Pre-Order,Yes
+12726,13-01-2020,01-01-2020,Monday,Fudge,2,5,Slice,Pre-Order,Yes
+12727,13-01-2020,01-01-2020,Monday,Blueberry,2,5,Slice,Pre-Order,Yes
+12728,13-01-2020,01-01-2020,Monday,Apple,5,12.5,Slice,In-Store,Yes
+12729,13-01-2020,01-01-2020,Monday,Blueberry,5,12.5,Slice,In-Store,Yes
+12730,13-01-2020,01-01-2020,Monday,Apple,5,12.5,Slice,In-Store,No
+12731,13-01-2020,01-01-2020,Monday,Strawberry Rhubarb,3,60,Whole,In-Store,Yes
+12732,13-01-2020,01-01-2020,Monday,Blueberry,3,7.5,Slice,Pre-Order,Yes
+12733,18-04-2020,01-04-2020,Saturday,Blueberry,4,10,Slice,In-Store,Yes
+12734,18-04-2020,01-04-2020,Saturday,Apple,3,7.5,Slice,Pre-Order,No
+12735,18-04-2020,01-04-2020,Saturday,Blueberry,1,20,Whole,Pre-Order,No
+12736,18-04-2020,01-04-2020,Saturday,Blueberry,4,10,Slice,Pre-Order,Yes
+12737,18-04-2020,01-04-2020,Saturday,Blueberry,3,60,Whole,Pre-Order,Yes
+12738,18-04-2020,01-04-2020,Saturday,Blueberry,1,20,Whole,Pre-Order,No
+12739,18-04-2020,01-04-2020,Saturday,Blueberry,5,12.5,Slice,In-Store,Yes
+12740,18-04-2020,01-04-2020,Saturday,Apple,1,2.5,Slice,In-Store,Yes
+12741,18-04-2020,01-04-2020,Saturday,Apple,4,80,Whole,In-Store,No
+12742,18-04-2020,01-04-2020,Saturday,Blueberry,5,100,Whole,Pre-Order,Yes
+12743,18-04-2020,01-04-2020,Saturday,Other,4,80,Whole,Pre-Order,Yes
+12744,18-04-2020,01-04-2020,Saturday,Strawberry Rhubarb,1,20,Whole,In-Store,Yes
+12745,18-04-2020,01-04-2020,Saturday,Strawberry Rhubarb,3,7.5,Slice,Pre-Order,No
+12746,18-04-2020,01-04-2020,Saturday,Strawberry Rhubarb,4,10,Slice,Pre-Order,No
+12747,18-04-2020,01-04-2020,Saturday,Other,5,100,Whole,In-Store,No
+12748,18-04-2020,01-04-2020,Saturday,Strawberry Rhubarb,5,100,Whole,Pre-Order,Yes
+12749,12-06-2021,01-06-2021,Saturday,Strawberry Rhubarb,5,100,Whole,In-Store,No
+12750,12-06-2021,01-06-2021,Saturday,Pumpkin,4,10,Slice,In-Store,No
+12751,12-06-2021,01-06-2021,Saturday,Pumpkin,3,7.5,Slice,Pre-Order,No
+12752,09-05-2020,01-05-2020,Saturday,Strawberry Rhubarb,2,5,Slice,In-Store,No
+12753,09-05-2020,01-05-2020,Saturday,Cherry,3,7.5,Slice,In-Store,Yes
+12754,09-05-2020,01-05-2020,Saturday,Cherry,4,80,Whole,In-Store,Yes
+12755,09-05-2020,01-05-2020,Saturday,Apple,5,100,Whole,Pre-Order,Yes
+12756,09-05-2020,01-05-2020,Saturday,Cherry,1,20,Whole,In-Store,Yes
+12757,09-05-2020,01-05-2020,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12758,09-05-2020,01-05-2020,Saturday,Apple,3,7.5,Slice,Pre-Order,Yes
+12759,09-05-2020,01-05-2020,Saturday,Apple,5,100,Whole,Pre-Order,Yes
+12760,09-05-2020,01-05-2020,Saturday,Apple,5,100,Whole,In-Store,Yes
+12761,09-05-2020,01-05-2020,Saturday,Apple,3,7.5,Slice,In-Store,Yes
+12762,09-05-2020,01-05-2020,Saturday,Apple,1,20,Whole,Pre-Order,Yes
+12763,27-03-2021,01-03-2021,Saturday,Cherry,1,20,Whole,In-Store,Yes
+12764,27-03-2021,01-03-2021,Saturday,Cherry,5,12.5,Slice,In-Store,Yes
+12765,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12766,27-03-2021,01-03-2021,Saturday,Cherry,3,7.5,Slice,Pre-Order,Yes
+12767,27-03-2021,01-03-2021,Saturday,Cherry,2,5,Slice,Pre-Order,Yes
+12768,27-03-2021,01-03-2021,Saturday,Cherry,2,40,Whole,In-Store,Yes
+12769,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,3,60,Whole,Pre-Order,Yes
+12770,27-03-2021,01-03-2021,Saturday,Cherry,1,20,Whole,In-Store,Yes
+12771,27-03-2021,01-03-2021,Saturday,Strawberry Rhubarb,4,10,Slice,In-Store,Yes
+12772,27-03-2021,01-03-2021,Saturday,Cherry,3,60,Whole,Pre-Order,Yes
+12773,27-03-2021,01-03-2021,Saturday,Cherry,5,100,Whole,In-Store,Yes
